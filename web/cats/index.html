@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cats · Pixel Sprites</title>
+<link rel="stylesheet" href="../site.css">
+</head>
+<body>
+<main>
+  <nav class="nav">
+    <a class="home" href="../">Pixel sprites</a>
+    <a class="tab" href="../cats/" aria-current="page">Cats</a>
+    <a class="tab" href="../dogs/">Dogs</a>
+    <a class="tab" href="../characters/">Characters</a>
+    <a class="tab" href="../buildings/">Buildings &amp; trees</a>
+    <a class="tab" href="../town/">Town</a>
+  </nav>
+  <h1>Cats</h1>
+  <p class="lede">Every animation from <code>web/cats/</code>, played by <code>catsprite.js</code>. Pick a cat, then an animation or pose.</p>
+  <div id="app"></div>
+</main>
+<script src="../catsprite.js"></script>
+<script src="../viewer.js"></script>
+<script>SpriteViewer.mount(document.getElementById("app"), { label: "cat" });</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+Top down player sprite sheet "Julia" by ArlanTR
+https://opengameart.org/content/top-down-player-sprite-sheet-julia
+License: CC0 1.0 (public domain) - http://creativecommons.org/publicdomain/zero/1.0/
+raw/ = original zip + extracted files. julia_walk_sheet.png = the four 64x64 walk strips
+cropped to 36x36 and stacked down/left/right/up. julia.pxl = that sheet as text.

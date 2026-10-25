@@ -1,0 +1,73 @@
+name tree3_winter_willow
+size 29 43
+scale 1
+layout
+winter
+palette
+K #1b2f28 outline (darkest)
+A #27232a
+B #1f352e
+C #253f35
+D #403331
+E #2d4c3f
+F #32513f
+G #3d5f52
+H #664e40
+I #476b5e
+J #83634c
+L #587b6d
+M #9e7656
+N #7ea184
+O #9eb7bf
+P #b2cad6
+Q #c5d8e6
+R #cddeeb
+S #deeaf5
+T #eaf2fb
+U #ffffff
+
+; src 698,250 29x43 on the 1x re-grid (png is exactly 4x)
+frame winter
+..............NN.............
+.............LPTIL...........
+............ITQTTTL..........
+..........LLPTTUUUTL.........
+..........LQOPPTTTTTTI.......
+.........LLQPTTUUUUTQL.......
+........FRQIQQTTTUUTTTI......
+........FLLIQRTTTUTUUTI......
+.......ELCCIOPPTTTTTTTOL.....
+.......CLCLFFOQTTOTTTOPTL....
+.......CCCCOLQQQQGPTQPTUTN...
+......GOOOINLRLLLLQTRTTUUTL..
+.....IOOTOIPPOOOCCQPTRTSTUSF.
+....EOOOOOOSUOCCLTTTTTTPPTRF.
+....EIOOQPPOTPTTTTTTUUTTPOOE.
+....ENOOPPTTTTTTUQTTUUUTTLO..
+..CICCCOTTRQTTUUTPTTTUTPPF...
+..CCGGCOPPTTTTTUTPPPTTTTTTN..
+.CGCCCCGPSORRTQQQGGOTTTTUUTN.
+.EGGGCGGOOORIIQQQQOOTUTRTUUTL
+CLICCCGGOEOREIGKLLPPQTTORTTTL
+.CICCCCFFINLICGEIOOTQSQOPSTTL
+GCICCICCFINCICECIIOTRTGCOOEF.
+CCICCICCCNNCCIIIILOOQOGCICGI.
+CCIKCCCABNTCCCGCCLCOPLTCCIII.
+.CCLCABANLSAAACCCCCCOLLCCNL..
+..CLFBGFCTE.AHAACCCECLLCCOTF.
+..CLF...CTE.AHHAACCLCQCCKNTF.
+...CIE.ELTC..AHAAAAKLQL.FOT..
+...ICC.FLG....AHAH.CLTF.FNG..
+...LIE.EIG....AHHH.CSTF.ETG..
+...FNE.FNG...AAHHH..TUF.ETG..
+...EE..FN....AHHMH..FTF..TG..
+...EE..FNI...AJMM...GL..FT...
+....E...GG...AHMH....N..FT...
+........GG..AHMMH....TI..L...
+........I...AHMHH....I.......
+........G..DHHMMH............
+...........AHHHMHH...........
+..........AHAHHMMMH..........
+.........AHAAAAHMHMM.........
+.........AHA...AHM.JM........
+.........AA.....DM...........

@@ -1,0 +1,11 @@
+{
+  "name": "ginger_tabby",
+  "photo": "input/cat.jpeg (original photo no longer in the project)",
+  "identity": "short-haired ginger-and-white tabby, normal build (same body as cat_ref)",
+  "palette": {"K": "#1e1410", "A": "#b8642b", "B": "#e8963f", "C": "#f6c27e",
+              "D": "#ec9a96", "E": "#f2b0a0", "F": "#e8a0b0", "G": "#f4f1ec"},
+  "extra": {"s": ["#a34e1d", "tabby stripe"], "W": ["#fbf6ee", "white muzzle, chest, front legs"]},
+  "shape": {"ears": 0, "fluff": 0},
+  "markings": {"white_muzzle": "W", "white_chest": "W", "white_legs": true,
+               "forehead_m": "s", "back_bars": "s"}
+}

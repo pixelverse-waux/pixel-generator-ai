@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Buildings & trees · Pixel Sprites</title>
+<link rel="stylesheet" href="../site.css">
+</head>
+<body>
+<main>
+  <nav class="nav">
+    <a class="home" href="../">Pixel sprites</a>
+    <a class="tab" href="../cats/">Cats</a>
+    <a class="tab" href="../dogs/">Dogs</a>
+    <a class="tab" href="../characters/">Characters</a>
+    <a class="tab" href="../buildings/" aria-current="page">Buildings &amp; trees</a>
+    <a class="tab" href="../town/">Town</a>
+  </nav>
+  <h1>Buildings &amp; trees</h1>
+  <p class="lede">Hand-drawn top-down buildings and trees from <code>web/buildings/</code>, on the same pixel grid as the people. Pick one, then walk a character around it: houses block their whole shape, trees only their trunk, and you can walk behind them.</p>
+  <div class="picker" id="picker" role="group" aria-label="Pick a building"></div>
+  <div class="list" id="poses"></div>
+  <div class="section">
+    <h2>Walk around it</h2>
+    <div class="field town" id="field" tabindex="0" aria-label="Walk the character with the arrow keys or WASD">
+      <canvas id="building" style="z-index: 1"></canvas>
+      <canvas id="walker"></canvas>
+      <div class="hint">Click here, then walk with the arrow keys or WASD</div>
+    </div>
+    <div class="pad" id="pad"></div>
+  </div>
+  <p class="now" id="now" aria-live="polite"></p>
+</main>
+<script src="../catsprite.js"></script>
+<script src="../viewer.js"></script>
+<script>
+(function () {
+  "use strict";
+  const KEYS = { ArrowDown: "down", ArrowLeft: "left", ArrowRight: "right", ArrowUp: "up", s: "down", a: "left", d: "right", w: "up" };
+  const STEP = { down: [0, 1], left: [-1, 0], right: [1, 0], up: [0, -1] };
+  const FEET = { x: 10, y: 27, w: 12, h: 4 };   // where a 32x32 trainer's feet are, at 1x
+  const $ = (id) => document.getElementById(id);
+  const field = $("field"), bCanvas = $("building"), wCanvas = $("walker"), now = $("now");
+
+  let building = null, pose = null, mask = null, scale = 2, bx = 0, by = 0;
+  let walker = null, prefix = null, player = null;
+  const s = { x: 0, y: 0, facing: "down", held: [], walking: false, last: null };
+  let loading = 0;
+
+  function button(label, onclick) {
+    const b = document.createElement("button");
+    b.textContent = label;
+    b.setAttribute("aria-pressed", "false");
+    b.onclick = onclick;
+    return b;
+  }
+  function pressOnly(container, label) {
+    container.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", String(b.textContent === label)));
+  }
+
+  // opaque pixels of the current pose at 1x: the character can't walk onto them
+  function buildMask() {
+    const { frameWidth: w, frameHeight: h } = building.meta;
+    const c = document.createElement("canvas");
+    c.width = w; c.height = h;
+    const ctx = c.getContext("2d");
+    building.drawFrame(ctx, building.poses[pose][0], 0, 0, 1);
+    // a footprint (trees) means only the bottom rows block; the crown is walked behind
+    const foot = building.meta.footprint;
+    if (foot) ctx.clearRect(0, 0, w, h - foot);
+    mask = { w, h, data: ctx.getImageData(0, 0, w, h).data };
+  }
+  function solid(px, py) {
+    const x = Math.floor((px - bx) / scale), y = Math.floor((py - by) / scale);
+    if (!mask || x < 0 || y < 0 || x >= mask.w || y >= mask.h) return false;
+    return mask.data[(y * mask.w + x) * 4 + 3] > 0;
+  }
+  function blocked(x, y) {
+    const x0 = x + FEET.x * scale, y0 = y + FEET.y * scale;
+    const x1 = x0 + FEET.w * scale - 1, y1 = y0 + FEET.h * scale - 1;
+    for (let py = y0; py <= y1; py += scale) for (let px = x0; px <= x1; px += scale) if (solid(px, py)) return true;
+    return solid(x1, y1);
+  }
+
+  function layout() {
+    if (!building) return;
+    const { frameWidth: w, frameHeight: h } = building.meta;
+    scale = field.clientWidth >= w * 2 + 48 ? 2 : 1;
+    building.attach(bCanvas, { scale }).pose(pose, 0);
+    bx = Math.round((field.clientWidth - w * scale) / 2);
+    by = 16 * scale;
+    bCanvas.style.transform = `translate(${bx}px, ${by}px)`;
+    field.style.height = (by + h * scale + 56 * scale) + "px";
+    if (walker) {
+      player = walker.attach(wCanvas, { scale });
+      player.still(`${prefix}/${s.facing}`, 0);
+      s.x = Math.round((field.clientWidth - wCanvas.width) / 2);
+      s.y = by + h * scale - FEET.y * scale + 6 * scale;   // standing just in front of the steps
+      s.walking = false;
+    }
+  }
+
+  function showPose(name) {
+    pose = name;
+    pressOnly($("poses"), name);
+    building.attach(bCanvas, { scale }).pose(name, 0);
+    buildMask();
+  }
+
+  function open(name) {
+    pressOnly($("picker"), name);
+    if (decodeURIComponent(location.hash.slice(1)) !== name) history.replaceState(null, "", `#${name}`);
+    const ticket = ++loading;
+    CatSprite.load(`${name}.json`).then((b) => {
+      if (ticket !== loading) return;
+      building = b;
+      const names = Object.keys(b.poses);
+      $("poses").replaceChildren(...names.map((n) => button(n, () => showPose(n))));
+      $("poses").hidden = names.length < 2;
+      pose = names[0];
+      layout();
+      showPose(pose);
+      const { frameWidth: w, frameHeight: h } = b.meta;
+      now.textContent = `${name}: ${w}×${h} px at 1×`;
+    }).catch((e) => { if (ticket === loading) now.textContent = e.message; });
+  }
+
+  function tick(t) {
+    const dt = s.last === null ? 0 : Math.min(50, t - s.last);
+    s.last = t;
+    const dir = s.held[s.held.length - 1];
+    if (player && dir) {
+      if (!s.walking || dir !== s.facing) player.play(`${prefix}/${dir}`);
+      s.walking = true;
+      s.facing = dir;
+      const v = 0.09 * dt * scale / 2 + 0.0001;
+      const nx = Math.max(0, Math.min(field.clientWidth - wCanvas.width, s.x + STEP[dir][0] * v));
+      const ny = Math.max(-FEET.y * scale, Math.min(field.clientHeight - wCanvas.height, s.y + STEP[dir][1] * v));
+      if (!blocked(nx, ny)) { s.x = nx; s.y = ny; }
+    } else if (player && s.walking) {
+      s.walking = false;
+      player.still(`${prefix}/${s.facing}`, 0);
+    }
+    wCanvas.style.transform = `translate(${Math.round(s.x)}px, ${Math.round(s.y)}px)`;
+    // feet above the object's base: the walker is behind it
+    const feetBottom = s.y + (FEET.y + FEET.h) * scale;
+    wCanvas.style.zIndex = building && feetBottom < by + building.meta.frameHeight * scale ? "0" : "2";
+    requestAnimationFrame(tick);
+  }
+
+  const hold = (d) => { if (!s.held.includes(d)) s.held.push(d); };
+  const release = (d) => { s.held = s.held.filter((x) => x !== d); };
+  field.addEventListener("keydown", (e) => {
+    const d = KEYS[e.key] || KEYS[e.key.toLowerCase()];
+    if (d) { e.preventDefault(); hold(d); }
+  });
+  field.addEventListener("keyup", (e) => { const d = KEYS[e.key] || KEYS[e.key.toLowerCase()]; if (d) release(d); });
+  field.addEventListener("blur", () => { s.held = []; });
+  $("pad").append(...["left", "up", "down", "right"].map((d) => {
+    const b = button({ left: "←", up: "↑", down: "↓", right: "→" }[d]);
+    b.setAttribute("aria-label", `Walk ${d}`);
+    b.addEventListener("pointerdown", (e) => { e.preventDefault(); hold(d); });
+    ["pointerup", "pointerleave", "pointercancel"].forEach((ev) => b.addEventListener(ev, () => release(d)));
+    return b;
+  }));
+  addEventListener("resize", layout);
+
+  // the walker is the first exported character
+  const people = fetch("../characters/index.json", { cache: "no-cache" }).then((r) => r.json())
+    .then((names) => names.length ? CatSprite.load(`../characters/${names[0]}.json`) : null)
+    .then((c) => { if (c) { walker = c; prefix = SpriteViewer.walkSet(c); if (!prefix) walker = null; } })
+    .catch(() => {});
+
+  fetch("index.json", { cache: "no-cache" }).then((r) => {
+    if (!r.ok) throw new Error(`index.json returned ${r.status}`);
+    return r.json();
+  }).then((names) => people.then(() => {
+    if (!names.length) { now.textContent = "No buildings exported yet: run python3 -m pixelkit.web"; return; }
+    $("picker").replaceChildren(...names.map((n) => button(n, () => open(n))));
+    const wanted = decodeURIComponent(location.hash.slice(1));
+    open(names.includes(wanted) ? wanted : names[0]);
+    addEventListener("hashchange", () => open(decodeURIComponent(location.hash.slice(1))));
+    requestAnimationFrame(tick);
+  })).catch(() => {
+    now.textContent = "Open this page through a web server, e.g. python3 -m http.server -d web";
+  });
+})();
+</script>
+</body>
+</html>

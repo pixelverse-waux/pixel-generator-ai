@@ -1,0 +1,101 @@
+name tree2_design_2_orange
+size 32 41
+scale 1
+layout
+design_2
+palette
+K #2b1908 outline (darkest)
+A #25220a
+B #391c0b
+C #392512
+D #263518
+E #243b1b
+F #26411b
+G #293e1e
+H #4a2f17
+I #2e4522
+J #53321b
+L #335523
+M #831f11
+N #633b21
+O #3e652b
+P #962316
+Q #4c592a
+R #6f462a
+S #43702c
+T #44742c
+U #4f6e30
+V #48772e
+W #774f30
+X #4d7d34
+Y #547733
+Z #b62d1e
+a #578737
+b #835c39
+c #7e633a
+d #6d8543
+e #906841
+f #6a943b
+g #76a743
+h #e35943
+i #88b648
+j #8abc48
+k #e36a47
+l #91c34a
+m #ce7c57
+n #9bbb59
+o #9ecc51
+p #ec7f50
+q #ee8f5b
+r #ee9f61
+s #d6a973
+t #badb61
+u #f2af6f
+v #eeb771
+w #eecd7e
+x #e0ee71
+y #eddf83
+
+; src 407,102 32x41 on the 1x re-grid (png is ~4.9x, blurred)
+frame design_2
+.................VTS............
+...............XVjiOO...........
+...........oooxxjjSiLO..........
+..........oxxxxxljjTFhkS........
+........ppytoxxxxlTTuhMU........
+.......uupPixxxxljTTSLL.........
+......QqqpMixlxfajjTSaXaa.......
+.......PPgjlxlophTTTwhPGG.......
+.......VxxxllllkPljTMhZPIII.....
+.......ggdkkOljSGTlTOMMOTSFGG...
+....aaLggrrhkXiTlxoxjSSTjiSMPI..
+...aVSxxjrhhPFVllxxxllShvOSOMG..
+...axxxllikMXIVlxxlxxoohuhVTEG..
+..XllllYTjSDFVlxxxljxxlFhhlTSFI.
+..VlllxxxLjjTVlxxllllxllSTVTEGI.
+.XVVlxxxxxllTilllxxllxflTjTEE...
+.VVjyvqjjxxlSVjxxxxxjjjjjFTEEG..
+.FjlrpPSjjxTFijxxxxqhZjjjFEFEEG.
+.FjnrfFVVTVTFillxiqqhZVjjFSSFEO.
+SlljIViTTFFFETjljSkZhMTVFVTSSFFG
+TllTjjjjLFFFGVVllTSSAijoETOZTTEE
+EVTTllTVvPGFEETVlTSKViillLZMTVE.
+.YFVjTFSPPGLEEEVVVKKTjiVlTEPESI.
+..FOTTFGIIID.GDVKKKOVjDVTSFEEG..
+...OSFFEEE....CCNKKOVVDTSEFEE...
+....GE........HRNKWKNA.SS..GG...
+..............bbWKEMR...........
+.............WssWKED............
+.............sssNB..............
+.............eseeB..............
+.............eeseB..............
+............NseeRB..............
+............JeseRB..............
+............beeeHBC.............
+...........RNeeeJRHJ............
+...........ebNeNKRWJH...........
+........csseNNsNKRRRW...........
+........secHHssNKKRJWJ..........
+........ce...ssN..W.NNH.........
+.............sRB................
+.............mC.................

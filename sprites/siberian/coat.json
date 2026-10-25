@@ -1,0 +1,12 @@
+{
+  "name": "siberian",
+  "photo": "input/siberian.webp",
+  "identity": "big fluffy golden long-hair: very long fur, cream ruff and muzzle, faint tabby, green eyes, ear tufts",
+  "palette": {"K": "#2b1a12", "A": "#a86a35", "B": "#dfa05a", "C": "#f2c787",
+              "D": "#e0948c", "E": "#eaa99a", "F": "#e8a0a0", "G": "#fff4e0"},
+  "extra": {"H": ["#f1dcb8", "cream ruff"], "w": ["#f8efe2", "cream muzzle"],
+            "d": ["#8f5a2e", "faint tabby stripe"], "Y": ["#9fb04a", "green eye"]},
+  "shape": {"ears": 1, "fluff": 2},
+  "markings": {"white_muzzle": "w", "white_chest": "H", "white_legs": false,
+               "forehead_m": "d", "back_bars": "d", "eyes": "Y"}
+}

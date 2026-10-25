@@ -1,0 +1,46 @@
+name tree3_winter_sapling
+size 21 26
+scale 1
+layout
+winter
+palette
+K #1b2f28 outline (darkest)
+A #3b2e32
+B #2c4b3a
+C #654640
+D #45685c
+E #976b44
+F #719380
+G #b2cad6
+H #deeaf5
+I #eff5fc
+J #ffffff
+
+; src 349,267 21x26 on the 1x re-grid (png is exactly 4x)
+frame winter
+........GDDDKK.......
+......GGIJIHHKK......
+.....GIJIJJJIBDD.....
+....DHIJJJJIIIFFG....
+...GHFIJJJJJIFHIIK...
+...GIIIIJJHIBIJIIGK..
+..DHIIFJJIJJJIJJIKK..
+..DIIIIIJIHIJJIIHGK..
+..GFIFJJJJIIIIFIFKKK.
+..KKKKFJFFFFIFFFFFGKD
+.GFIGFFFFKFFFFHIJJBDD
+GIIBIIKBKIJIFFJJJHKKK
+GFIIIIFKKJJJJIBJJIIDK
+.FFIJFFKHIIJJIIHBIIDK
+.KFHHHFFHFHIJFFHKFFG.
+..KDKKKFFFFFFFFKKKBK.
+...KKDKKGKGKFKGGDKK..
+....HIKKAAAAAKKK.....
+........ACACA........
+.........CCCA........
+.........CECA........
+........ACECA........
+.......ACEECAAA...IH.
+.....CCCAECAACCA.....
+......AAEEA..AA......
+........CC...........

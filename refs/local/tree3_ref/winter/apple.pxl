@@ -1,0 +1,89 @@
+name tree3_winter_apple
+size 30 40
+scale 1
+layout
+winter
+palette
+K #1b2f28 outline (darkest)
+A #3d241a
+B #20372f
+C #581e19
+D #4d291c
+E #253f35
+F #483327
+G #632120
+H #2a4737
+I #722124
+J #32513f
+L #5b3d31
+M #3d5f52
+N #664e40
+O #784d3f
+P #45685c
+Q #4b6f63
+R #c43239
+S #587b6d
+T #976b44
+U #b66138
+V #677a7c
+W #d35152
+X #a97a53
+Y #719380
+Z #e26a70
+a #cca273
+b #96b3a5
+c #eabf62
+d #9eb7bf
+e #b2cad6
+f #f3c0b4
+g #c3d6e5
+h #cddeeb
+i #d7e4f1
+j #deeaf5
+k #edf4fb
+l #f0f6fc
+m #f5f9fd
+n #ffffff
+
+; src 135,253 30x40 on the 1x re-grid (png is exactly 4x)
+frame winter
+............meeee.............
+.......ggg.klllkeb.g..........
+......dnmlVlnllllQZWGb........
+......encWWInnlllQZWRG........
+.....dilWfWGGnllllWWGCYYYB....
+.....kllWWWGGnnlllVRGJJYYE....
+....kkllmRIGlnnlllkMMdJJJH....
+..bhlnnnnkkllnlmUklleddJJHE...
+.ellllnnnnllnnlffIGllddeQHYg..
+.eklllnnnnllnkkWWRGlldQfWGSH..
+.egnmZIlnnnnnkkRRIGillJWWGYHE.
+.YglWfRGknnnkkkkJMhjnnSWICHH..
+enngRRRCbnnnYQkkkbhjnjHEHHHHH.
+enngMRIHiilWfRGklhhhdkgHHHHQH.
+ggggPPPiiiiWWRGkjjhMMgggHHHSH.
+BPPPPPdeiiiRRGDgjjhhggggePJbbb
+.BBBQgbbbbbjMJJgjhYhSSSSQQJPPB
+..HghhhbbWGjjjbgddhWWCSSQQEGKK
+.YlllkkkZfRGjjghddbZfRGJJJRGGK
+.YbllkkkWWRGhJgdbbMWWRGJJBRGG.
+.YggggQPRRGCMMMHYMMRRGFJJBKG..
+.YYYggPPMMMMMMMQSMMMMMMJJBB...
+..BBQQQHbdbbMMMRGCMMMggQJ.....
+....EEEBdnbbMHMfWIGMMMHHH.....
+........HJbBKCBRWGGEMMHKK.....
+......kl.EHENDCGRI..BBB.......
+............NNDAD.............
+............NNNLD.............
+............NaTLD.............
+............XaTLD.............
+............XaTTDA............
+............TaTTLA............
+...........XTTTTLA............
+...........XaTTTLA............
+..........TaTTLTLAA...........
+.........faOLTLLLLLA..........
+.......XXDDDDTaLDALLA.........
+.......OO....TaL..DLLA........
+..............fA..............
+..............X...............

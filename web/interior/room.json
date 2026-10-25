@@ -1,0 +1,1 @@
+{"name":"room","image":"room.png","frameWidth":16,"frameHeight":16,"frames":[[0,0],[16,0],[32,0],[48,0],[64,0],[80,0],[96,0]],"animations":{},"poses":{"floor_a":[0],"floor_b":[1],"wall_top":[2],"wall":[3],"wall_base":[4],"wall_side":[5],"mat":[6]}}

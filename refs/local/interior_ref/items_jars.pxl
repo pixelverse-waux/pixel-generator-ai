@@ -1,0 +1,345 @@
+name items_jars
+size 8 14
+scale 1
+layout
+jar_0 jar_1 jar_2 jar_3 jar_4 jar_5 jar_6
+flask_0 flask_1 flask_2 flask_3 flask_4
+label_jar_0 label_jar_1 label_jar_2 label_jar_3 label_jar_4
+palette
+K #151515 outline (darkest)
+A #20201f
+B #371f1b
+C #28381a
+D #22223e
+E #2c2c2c
+F #5c1b1b
+G #296d19
+H #393d3f
+I #23781c
+J #5d392e
+L #773d15
+M #27851f
+N #663931
+O #474448
+P #4b692f
+Q #6a4d35
+R #3f3f74
+S #85571b
+T #883a3a
+U #725239
+V #7c533e
+W #ac3232
+X #5e5e5e
+Y #9e5f20
+Z #8f563b
+a #544f8e
+b #60676c
+c #6b8454
+d #927b43
+e #c09800
+f #df7126
+g #bd5e5e
+h #db9808
+i #a57762
+j #83827c
+k #847e87
+l #808585
+m #8b8f8f
+n #ff6b6b
+o #aaa3e9
+p #b5ff96
+q #e8d690
+r #beffaf
+s #ffeb9e
+t #ffe0b7
+u #fbe9dc
+v #ffffff
+
+; src 312,514 6x9
+frame jar_0
+........
+........
+........
+........
+........
+..EEEE..
+.EmmllE.
+.EllmlE.
+.CEEEEC.
+.CPPPPC.
+.CuuuuC.
+.CuuuuC.
+.CPPPPC.
+..CCCC..
+
+; src 319,514 6x9
+frame jar_1
+........
+........
+........
+........
+........
+..EEEE..
+.EmmllE.
+.EllmlE.
+.FEEEEF.
+.FWWWWF.
+.FuuuuF.
+.FuuuuF.
+.FWWWWF.
+..FFFF..
+
+; src 326,514 6x9
+frame jar_2
+........
+........
+........
+........
+........
+..EEEE..
+.EmmllE.
+.EllmlE.
+.LEEEEL.
+.LffffL.
+.LuuuuL.
+.LuuuuL.
+.LffffL.
+..LLLL..
+
+; src 333,514 6x9
+frame jar_3
+........
+........
+........
+........
+........
+..EEEE..
+.EmmllE.
+.EllmlE.
+.BEEEEB.
+.BNNNNB.
+.BuuuuB.
+.BuuuuB.
+.BNNNNB.
+..BBBB..
+
+; src 342,514 6x9
+frame jar_4
+........
+........
+........
+........
+........
+..EEEE..
+.EmmllE.
+.EllmlE.
+.DEEEED.
+.DRRRRD.
+.DuuuuD.
+.DuuuuD.
+.DRRRRD.
+..DDDD..
+
+; src 351,514 6x9
+frame jar_5
+........
+........
+........
+........
+........
+..EEEE..
+.EmmllE.
+.EllmlE.
+.OEEEEO.
+.OkkkkO.
+.OuuuuO.
+.OuuuuO.
+.OkkkkO.
+..OOOO..
+
+; src 359,514 6x9
+frame jar_6
+........
+........
+........
+........
+........
+..EEEE..
+.EmmllE.
+.EllmlE.
+.TEEEET.
+.TnnnnT.
+.TuuuuT.
+.TuuuuT.
+.TnnnnT.
+..TTTT..
+
+; src 370,512 7x11
+frame flask_0
+........
+........
+........
+..aaa...
+.aoooa..
+aoWWWoa.
+aaWWWaa.
+agaaaWa.
+aggWWWa.
+aggWgWa.
+agWWWWa.
+agWWWWa.
+.aWWWa..
+..aaa...
+
+; src 378,512 7x11
+frame flask_1
+........
+........
+........
+..aaa...
+.aoooa..
+aovvvoa.
+aavvvaa.
+avaaava.
+avvvvva.
+avvvvva.
+avvvvva.
+avvvvva.
+.avvva..
+..aaa...
+
+; src 386,512 7x11
+frame flask_2
+........
+........
+........
+..aaa...
+.aoooa..
+aoZZZoa.
+aaZZZaa.
+aiaaaZa.
+aiiZZZa.
+aiiZiZa.
+aiZZZZa.
+aiZZZZa.
+.aZZZa..
+..aaa...
+
+; src 395,512 7x11
+frame flask_3
+........
+........
+........
+..aaa...
+.aoooa..
+aoKKKoa.
+aaKKKaa.
+aXaaaKa.
+aXXKKKa.
+aXXKXKa.
+aXKKKKa.
+aXKKKKa.
+.aKKKa..
+..aaa...
+
+; src 405,512 7x11
+frame flask_4
+........
+........
+........
+..aaa...
+.aoooa..
+aoPPPoa.
+aaPPPaa.
+acaaaPa.
+accPPPa.
+accPcPa.
+acPPPPa.
+acPPPPa.
+.aPPPa..
+..aaa...
+
+; src 311,526 8x14
+frame label_jar_0
+..JJJJ..
+.JVUUQJ.
+JVUUUUQJ
+JVVUUQVJ
+HJVVVVJH
+HbJJJJbH
+qbbbbbbq
+qsbbbbsq
+qssssssq
+qsAsAssq
+HssssssH
+HbssssbH
+.HbbbbH.
+..HHHH..
+
+; src 322,526 8x14
+frame label_jar_1
+..JJJJ..
+.JVUUQJ.
+JVUUUUQJ
+JVVUUQVJ
+dJVVVVJd
+dhJJJJhd
+jhhhhhhj
+jthhhhtj
+jttttttj
+jtAeeAtj
+dttttttd
+dhtttthd
+.dhhhhd.
+..dddd..
+
+; src 333,526 8x14
+frame label_jar_2
+..JJJJ..
+.JVUUQJ.
+JVUUUUQJ
+JVVUUQVJ
+bJVVVVJb
+bhJJJJhb
+bhhhhhhb
+bthhhhtb
+bttttttb
+bttttttb
+bttttttb
+bhtttthb
+.bhhhhb.
+..bbbb..
+
+; src 344,526 8x14
+frame label_jar_3
+..JJJJ..
+.JVUUQJ.
+JVUUUUQJ
+JVVUUQVJ
+IJVVVVJI
+IMJJJJMI
+jMMMMMMj
+jrMMMMrj
+jrrrrrrj
+jrMGMGrj
+IrrrrrrI
+IMrrrrMI
+.IMMMMI.
+..IIII..
+
+; src 355,526 8x14
+frame label_jar_4
+..JJJJ..
+.JVUUQJ.
+JVUUUUQJ
+JVVUUQVJ
+jJVVVVJj
+jYJJJJYj
+jYYYYYYj
+jYYYYYYj
+jppppppj
+jpYSYSpj
+jppppppj
+jYYYYYYj
+.jYYYYj.
+..jjjj..

@@ -1,0 +1,91 @@
+name tree3_spring_apple
+size 30 40
+scale 1
+layout
+spring
+palette
+K #3d241a outline (darkest)
+A #581e19
+B #4d291c
+C #254926
+D #483327
+E #632120
+F #2b542a
+G #722124
+H #356430
+I #5b3d31
+J #3a6e35
+L #417734
+M #664e40
+N #784d3f
+O #4f883a
+P #c43239
+Q #5d9b3e
+R #63a043
+S #976b44
+T #b66138
+U #6eac48
+V #72af49
+W #a97a53
+X #d35152
+Y #7db649
+Z #86be51
+a #8ec456
+b #e26a70
+c #a1d15f
+d #cca273
+e #aad664
+f #b5dd6c
+g #eabf62
+h #bee272
+i #ee7eb0
+j #cbe97d
+k #d5ee86
+l #d9f092
+m #f3c0b4
+n #dff399
+o #f1fcb8
+p #fdf2f8
+
+; src 135,31 30x40 on the 1x re-grid (png is exactly 4x)
+frame spring
+............ncccc.............
+.......eee.klilkcZ.e..........
+......aonlVlolpliRbXEZ........
+......cogXXGoolllpbXPE........
+.....ahlXmXEEollllXXEAYYYF....
+.....kllXXXEEoolllVPELLYYH....
+....kkllnPGEloolllkOOaLLLJ....
+..ZflioookkllolnTkilcaaLLJH...
+.cllllpoiolloolmmGEpliacRJYe..
+.cklllooopliokkXXPEllapmXEUJ..
+.ceonbGloooopkiPPGEhllLXXEYJH.
+.YelXmPEkoookkkpLifjooUXGAJJ..
+cooePPPAZoooYRkkkZpjijJHJJJJJ.
+cooeOPGJhhlXmPEklfffapeJJJJRJ.
+eeeeQQQhhhhXXPEkjjfOOeeeJJJUJ.
+FQQiQQachhhPPEBeijffeeeecQLZZZ
+.FFFpeiZZZZjOLLejpYfUUUURRLQQF
+..JefffpZXEjjjZeaafXXAUURRHECC
+.YlllkkkbmPEjjefaaZbmPELLLPEEC
+.YillkkkXXPEfLeiZZOXXPELLFPEE.
+.YepeiRQPPEAOOOJpOiPPEDLLFCE..
+.YYYeepQiOOOOOORUOOpOiOLLFF...
+..FFRRRJZpZiOOOPEAOOOepRL.....
+....HHHFaoZZpJOmXGEOOOJJJ.....
+........JLZFCAFPXEEHOOJCC.....
+......ko.HJHMBAEPG..FFF.......
+............MMBKB.............
+............MMMIB.............
+............MdSIB.............
+............WdSIB.............
+............WdSSBK............
+............SdSSIK............
+...........WSSSSIK............
+...........WdSSSIK............
+..........SdSSISIKK...........
+.........mdNISIIIIIK..........
+.......WWBBBBSdIBKIIK.........
+.......NN....SdI..BIIK........
+..............mK..............
+..............W...............

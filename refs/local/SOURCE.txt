@@ -1,0 +1,30 @@
+The user's own reference images. Private study material only: never copy pixels from these
+into new sprites, and don't publish them.
+cat_ref.png          -> cat_ref/*.pxl, one file per action (see cat_ref/INDEX.md).
+                        THE authority on how cats look, move and behave.
+dog_ref.png          -> dog_ref/*.pxl, one file per action (see dog_ref/INDEX.md).
+                        THE authority on how dogs look, move and behave.
+character_male_ref.png   -> character_male_ref/*.pxl   (Brendan, RSE; see its INDEX.md)
+character_female_ref.png -> character_female_ref/*.pxl (May, RSE; see its INDEX.md)
+                        THE authority on how people look and walk.
+wall_floor_ref.png       -> wall_floor_ref/*.pxl (12 wall styles x top/mid/skirting/wainscot,
+                            4 floor sets; 32x32 tiles; see its INDEX.md)
+interior_ref.png         -> interior_ref/*.pxl   (all 297 objects: furniture in dark + light wood,
+                            beds, sofas, rugs, curtains, bathroom, props; see its INDEX.md)
+house_ref.png            -> house_ref/*.pxl      (8 buildings, summer + winter, one file each)
+tree_ref.png             -> tree_ref/*.pxl       (birch, oak, pine at 1x; the png is 7x on a
+                            baked-in checkerboard; see its INDEX.md)
+tree3_ref.png            -> tree3_ref/<season>/<species>.pxl (15 species x spring/summer/
+                            autumn/winter; 1x rebuilt from a 4x screenshot)
+tree4_ref.png            -> same sheet as tree3 at ~4.9x; not split (see tree3_ref/INDEX.md)
+tree2_ref.png            -> tree2_ref/<row>/<species>.pxl (3 designs, dead, dead_winter;
+                            1x rebuilt from a blurry ~4.9x screenshot)
+plant_ref/               <- Flower_Plant_Pack (commercial licence: do NOT redistribute;
+                            README/LICENSE/palette/overview copied, every sprite as .pxl,
+                            sway/ = one 12-frame wind loop per type; see its INDEX.md)
+ground_ref.png           -> ground_ref/*.pxl (ONLY the fence + ground: cobble, grass, dirt,
+                            sand; the house, rocks, trees etc. on that sheet are not used)
+ground_details_ref.png   -> ground_details_ref/*.pxl (pebble + leaf decals)
+                        THE authority on walls, floors, furniture, buildings, trees, plants,
+                        outdoor ground and fences.
+                        Split losslessly: every frame has a '; src x,y wxh' comment.

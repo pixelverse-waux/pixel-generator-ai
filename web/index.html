@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pixel Sprites</title>
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<main>
+  <nav class="nav">
+    <a class="home" href="./">Pixel sprites</a>
+    <a class="tab" href="cats/">Cats</a>
+    <a class="tab" href="dogs/">Dogs</a>
+    <a class="tab" href="characters/">Characters</a>
+    <a class="tab" href="buildings/">Buildings &amp; trees</a>
+    <a class="tab" href="town/">Town</a>
+  </nav>
+  <h1>Pixel sprites</h1>
+  <p class="lede">Hand-drawn sprites (32×32 cats and people, 48×48 dogs, top-down buildings), exported by <code>python3 -m pixelkit.web</code> and played by <code>catsprite.js</code>.</p>
+  <div class="cards">
+    <a class="card" href="cats/"><canvas data-dir="cats"></canvas><div><strong>Cats</strong><span id="cats-count">Walk cycles, idles, sits, meows and more</span></div></a>
+    <a class="card" href="dogs/"><canvas data-dir="dogs"></canvas><div><strong>Dogs</strong><span id="dogs-count">Walks, sits, pants, lying down and sleeping</span></div></a>
+    <a class="card" href="characters/"><canvas data-dir="characters"></canvas><div><strong>Characters</strong><span id="characters-count">People walking in four directions</span></div></a>
+    <a class="card" href="town/"><canvas data-dir="tiles"></canvas><div><strong>Town</strong><span id="tiles-count">A demo ground to walk around: grass, paths, fences, the house and trees</span></div></a>
+    <a class="card" href="buildings/"><canvas data-dir="buildings"></canvas><div><strong>Buildings &amp; trees</strong><span id="buildings-count">Top-down houses and trees to walk around</span></div></a>
+  </div>
+  <p class="lede" id="note" hidden></p>
+</main>
+<script src="catsprite.js"></script>
+<script src="viewer.js"></script>
+<script>
+  // each card plays the first sprite of its folder walking toward the viewer
+  document.querySelectorAll("canvas[data-dir]").forEach((canvas) => {
+    const dir = canvas.dataset.dir;
+    fetch(`${dir}/index.json`, { cache: "no-cache" }).then((r) => r.json()).then((names) => {
+      document.getElementById(`${dir}-count`).textContent = `${names.length} ${{ cats: "cat", dogs: "dog", characters: "character", buildings: "object" }[dir]}${names.length === 1 ? "" : "s"}: ${names.join(", ")}`;
+      if (!names.length) return;
+      return CatSprite.load(`${dir}/${names[0]}.json`).then((sprite) => {
+        if (dir === "tiles") { document.getElementById("tiles-count").textContent = "A demo ground to walk around: grass, paths, fences, the house and trees"; return CatSprite.load("tiles/fence.json").then((f) => f.attach(canvas, { scale: 4 }).pose("fence_h", 0)); }
+        if (dir === "buildings") return sprite.attach(canvas, { scale: 1 }).pose(Object.keys(sprite.poses)[0], 0);
+        const prefix = SpriteViewer.walkSet(sprite);
+        sprite.attach(canvas, { scale: sprite.meta.frameWidth >= 64 ? 2 : 3 }).play(prefix ? `${prefix}/down` : Object.keys(sprite.animations)[0]);
+      });
+    }).catch(() => {
+      const note = document.getElementById("note");
+      note.hidden = false;
+      note.textContent = "Open this page through a web server, e.g. python3 -m http.server -d web";
+    });
+  });
+</script>
+</body>
+</html>

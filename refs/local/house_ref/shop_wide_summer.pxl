@@ -1,0 +1,248 @@
+name shop_wide_summer
+size 222 153
+scale 1
+layout
+summer
+palette
+K #311d0e outline (darkest)
+A #331e0e
+B #1a4330
+C #512f16
+D #1c4832
+E #573318
+F #1e4e37
+G #50391c
+H #5a3419
+I #5b3519
+J #1f513e
+L #61391a
+M #225a40
+N #4b3f33
+O #683c1c
+P #6a3d1d
+Q #6c3f1d
+R #6e401e
+S #256246
+T #6f401e
+U #704120
+V #266448
+W #286849
+X #774520
+Y #784521
+Z #296b4b
+a #844c24
+b #615242
+c #2d7653
+d #884e26
+e #5f564b
+f #2f7c56
+g #2e795c
+h #915428
+i #945529
+j #48705d
+k #338660
+l #9c5a2b
+m #9e5b2b
+n #6d6555
+o #a45f2d
+p #a55f2d
+q #a6602e
+r #916b38
+s #936c39
+t #37946e
+u #aa622e
+v #7e6b55
+w #ae642f
+x #b56932
+y #b66a32
+z #b96b33
+0 #7f7564
+1 #c06f34
+2 #539878
+3 #c17035
+4 #c37135
+5 #c47136
+6 #c87437
+7 #4882ac
+8 #cb7538
+9 #cf7839
+! #8e846f
+$ #948675
+% #d97d3b
+& #948b77
+* #d28b39
++ #c08d4a
+- #c38f4b
+/ #6ba78b
+: #c8924d
+< #e6843e
+= #e6853f
+> #9c9180
+? #bda451
+@ #5498c9
+^ #ee8a41
+_ #7183c8
+~ #e29e3f
+| #58a0d3
+{ #ff9345
+} #ecac47
+[ #efb14a
+] #67bbf7
+( #ffba61
+) #8aa1f6
+
+; src 989,241 222x153
+frame summer
+.XXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XXXXX.
+X%%%%%X<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<X%%%%%X
+X%%%%%X<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<X%%%%%X
+X%%%%%X<<<<<<<^^^^^<<<<<<^^^^<<<<<<<<<<<<<<<^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^^^<<<<<<<<<<<<^^^^^^^^<<<<<<<<<<<<<<<<<<^^^^^^^^<<<<<<<<<<<<^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^^^^^<<<<<<<<<<<<<<<^^^^<<<<<<^^^^^<<<<<<<X%%%%%X
+X%%%%%X<<^^^^^<<<<<<<<<<<<<<<^^^^<<<<<<<^^^^<<<<<<<<<<<<<^^^^^^^^<<<<<<<<<<<^^^<<<<<<<^^^^^^^^<<<<<<<<<<<<^^<<^^^^^<<<<<<<<<<<<<^^^^^^^^<<<<<<<^^^<<<<<<<<<<<^^^^^^^^<<<<<<<<<<<<<^^^^<<<<<<<^^^^<<<<<<<<<<<<<<<^^^^^<<X%%%%%X
+X%%8%%X<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^^^^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^^^^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<X%%8%%X
+X%%8%%X%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%X%%8%%X
+X%8%%%X%%%%%%%%%%%%%%%%%%8888888%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8888888%%%%%%%%%%%%%%%%%%X%%%8%X
+X%%%%%X%%%888%%%%%%%%%%%%%%%%%%%%%%%%%%%%888888%%%%%%%%%%%%%%%%%%%%%%%%%%8888888888%%%%%%%%8888888%%%%%%%%%%%%%%%%%%%%%%%%%%8888888%%%%%%%%8888888888%%%%%%%%%%%%%%%%%%%%%%%%%%888888%%%%%%%%%%%%%%%%%%%%%%%%%%%%888%%%X%%%%%X
+X%%%%%X%%%%%%888%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8888888%%%%%%%%%%888888888%%%%%%%%%%%%%%%%%%%%%%%%%88888888%%%%%%%%%%88888888%%%%%%%%%%%%%%%%%%%%%%%%%888888888%%%%%%%%%%8888888%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%888%%%%%%X%%%%%X
+X%%%%%X%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%X%%%%%X
+X%%%%%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%%%%%X
+X%%%%%XVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX%%%%%X
+X%%%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%%%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZ//////////ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ//////////ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%%8%%XVkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%%%%XVkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkVX%%%%%X
+X%%%%%XVkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkVX%%%%%X
+X%%%%%XVkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZ//////////ZkkkkkkkkkkZkkkkkkkkkkZkkkMMkMJkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkVX%%%%%X
+X%%%%%XVZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZZZkkgkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkMZZMZZMkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkgkkZZZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZVX%%%%%X
+X%%%%%XVVVVVVVVVVZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZVVVVVVVVVVZkkgkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZ/kkkkkkkkkZMMZkkZffZMDkkkkkkkkk/ZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkgkkZVVVVVVVVVVZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZVVVVVVVVVVX%%%%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkDZZkkkZfffZZMkkkkkkkk/ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkMMZkkkkkZfffffZMMkkkkkk/ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkgkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkMZZkkkgkkZffgfffZZMkkkkk/ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkgkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkMMZkkkkgkkkZfffgffffZMMkkk/ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkgkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ/kkkkkkkkkZkkgkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkMZZkkkggkkkkZffffggfffZZMkk/ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkgkkZ/kkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZ//////////ZkkgkkkkkkkZ//////////ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kMMZkkkkgkkkkkkZffffffgffffZMM/ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ//////////ZkkkkkkkgkkZ//////////ZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZZZZZZZZZZZZkkgkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZ/MZZkkkkgkkkkkkkZfffffffgffffZZjZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkgkkZZZZZZZZZZZZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZVVVVVVVVVVZkkgkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkDjZkkkkggkkkkkkkkZffffffffggffffZDMkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkgkkZVVVVVVVVVVZkkkkkkkkkVX%%8%%X
+X%%8%%XVkkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkMZZkkkkgkkkkkkkkkkZffffffffffgffffZZMkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkkMMZkkkkkkkkkkkkkkkkkZfffffffffffffffffZMMkkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkgkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkkkMZZkkkkkkkkkkkkkkkkZZZZZffffffffffffffffZZMkkgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkgkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgkMMZkZkkkkkkkkkkkkkkkZkkZffZfffffffffffffffZfZMMgkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkgMZZkkZkkkkkkkkkkkkkZZkkkZfffZZfffffffffffffZffZZJkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkMJZkkkkZkkkkkkkkkkkkZkkkkkZfffffZffffffffffffZffffZMMZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZZDMZZkkgkkZkkkkkkkkkkZZkkkkkkZffffffZZffffffffffZffgffZZDZZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZVVVVVVVVVVZ/kkkkkkkkkZVVVVVVVVVBZZkkggkkkZkkkkkkkkkZkkkkkkkkZffffffffZfffffffffZfffggkkZBBVVVVVVVVZ/kkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%8%%%XVkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkMZZkkgkkkkkZkkkkkkkZZkkkkkkkkkZfffffffffZZfffffffZfffffgkkZZMkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%%8%X
+X%%%%%XVgkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkMMZkkggkkkkkkZkkkkkkZ/ZkkkkkkkkkZfffffffffZ/ZffffffZffffffggkkZMMkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkgVX%%%%%X
+X%%%%%XVgkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkMZZkkgkkkkkkkkZkkkkZZ/kZkkkkkkkkkZfffffffffZ/fZZffffZffffffffgkkZZMkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkgVX%%%%%X
+X%%%%%XVgkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkMMZkkggkkkkkkkkkZkkkZ//kkZkkkkkkkkkZfffffffffZ/fffZfffZfffffffffggkkZMMkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkgVX%%%%%X
+X%%%%%XVgkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkMZZkkgkkkkkkkkkkkZkZZ/kkkkZkkkkkkkkkZfffffffffZ/ffffZZfZfffffffffffgkkZZMkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkgVX%%%%%X
+X%%%%%XVgkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ//////////ZkMZkkggkkkkkkkkkkkkZZ//kkkkkkkkkkkkkkkZffffffffff/ffffffZZffffffffffffggffZMZ//////////ZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkgVX%%%%%X
+X%%8%%XVgkkkkkkkkZZZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZDMZkkgkkkkkkkkkkkkkZZ/kkkkkkkkkkkkkkkZZZZZffffffff/fffffffZZfffffffffffffgffZDDZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZ/kkkkkkkkkZZZZZZZZZZZZkkkkkkkkgVX%%8%%X
+X%%8%%XVgkkkkkkkkZVVVVVVVVVVZ/kkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZVVVVVVVVVBZZkkkkkkkkkkkkkkkkZ//kkkkkkkkZkkkkkkZkkZffZffffffZ/fffffffffZffffffffffffffffZZBVVVVVVVVZkkkkkkkkkkZVVVVVVVVVVZ/kkkkkkkkkZVVVVVVVVVVZkkkkkkkkgVX%%8%%X
+X%%8%%XVgkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkMMkkkkMMZkkkkkkkkkkkkkkkkZZ/kkkkkkkkkkZkkkkZZkkkZfffZZffffZ/ffffffffffZZffffffffffffffffZMMkkkkMMZkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkgVX%%8%%X
+X%%8%%XVgkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZMSSMkkMZZZkkkkkkkkkkkkkkkZ//kkkkkkkkkkkZkkkZkkkkkZfffffZfffZ/ffffffffffffZfffffffffffffffZZZMkkMMMDkkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkgVX%%8%%X
+X%%8%%XVkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkDSZZSMMZkkZkkkkkkkkkkkkkZZ/kkkkkkkkkkkkkZkZZkkkkkkZffffffZZfZ/fffffffffffffZZfffffffffffffZ/fZMMMZZDMkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%8%%XVgkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkFZ22ZZZkkkZkkkkkkkkkkkkZ//kkkkkkkkkkkkkkZZkkkkkkkkZffffffffZZ/fffffffffffffffZffffffffffffZ/ffZZZ22ZMkkkkkkkkkZkkkkkkkkkkZ/kkkkkkkkkZkkkkkkkkkkZkkkkkkkkgVX%%8%%X
+X%%8%%XVkkkkkkkkkZkkkkkkkkkkZ//////////ZkkkkkkkkkkZkkkkkkkkkkFZ22ZkkkkkZkkkkkkkkkkZZ/kkkkkkkkkkkkkkkZZkkkkkkkkkZfffffffffZZ/fffffffffffffffZZffffffffffZ/ffffZ22ZMkkkkkkkkkZkkkkkkkkkkZ//////////ZkkkkkkkkkkZkkkkkkkkkVX%%8%%X
+X%%%%%XQXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXEZ22ZkkkkkkkkkkkkkkkZZ/kkkkkkkkkkkkkkkZkkkkkkkkkkkZfffffffffffZ//ffffffffffffffZZffffffffff/ffffZ22ZtXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXQX%%%%%X
+X%%%%%X={{{{{^^^{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{^^^^^^{zZ22ZkkkkkkkkkkkkkZZkZ/kkkkkkkkkkkkkZZkkkkkkkkkkkkZffffffffffffZZ/fffffffffffffZfZZffffffff/ffffZ22Zu^^^^^^{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{^^^{{{{{=X%%%%%X
+X%%%%%X={{{{{{{{^^^^{{{{{{{{{{{{{^^^^^{{{{{{{{{{{^^^^^{{{{{{{zZ22ZkkkkkZkkkkkkZkkkZ/kkkkkkkkkkkkZkkkkkkkkkkkkkkZffffffffffffffZ//fffffffffffZfffZffffffZ/ffffZ22Zu{{{{{{^^^^^{{{{{{{{{{{^^^^^{{{{{{{{{{{{{^^^^{{{{{{{{=X%%%%%X
+X%%8%%X={{{{{{{{{{{{{{{{{{{{{{{{{{{{{{^^^^^{{{{{{{{{{{{{{{{{{zZ22ZkkkkkZkkkkZZkkkkZ/kkkkkkkkkkZZkkkkkkkkkkkkkkkZfffffffffffffffZZ/ffffffffffZffffZZffffZ/ffffZ22Zu{{{{{{{{{{{{{{{{{^^^^^{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{=X%%8%%X
+X%%8%%X5%%8888%%%%%%%%%%%%%888%%%%%88888%%%%%%%%%%%%%%%%%%%%%mZ22ZkkkkkZkkkZkkkkkkZ/kkkkkkkkkZkkkkkkkkkkkkkkkkkZfffffffffffffffffZ//ffffffffZffffffZfffZ/ffffZ22Zh%%%%%%%%%%%%%%%%%%%%88888%%%%%888%%%%%%%%%%%%%8888%%5X%%8%%X
+X%%8%%X5%%%%%%8888%%%88888%%%%%%%%%%%%%%88888%%%%%8888%%%8888iZ22ZkkkkkZkkZkkkkkkkZ/kkkkkkkZZkkkkkkkkkkkkkkkkZZZZZffffffffffffffffZZ/fffffffZfffffffZffZ/ffffZ22Zd888%%%8888%%%%%88888%%%%%%%%%%%%%%88888%%%8888%%%%%%5X%%8%%X
+X%%8%%XQXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXEZ22ZkkkkkZZZkkkkkkkkZ/kkkkkkZ/ZkkkkkkkkkkkkkkkZ//ZffZfffffffffffffffZ/Z//fffffZffffffffZZZ/ffffZ22ZtXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXQX%%8%%X
+X%%8%%X????????????????????????????????????????????????????IpUZ22ZkkkkkZkkkkkkkkkkZ/kkkkZZ/kZkkkkkkkkkkkkkZZ/kkZfffZZfffffffffffffZ/fZZ/ffffZffffffffffZ//fffZ22ZRI????????????????????????????????????????????????????X%%8%%X
+X%%8%%X?((((((((((((((((((((((((((((((((((((((((((((((((((-X%iZ22ZkkkZZkkkkkkkkkkkZ/kkkZ//kkZkkkkkkkkkkkkZ//kkkZfffffZffffffffffffZ/fffZ//ffZfffffffffffZZ/ffZ22ZhX-((((((((((((((((((((((((((((((((((((((((((((((((((?X%%8%%X
+X%%8%%X?((((((((((((((((((((((((((((((((((((((((((((((((((-X%iZ22ZkkZkkkkkkkkkkkkkZ/kZZ/kkkkZkkkkkkkkkkZZ/kkkkkZffffffZZffffffffffZ/ffffZZ/fZfffffffffffffZ//Z22ZhX-((((((((((((((((((((((((((((((((((((((((((((((((((?X%%8%%X
+X%8%%%X?((((((((((((((XXXXXXXXXXXXXXXXXXXXXXX:((((((((((((-X%iZ22ZZZkkkkkkkkkkkkkkZ/Z//kkkkkZkkkkkkkkkZ//kkkkkkZffffffffZfffffffffZ/ffffffZ/ZffffffffffffffZZZ22ZhX-(((((((((((((XXXXXXXXXXXXXXXXXXXXXXX:(((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X{{{{{{{{{{{{{{{{{{{{{{{X:(((((((((((-X%iZ22ZkkkkkkkkkkkkkkkkZZ/kkkkkkkZkkkkkkkZZ/kkkkkkkkZfffffffffZZfffffffZ/fffffffZZffffffffffffffffZ22ZhX-((((((((((((X{{{{{{{{{{{{{{{{{{{{{{{X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%XXXXXXXXXXXXXXXXXXXXX%X:(((((((((((-X%mZ22ZkkkkkkkkkkkkkkkZ//kkkkkkkkZkkkkkkZkZ/kkkkkkkkZfffffffffZfZffffffZ/fffffffffZfffffffffffffffZ22ZhX-((((((((((((X%XXXXXXXXXXXXXXXXXXXXX%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X]]|||||7X{X]]||||||X%X:(((((((((((-X%mZ22ZkkkkkkkkkkkkkZZ/kkkkkkkkkkZkkkkZZkkZ/kkkkkkkkZfffffffffZffZZffffZ/ffffffffffZZfffffffffffffZ22ZhX-((((((((((((X%X||||||]]X{X7|||||]]X%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X|]]||||7X{X|]]|||||X%X:(((((((((((-X%mZ22ZkkkkkkkkkkkkZ//kkkkkkkkkkkZkkkZkkkkZ/kkkkkkkkZfffffffffZffffZfffZ/ffffffffffffZffffffffffffZ22ZhX-((((((((((((X%X|||||]]|X{X7||||]]|X%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X||]]|||7X{X||]]||||X%X:(((((((((((-X%mZ22ZkkkkkkkkkkZZ/kkkkkkkkkkkkkZkZZkkkkkZ/kkkkkkkkZfffffffffZfffffZZfZ/fffffffffffffZZffffffffffZ22ZhX-((((((((((((X%X||||]]||X{X7|||]]||X%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X|||]]||7X{X|||]]|||X%X:(((((((((((-X%mZ22ZkkkkkkkkkZ//kkkkkkkkkkkkkkZZkkkkkkkZ/kkkkkkkkZfffffffffZfffffffZZ/fffffffffffffffZfffffffffZ22ZhX-((((((((((((X%X|||]]|||X{X7||]]|||X%X:((((((((((((?X%%%8%X
+X%%%%%X?(((((((((((((X%X||||]]|7X{X||||]]||X%X:(((((((((((-X%mZ22ZkkkkkkkkZ/kkkkkkkkkkkkkkkZZkkkkkkkkZ/kkkkkkWWZWWfffffffZffffffffZZ/fffffffffffffffZffffffffZ22ZhX-((((((((((((X%X||]]||||X{X7|]]||||X%X:((((((((((((?X%%%%%X
+X%%%%%X?(((((((((((((X%X|||||]]7X{X|||||]]|X%X:(((((((((((-X%mZ22ZkkkkkkZZ/kkkkkkkkkkkkkkkZkkkkgkkkkkZ/kkkkkWccZccWffffffZfffffgffffZ//ffffffffffffffZZffffffZ22ZhX-((((((((((((X%X|]]|||||X{X7]]|||||X%X:((((((((((((?X%%%%%X
+X%%%%%X?(((((((((((((X%X||||||]@X{X||||||]]X%X:(((((((((((-X%iZ22ZkkkkkZ//kkkkkkkkkkkkkkZZkkkggkkkkkkZ/kkkWWcccZcccWWffffZffffffggfffZZ/fffffffffffffffZfffffZ22ZhX-((((((((((((X%X]]||||||X{X@]||||||X%X:((((((((((((?X%%%%%X
+X%%8%%X?(((((((((((((X%X|||||||@X{X|||||||]X%X:(((((((((((-X%iZ22ZkkkZZZ/kkkkkkkkkkkkkkZkkkkgkkkkkkkkZ/kkWcccccZcccccWfffZffffffffgffffZ//fffffffffffffZZZfffZ22ZhX-((((((((((((X%X]|||||||X{X@|||||||X%X:((((((((((((?X%%8%%X
+X%%8%%X?(((((((((((((X%XXXXXXXXXXXXXXXXXXXXX%X:(((((((((((-X%mZ22ZkkZkkZ/kkkkkkkkkkkkZZkkkggkkkkkkkkkZ/WWccccWW+WWccccWWfZfffffffffggfffZZ/ffffffffffffZffZffZ22ZhX-((((((((((((X%XXXXXXXXXXXXXXXXXXXXX%X:((((((((((((?X%%8%%X
+X%%8%%X?(((((((((((((X%X{{{{{{{{{{{{{{{{{{{X%X:(((((((((((-X%mZ22ZZZkkkZ/kkkkkkkkkkkZkkkkgkkkkkkkkkkkZWcccccW++(++WcccccWZfffffffffffgffffZ//ffffffffffZfffZZZ22ZhX-((((((((((((X%X{{{{{{{{{{{{{{{{{{{X%X:((((((((((((?X%%8%%X
+X%%8%%X?(((((((((((((X%XXXXXXXXXXXXXXXXXXXXX%X:(((((((((((-X%mZ22ZkkkkkZ/kkkkkkkkkZZkkkggkkkkkkkkkkkWWccccWW+(((((+WWccccWWfffffffffffggfffZZ/fffffffffZfffffZ22ZhX-((((((((((((X%XXXXXXXXXXXXXXXXXXXXX%X:((((((((((((?X%%8%%X
+X%%%%%X?(((((((((((((X%X@@777777L9L@@______X%X:(((((((((((-X%mZ22Zkkkkkk/kkkkkkkkZZkkkgkkkkkkkkkkkkWcccccW++(((((((++WcccccWffffffffffffgfffZZ//fffffffffffffZ22ZhX-((((((((((((X%X______@@L9L777777@@X%X:((((((((((((?X%%%%%X
+X%%%%%X?(((((((((((((X%X|]]||||7X{X|]])))))X%X:(((((((((((-X%mZ22Zkkkkkk/kkkkkkZZkZkkkkkkkkkkkkkkWWccccWW+(((((((((((+WWccccWWffffffffffffffZ/ZZ/ffffffffffffZ22ZhX-((((((((((((X%X)))))]]|X{X7||||]]|X%X:((((((((((((?X%%%%%X
+X%8%%%X?(((((((((((((X%X||]]|||7X{X||]]))))X%X:(((((((((((-X%iZ22ZkkkkkZ/kkkkkZkkkZkkkkkkkkkkkkkWccccWW++(((((((((((((++WWccccWfffffffffffffZ/ffZ//ffffZfffffZ22ZhX-((((((((((((X%X))))]]||X{X7|||]]||X%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X|||]]||7X{X|||]])))X%X:(((((((((((-X%iZ22ZkkkkkZ/kkkZZkkkkZkkkkkkkkkkkWWccccW++(((((((((((((((((++WccccWWfffffffffffZ/fffZZ/fffZfffffZ22ZhX-((((((((((((X%X)))]]|||X{X7||]]|||X%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X||||]]|7X{X||||]]))X%X:(((((((((((-X%iZ22ZkkkkkZ/kkZkkkkkkZkkkkkkkkkkWcccccW+(((((((((((((((((((((+WcccccWffffffffffZ/fffffZ/ffZfffffZ22ZhX-((((((((((((X%X))]]||||X{X7|]]||||X%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X|||||]]7X{X|||||]])X%X:(((((((((((-X%iZ22ZkkkkkZ/kZkkkkkkkZkkkkkkkkWWccccWW+(((((((((((((((((((((((+WWccccWWffffffffZ/ffffffZ//ZfffffZ22ZhX-((((((((((((X%X)]]|||||X{X7]]|||||X%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X||||||]@X{X||||||]]X%X:(((((((((((-X%iZ22ZkkkkkZZZkkkkkkkkZkkkkkkkWcccccW++(((((((((((((((((((((((((++WcccccWfffffffZ/fffffffZZZfffffZ22ZhX-((((((((((((X%X]]||||||X{X@]||||||X%X:((((((((((((?X%%%8%X
+X%8%%%X?(((((((((((((X%X|||||||@X{X|||||||]X%X:(((((((((((-X%mZ22ZkkkkkZkkkkkkkkkkZkkkkkWWccccWW+((((((XXXXXXGXXGXXXXXX+((((((+WWccccWWfffffZ/fffffffffZfffffZ22ZhX-((((((((((((X%X]|||||||X{X@|||||||X%X:((((((((((((?X%%%8%X
+X%%8%%X?(((((((((((((X%X|||||||7X{X||||||||X%X:(((((((((((-X%mZ22ZkkkZZkkkkkkkkkkkZkkkkWcccccW++((((((X{{{{{{{{{{{{{{{{X+((((((++WcccccWffffZ/ffffffffffZZfffZ22ZhX-((((((((((((X%X||||||||X{X7|||||||X%X:((((((((((((?X%%8%%X
+X%%8%%X?(((((((((((((X%X|||||||7X{X||||||||X%X:(((((((((((-X%mZ22ZkkZkkkkkkkkkkkkkZkkWWccccWW+((((((((X{{{{{{{{{{{{{{{{X+((((((((+WWccccWWffZ/ffffffffffffZffZ22ZhX-((((((((((((X%X||||||||X{X7|||||||X%X:((((((((((((?X%%8%%X
+X%%8%%X?(((((((((((((X%XXXXXXXXXXXXXXXXXXXXX%X:(((((((((((-X%iZ22ZZZkkkkkkkkkkkkkkZkWcccccW++(((((((((X{{{{{{{{{{{{{{{{X+(((((((((+WcccccWffZ/fffffffffffffZZZ22ZhX-((((((((((((X%XXXXXXXXXXXXXXXXXXXXX%X:((((((((((((?X%%8%%X
+X%%8%%X?(((((((((((((X{666666666666666666666{X:(((((((((((-X%iZ22ZkkkkkkkkkkkkkkkkWWccccWW+(((((((((((X{{{{{{{{{{{{{{{{X+((((((((((+WWccccWWZ/fffffffffffffffZ22ZhX-((((((((((((X{666666666666666666666{X:((((((((((((?X%%8%%X
+X%%8%%X?(((((((((((((X{{{{{{{{{{{{{{{{{{{{{{{X:(((((((((((-X%iZ22ZkkkkkkkkkkkkkkkWcccccW++((((((((((((X{{{{{{{{{{{{{{{{X+(((((((((((++WcccccW//ffffffffffffffZ22ZhX-((((((((((((X{{{{{{{{{{{{{{{{{{{{{{{X:((((((((((((?X%%8%%X
+X%%8%%X?(((((((((((((X{{{{{{{{{{{{{{{{{{{{{{{X:(((((((((((-X%iZ22ZkkkkkkkkkkkkkWWccccWW+(((((((((((((((XXXXXXGXXGXXXXXX+((((((((((((((+WWccccWW/fffffffffffffZ22ZhX-((((((((((((X{{{{{{{{{{{{{{{{{{{{{{{X:((((((((((((?X%%8%%X
+X%%%%%X?(((((((((((((X%%%%%%%%%%%%%%%%%%%%%%%X:(((((((((((-X%iZ22ZkkkkkkkkkkkkWcccccW++((((((((((((((((++++++++++++++++((((((((((((((((++WcccccW//fffffffffffZ22ZhX-((((((((((((X%%%%%%%%%%%%%%%%%%%%%%%X:((((((((((((?X%%%%%X
+X%%%%%X?(((((((((((((:XXXXXXXXXXXXXXXXXXXXXXX:((((((((((((-X%mZ22ZkkkkkkkkkkWWccccWW+((((((((((((((((((((((((((((((((((((((((((((((((((((+WWccccWW/ffffffffffZ22ZhX-((((((((((((:XXXXXXXXXXXXXXXXXXXXXXX:(((((((((((((?X%%%%%X
+X%%%%%X?((((((((((((((:::::::::::::::::::::::(((((((((((((-X%mZ22ZkkkkkkkkkWcccccW++(((((((((((((((CCCCCCCCCCCCCCCCCCCCCCCC+((((((((((((((++WcccccW/fffffffffZ22ZhX-(((((((((((((:::::::::::::::::::::::((((((((((((((?X%%%%%X
+X%8%%%X?((((((((((((((((((((((((((((((((((((((((((((((((((-X%mZ22ZkkkkkkkkWccccWW+((((((((((((((((CaOOOOOCaOOOOOOOOOCaOOOOOC+(((((((((((((((+WWccccW//fffffffZ22ZhX-((((((((((((((((((((((((((((((((((((((((((((((((((?X%%%8%X
+X%8%%%X?((((((((((((((((((((((((((((((((((((((((((((((((((-X%mZ22ZkkkkkkWWccccW++(((((((((((((((((CaTTTTOCaTTTTTTTTOCaTTPTOC+((((((((((((((((++WccccWW/ffffffZ22ZhX-((((((((((((((((((((((((((((((((((((((((((((((((((?X%%%8%X
+X%8%%%X?((((((((((((((((((((((((((((((((((((((((((((((((((-X%mZ22ZkkkkkWccccWW+(((((((((((((((((((CaTPTTOCaTTPTTTTTOCaTTPTOC+((((((((((((((((((+WWccccW//ffffZ22ZhX-((((((((((((((((((((((((((((((((((((((((((((((((((?X%%%8%X
+X%8%%%X?((((((((((((((((((((((((((((((((((((((((((((((((((-X%mZ22ZkkkWWccccW++((((((((eee+((((((((CaTPTTOCaTTPTTTTTOCaTTTTOC+((((((((eee+(((((((++WccccWW/fffZ22ZhX-((((((((((((((((((((((((((((((((((((((((((((((((((?X%%%8%X
+X%8%%%XIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIX%mW22ZkkWccccWW+((((((((((eee+((((((((CaTPTTOCaTTTPTTTTOCaTPTTOC+((((((((eee+(((((((((+WWccccW//fZ22WhXIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIX%%%8%X
+X%8%%%X3{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{4X%mW22ZWWccccWoH+(((((((((((e+(((((((((CaTPTTOCaTTTPTTTTOCaTPTTOC+(((((((((e+((((((((((+HoWccccWW/Z22WhX4{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{3X%%%8%X
+X%8%%%Xx^^{{{{{{{{{{{{{{{{{{{{{{{{{{{^^^^^^^^^^^{{{{{{{{{^yX%mW22ZccccWWo%X+(((((((((((e+(((((((((CaTPTTOCaTTTTTTTTOCaTPTTOC+(((((((((e+((((((((((+X%oWWccccZZ22WhXy^{{{{{{{{{^^^^^^^^^^^{{{{{{{{{{{{{{{{{{{{{{{{{{{^^xX%%%8%X
+X%8%%%X3{{{{{{{{{{{{{{{{{{{{{{^^^^^^^{{{{{{{{{{{{{{{{{{{{{4X%mZ22ZcccWoo%%X+((((((((((e$e+((((((((CaTTPTOCaTTTTTTPTOCaTPTTOC+((((((((e$e+(((((((((+X%%ooWcccZZ22ZhX4{{{{{{{{{{{{{{{{{{{{{^^^^^^^{{{{{{{{{{{{{{{{{{{{{{3X%%%8%X
+X%8%%%Xp%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%qX%iZ22ZWWWo%%%%X+(((((((((evvve+(((((((CaTTPTOCaTTTAATPTOCaTPTTOC+(((((((evvve+((((((((+X%%%%oWWWtZ22ZhXq%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%pX%%%8%X
+X%%%%%Xp%%%%%%%%%888888888%%%%%%%%%%%%%%%%%%%%%%8888888888lX%8mZZEYmH%%%%%X+((((((((evvvvve+((((((CaTTPTOCaTTTAATPTOCaTTPTOC+((((((evvvvve+(((((((+X%%%%%HhRXhZZd%Xl8888888888%%%%%%%%%%%%%%%%%%%%%%888888888%%%%%%%%%pX%%%%%X
+X%%%%%XIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIX%%mmmXIXX%%%%%X+(((((((evvvvvvve+(((((CaTTPTOCaTTTOOTPTOCaTTPTOC+(((((evvvvvvve+((((((+X%%%%%XXIX%hh%%XIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIX%%%%%X
+.XXXXX......................................................XXXXX...X%%%%%X+(((((((e$$$$$$$e+(((((CaTTPTOCaTTTTTPTTOCaTTPTOC+(((((e$$$$$$$e+((((((+X%%%%%X...XXXXX......................................................XXXXX.
+....................................................................X%%%%%X+(((((((e>vvvvv>e+(((((CaTTTTOCaTTTTTPTTOCaTTPTOC+(((((e>vvvvv>e+((((((+X%%%%%X....................................................................
+....................................................................X%%%%%X+(((((((e>v***v>e+(((((CaTTTTOCaTTPTTPTTOCaTTTTOC+(((((e>v***v>e+((((((+X%%%%%X....................................................................
+....................................................................X%%%%%X+(((((((e>v~~~v>e+(((((CaTTTTOCaTTPTTTTTOCaTTTTOC+(((((e>v~~~v>e+((((((+X%%%%%X....................................................................
+....................................................................X%%%%%X+(((((((e>v}}}v>e+(((((CaTTPTOCaTTPTTTTTOCaTTTTOC+(((((e>v}}}v>e+((((((+X%%%%%X....................................................................
+....................................................................X%%%8%X+(((((((e>v[[[v>e+(((((CaTTPTOCaTTPTTTTTOCaTTPTOC+(((((e>v[[[v>e+((((((+X%8%%%X....................................................................
+....................................................................X%%%8%X+(((((((e>vvvvv>e+(((((CaTPTTOCaTTTPTTTTOCaTTPTOC+(((((e>vvvvv>e+((((((+X%8%%%X....................................................................
+....................................................................X%%%8%X+(((((((e>>>>>>>e+(((((CaTPTTOCaTTTPTTTTOCaTTPTOC+(((((e>>>>>>>e+((((((+X%8%%%X....................................................................
+....................................................................X%%%%%X+(((((((+eeeeeee+((((((CaAKAAOCaTTTPTTTTOCaTPTTOC+(((((+eeeeeee+(((((((+X%%%%%X....................................................................
+....................................................................X%%%%%X+((((((((+++++++(((((((CaAAOOOCaTTTPTTTTOCaTPTTOC+((((((+++++++((((((((+X%%%%%X....................................................................
+....................................................................X%%%%%X+((((((((((((((((((((((CaOOTTOCaTTTPTTTTOCaTPTTOC+(((((((((((((((((((((+X%%%%%X....................................................................
+....................................................................X8%%%%X+((((((((((((((((((((((CaTTTTOCaTTTTTTTTOCaTTTTOC+(((((((((((((((((((((+X%%%%8X....................................................................
+....................................................................X8%%%%X+((((((((((((((((((((((CaTTTTOCaTTTTPTTTOCaTTTTOC+(((((((((((((((((((((+X%%%%8X....................................................................
+....................................................................X8%%%%X+((((((((((((((((((((((CaTTTTOCaTTTTPTTTOCaTTPTOC+(((((((((((((((((((((+X%%%%8X....................................................................
+....................................................................X8%%%%X+((((((((((((((((((((((CaPTTTOCaTTTTPTTTOCaTTPTOC+(((((((((((((((((((((+X%%%%8X....................................................................
+....................................................................X8%%%%X+((((((((((((((((((((((CaPTTTOCaTTTTPTTTOCaTTPTOC+(((((((((((((((((((((+X%%%%8X....................................................................
+....................................................................X8%%%%X+((((((((((((((((((((((CaPTTTOCaTTTPTTTTOCaTTPTOC+(((((((((((((((((((((+X%%%%8X....................................................................
+....................................................................X%8%%%X+((((((((((((((((((((((CaTPTTOCaTTTPTTTTOCaTPTTOC+(((((((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((((((((CaTPTTOCaTTTPTTTTOCaTPTTOC+(((((((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((((((((CaTPTTOCaTTTPTTTTOCaTPTTOC+(((((((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((((((((CaTTTTOCaTTTPTTTTOCaTPTTOC+(((((((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((((((((CaTTTTOCaTTTTTTTTOCaTTTTOC+(((((((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+(((((((((((((((((((((((CCCCCCCCCCCCCCCCCCCCCCCC+((((((((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+(((((((((((((((((-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+(((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((-X{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{X+((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((-X{{^^^^^^{{{{{{{{{^^{{{{{{{^^^^^^{{X+((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((-X{{{{{{{{^^^^^^^{{{{{^^^^^^{{{{{{{{X+((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((-X%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%X+((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+((((((((((((((((-X%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%X+((((((((((((((((+X%%%8%X....................................................................
+....................................................................X%8%%%X+++((((((((((((((-XwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwX+((((((((((((((+++X%%%8%X....................................................................
+.................................................................bbbX%8%8%XNbb+(((((((((((((-X{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{X+(((((((((((((+bbbX%8%8%XNbb.................................................................
+................................................................b!!!X%8%8%Xn!!b+++++++++++++sX{^^^^{{{{{{{{{^^^^^^^{^^^^{{{{{{{{Xr+++++++++++++b!!!X%8%8%Xn!!b................................................................
+................................................................b!!!X%8%8%Xn!!bXXXXXXXXXXXXXIX{{{{{^^^^^{{{{{{{{{{{{{{{{^^^^^{{{XHXXXXXXXXXXXXXb!!!X%8%8%Xn!!b................................................................
+................................................................b!!!X%%%8%Xn!!b{{{{{{{{{{{{{4X%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%X1{{{{{{{{{{{{{b!!!X%8%%%Xn!!b................................................................
+................................................................b!!!X%%%%%Xn!!b{{{{{{{{{{{{{4X%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%X1{{{{{{{{{{{{{b!!!X%%%%%Xn!!b................................................................
+................................................................b!!!X%%%%%Xn!!b^^^^^{{{{{{{{4XwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwX1{{{{{{{{^^^^^b!!!X%%%%%Xn!!b................................................................
+................................................................b!!!!XXXXXn!!!b%%%%%%%%%%%%%qX{{{{{{^^^^^^{{{{{{{{{{{{{{{{{{{{{{Xo%%%%%%%%%%%%%b!!!nXXXXXn!!!b................................................................
+................................................................b!!!!!!!!!!!!!b%%%%%%%%%888%qX{^^^^^{{{{{{{{{{{^^^^{{{^^^^{{{{{{Xo%888%%%%%%%%%b!!!!nnnnn!!!!b................................................................
+................................................................b&&&&&&&&&&&&&bXXXXXXXXXXXXXIX{{{{{{{{{{{{{{^^^{{{{{{{{{{{^^^^{{XHXXXXXXXXXXXXXb&&&&&&&&&&&&&b................................................................
+................................................................b0000000000000b..............X%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%X..............b0000000000000b................................................................
+................................................................b0000000000000b..............X%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%X..............b0000000000000b................................................................
+................................................................b0000000000000b...............XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX...............b0000000000000b................................................................
+.................................................................bbbbbbbbbbbbb..................................................................bbbbbbbbbbbbb.................................................................

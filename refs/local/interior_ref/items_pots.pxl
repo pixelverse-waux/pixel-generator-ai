@@ -1,0 +1,183 @@
+name items_pots
+size 8 13
+scale 1
+layout
+pot_0 pot_1 pot_2 pot_3 pot_4 bottle_small box_tiny
+palette
+K #6e0707 outline (darkest)
+A #730707
+B #7c0707
+C #810807
+D #880807
+E #365514
+F #355814
+G #375915
+H #385d16
+I #3a6017
+J #a90707
+L #315d2a
+M #b20707
+N #5d392e
+O #b30a0a
+P #bf0b0b
+Q #683843
+R #cf0c0c
+S #6a4d35
+T #4b831e
+U #4a871f
+V #703d48
+W #4d8b20
+X #725239
+Y #4f9021
+Z #77414d
+a #c34200
+b #79414e
+c #79424e
+d #c74300
+e #7a424f
+f #539623
+g #7c533e
+h #ca4500
+i #7c4451
+j #7e4451
+k #7d4452
+l #cc4601
+m #7d4552
+n #cc4704
+o #7f4553
+p #d34800
+q #8e6a29
+r #864957
+s #4aa638
+t #e44d00
+u #b47d07
+v #b57d07
+w #b67e07
+x #b87f07
+y #914f61
+z #bc8207
+0 #f45300
+1 #be8607
+2 #c28708
+3 #c48707
+4 #c2870a
+5 #c2890c
+6 #ff5802
+7 #ff600e
+8 #d4a907
+9 #f7ae13
+! #f7b21f
+$ #f8be30
+% #ffbf36
+
+; src 311,543 8x13
+frame pot_0
+..NNNN..
+.NgXXSN.
+NgXXXXSN
+NggXXSgN
+DNggggND
+DRNNNNRD
+CRRRRRRC
+BPRRRRPB
+AOPPPPOA
+KMOOOOMK
+KJMMMMJK
+.KJJJJK.
+..KKKK..
+
+; src 322,543 8x13
+frame pot_1
+..NNNN..
+.NgXXSN.
+NgXXXXSN
+NggXXSgN
+kNggggNo
+kyNNNNyo
+iyyyyyym
+iryyyyri
+ejrrrrjb
+cVjjjjVZ
+kQVVVVQi
+.kQQQQo.
+..kkkk..
+
+; src 333,543 8x13
+frame pot_2
+..NNNN..
+.NgXXSN.
+NgXXXXSN
+NggXXSgN
+5NggggN5
+5$NNNN$5
+4$$$$$$4
+2!$$$$!2
+19!!!!91
+z899998z
+u388883w
+.u3333v.
+..uxxx..
+
+; src 344,543 8x13
+frame pot_3
+..NNNN..
+.NgXXSN.
+NgXXXXSN
+NggXXSgN
+nNggggNn
+n7NNNN7n
+l777777l
+h677776h
+d066660d
+at0000ta
+apttttpa
+.appppa.
+..aaaa..
+
+; src 355,543 8x13
+frame pot_4
+..NNNN..
+.NgXXSN.
+NgXXXXSN
+NggXXSgN
+INggggNI
+IfNNNNfI
+HffffffH
+GYffffYG
+FWYYYYWF
+EUWWWWUE
+ETUUUUTE
+.ETTTTE.
+..EEEE..
+
+; src 311,581 4x7
+frame bottle_small
+........
+........
+........
+........
+........
+........
+...LL...
+..LssL..
+..LLLL..
+..LssL..
+..LssL..
+..LssL..
+...LL...
+
+; src 330,580 7x8
+frame box_tiny
+........
+........
+........
+........
+........
+.qqqqq..
+q%%%%%q.
+.q%%%q..
+q%%%%%q.
+q%%%%%q.
+q%%%%%q.
+q%%%%%q.
+.qqqqq..

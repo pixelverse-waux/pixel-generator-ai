@@ -1,0 +1,273 @@
+name long_green_summer
+size 276 176
+scale 1
+layout
+summer
+palette
+K #311d0e outline (darkest)
+A #331e0e
+B #442813
+C #512f16
+D #4c2b25
+E #543117
+F #1d4b36
+G #563217
+H #1e4e37
+I #1f5038
+J #5b3519
+L #61391a
+M #633a1b
+N #22583e
+O #683c1c
+P #6a3d1d
+Q #6c3f1d
+R #6f401e
+S #5f442d
+T #663931
+U #5f4a28
+V #266448
+W #734220
+X #286849
+Y #774520
+Z #296b4b
+a #6b4f29
+b #7b4722
+c #6b4c33
+d #6b5a2e
+e #844c24
+f #2d7653
+g #715036
+h #2f7c56
+i #2e795c
+j #8f5328
+k #338660
+l #98582a
+m #886434
+n #9c5a2b
+o #9d5b2b
+p #876040
+q #876a38
+r #a15d2c
+s #a55f2d
+t #906a37
+u #507c68
+v #a8612f
+w #ab622e
+x #8b753c
+y #956d3a
+z #aa632f
+0 #ae642f
+1 #b26731
+2 #b36731
+3 #986c48
+4 #b46831
+5 #b56932
+6 #988041
+7 #bb6c33
+8 #558f7b
+9 #5d8e76
+! #bf6e34
+$ #539878
+% #c16f35
+& #c17035
+* #c47036
++ #c47136
+- #a18845
+/ #c87437
+: #4882ac
+< #cb7538
+= #cc7638
+> #cf7839
+? #d97d3b
+@ #c28e4a
+^ #6ba78b
+_ #c19750
+~ #e6843e
+| #e6853f
+{ #5498c9
+} #ee8a41
+[ #7183c8
+] #58a0d3
+( #ff9345
+) #d9b75d
+' #67bbf7
+, #8aa1f6
+
+; src 1354,20 276x176
+frame summer
+...YYYYY.YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY.YYYYYYYYYY.
+..Y?????Y~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Y~~~~~?????Y
+..Y?????Y~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Y~~~~~?????Y
+..Y?????Y~~~~~~~}}}}}~~~~~~}}}}~~~~~~~~~~~~~~~}}}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}~~~~~~~~~~~~}}}}}}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}}}}}}~~~~~~~~~~~~~~~~~~~~~~~~~}}}}}}~~~~~~~~~}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}}}}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}~~~~~~~Y~~~~~?<???Y
+..Y?????Y~~}}}}}~~~~~~~~~~~~~~~}}}}~~~~~~~}}}}~~~~~~~~~~~~~}}}}}}}}~~~~~~~~~~~}}}~~~~~~~}}}}}}}}~~~~~~~~~~~~~}}}}}~~}}}~~~~~}}}}}}}}}~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}~}}}~~~~~~~~~~~~~~~~~~}}}}}}}}}}}~~~~~~~~}}}}}}}}}~~~~~~~~~~~~~~~~~~~~}}}}}}}~~~~~~~~~~~~~~~~~~~}}}~~Y~~~~~?<???Y
+..Y??<??Y~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}}}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}}}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}}}}}~~~~~~~~~~~~~~~~~Y~~~~~?<???Y
+..Y??<??Y???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????Y~~~~~?<???Y
+..Y?<???Y??????????????????<<<<<<<????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????<<<???????????????????????????????????????????????????????????Y~}~~~?<???Y
+..Y?????Y???<<<????????????????????????????<<<<<<??????????????????????????<<<<<<<<<<????????<<<<<<<???????????????????<<<<<<<<<??<<<???????????<<<<<?????????????????????????????????????????????<<<????????<<<<????????????<<<<<<<<???????????????????????<<<<<<<?<<??Y~}~~~?<???Y
+..Y?????Y??????<<<???????????????????????????????<<<<<<<??????????<<<<<<<<<?????????????????????????<<<<<<<<???????????????????????????????<<<<<???????????<<<<<<<<?????????????????????<<<<?????????????????????????????????????????<<<<<<<<?????????<<<<<<????????????Y~}~~~?<???Y
+..Y?????Y??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????<<<<<<<<??????????<<<????????????????????????????????????????????????????????????????????????????????Y~}~~~??<??Y
+..Y?????YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYTTTTTTTTTTYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY~}~~~??<??Y
+..Y?????YVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIuVVVVVVVVVIuVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVFFIVVDwwwwwrrrrrDVVIFFIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIVVVVVVVVVVIY~}~~~??<??Y
+..Y?????YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZVZZkkkT~~~~~?????TVhhZZIkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~}~~~??<??Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVIZkkkkkT~~~~~?????TVhhhhZVVkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~??<??Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkVZZkkkkkkT~~~~~?????TVhhhhhZZVkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~??<??Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkVVZkkkkkkkkT~~~~~?????TVhhhhhhhZVVkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~??<??Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkVZZkkkikkkkkT~~~~~?????TVhhhhhhhhZZVkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~?????Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZ^^^^^^^^^^ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkVVZkkkiikkkkkkT~~~~~?????TVhhhhhhhhhhZVVkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZ^kkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZIZZkkiikkkkkkkkT~~~~~?????TVhhhhhhhhhhhZZVkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZVVVVVVVVVVZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZVVZkkkikkkkkkkkkkT~~~~~?????TVhhhhhhhhhhhhhZVIVVVVVVVVVVZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkIZZkkiikkkkkkkkkkkT~~~~~?????TVhhhhhhhhhhhhhhZZVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkVVZkkiikkkkkkkkkkkkkT~~~~~?????TVhhhhhhhhhhhhhhhhZVVkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~~~~??<??Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkVZZkkikkkkkkkkkkkkkZZT~~~~~?????TIZhhhhhhhhhhhhhhhhZZVkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~~~~??<??Y
+..Y?????YVkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkVVZZ^kkkkkkkkkkkkkkkZkkT~~~~~?????TVhZhhhhhhhhhhhhhhhhZZVVkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~~~~??<??Y
+..Y?????YVkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkVZZkZ^kkkkkkkkkkkkkZZkkkT~~~~~?????TVhhZZhhhhhhhhhhhhhhZ8ZZVkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~~~~??<??Y
+..Y?????YVkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^^^^^^^^^^ZkkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkVVZkkkZ^kkkkkkkkkkkkZkkkkkT~~~~~?????TVhhhhZhhhhhhhhhhhhhZ8hhZVVkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~~~~??<??Y
+..Y?????YIZZZZZZZZZZ^kkkkkkkkkZZZZZZZZZZZZ^kkkkkkkkkZZZZZZZZZZZZkkikkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkikkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZkVZZkkkkZ^kkkkkkkkkkZZkkkkkkT~~~~~?????TVhhhhhZZhhhhhhhhhhhZ8hhhZZVZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~~~~??<??Y
+..Y?????YFVVVVVVVVVZ^kkkkkkkkkZVVVVVVVVVVZ^kkkkkkkkkZVVVVVVVVVVZkkikkkkkkkZVVVVVVVVVVZkkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZVVVVVVVVVVZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkIVZkkkkkkZ^kkkkkkkkkZkkkkkkkkT~~~~~?????TVhhhhhhhZhhhhhhhhhhZ8hhhhhZIIZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkVZZkkkkkkkZ^kkkkkkkZZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZZhhhhhhhhZ8hhhhhhZZVkkkkkkkkZkkkkkkkkkkZVVVVVVVVVVIY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkVVZkkkkkkkkkZ^kkkkkkZkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8ZhhhhhhhZ8hhhhhhhhZVVkkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkVZZkkkkkkkkkkZ^kkkkZZkkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ88ZZhhhhhZ8hhhhhhhhhZZVkkkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkVVZkkkkkkkkkkkkZ^kkkZkkkkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8h88ZhhhhZ8hhhhhhhhhhhZVVkkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~?????Y
+..Y??<??YVkkkkkkkkkZ^kkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkVZZkkkkkkkkkkkkkZ^kZZkkkkkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8hhh8ZZhhZ8hhhhhhhhhhhhZZVkkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~?<???Y
+..Y??<??YVkkkkkkkkkZ^^^^^^^^^^ZkkikkkkkkkZ^^^^^^^^^^ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkVZkkkkkkkkkkkkkkkZ^ZkkkkkkkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8hhhh88ZhZ8hhhhhhhhhhhhhhZVkZkkkkkkkkkkZkkkkkkkkkkZY~~}~~?<???Y
+..Y??<??YVkkkkkkkkkZZZZZZZZZZZZkkikkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZ^kkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZVVZkkkkkkkkkkkkkkkkZZkkkkkkkkZ^kkkkkkZZT~~~~~?????TIZhhhhhhhZ8hhhhhh8ZZ8hhhhhhhhhhhhhhhZVIZZZZZZZZZZZkkkkkkkkkkZY~~~~~?<???Y
+..Y??<??YVkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkIZZkkkkkkkkkkkkkkkkZkkkkkkkkkkZ^kkkkkZkkT~~~~~?????TVhZhhhhhhZ8hhhhhhh88ZhhhhhhhhhhhhhhhhZZVVVVVVVVVVZkkkkkkkkkkZY~~~~~??<??Y
+..Y??<??YVkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkVVZ^kkkkkkkkkkkkkkkZZkkkkkkkkkkkZ^kkkZZkkkT~~~~~?????TVhhZZhhhhZ8hhhhhhhhh8ZZhhhhhhhhhhhhhhhhZVVkkkkkkkZkkkkkkkkkkZY~~~~~??<??Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkVZZZ^kkkkkkkkkkkkkkZkkkkkkkkkkkkkZ^kkZkkkkkT~~~~~?????TVhhhhZhhhZ8hhhhhhhhhh88ZhhhhhhhhhhhhhhhZZZVkkkkkkZkkkkkkkkkkZY~~~~~??<??Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkVVZ^^Z^kkkkkkkkkkkkZZkkkkkkkkkkkkkkZ^ZZkkkkkkT~~~~~?????TVhihhhZZhZ8hhhhhhhhhhhh8ZZhhhhhhhhhhhhhZ8hZVVkkkkZkkkkkkkkkkZY~~~~~?????Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkVZZ^kkZ^kkkkkkkkkkkZkkkkkkkkkkkkkkkkZZkkkkkkkkT~~~~~?????TVhhihhhhZZ8hhhhhhhhhhhhh88ZhhhhhhhhhhhhZ8hhZZVkkkZkkkkkkkkkkZY~~~~~?????Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkVVZ^^kkkZ^kkkkkkkkkZZkkkkkkkkkkkkkkkkZZkkkkkkkkkT~~~~~?????TVhhhiihhhZZhhhhhhhhhhhhhhh8ZZhhhhhhhhhhZ8hhhhZVVkZkkkkkkkkkkZY~}~~~?????Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZ^^^^^^^^^^ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkVZZ^kkkkkZ^kkkkkkkkZZ^kkkkkkkkkkkkkkkZkkkkkkkkkkkT~~~~~?????TVhhhhhihhhhZhhhhhhhhhhhhhhh8ZZhhhhhhhhhZ8hhhhhZZVZkkkkkkkkkkZY~}~~~?????Y
+..Y?<???YIZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZ^kkkkkkkkkZZZZZZZZZZZZkkikkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkIVZ^^kkkkkkZ^kkkkkkZZ^Z^kkkkkkkkkkkkkZZkkkkkkkkkkkkT~~~~~?????TVhhhhhhihhhhZZhhhhhhhhhhhhhhZ8ZZhhhhhhhZ8hhhhhhhZIVVkkkkkkkkZY~}~~~?????Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZVVVVVVVVVVZ^kkkkkkkkkZVVVVVVVVVVZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkVZZ^kkkkkkkkZ^kkkkkZ^^kZ^kkkkkkkkkkkkZkkkkkkkkkkkkkkT~~~~~?????TVhhhhhhhiihhhhZhhhhhhhhhhhhhZ888ZhhhhhhZ8hhhhhhhhZZIZZZZZZZZZY~}~~~?????Y
+..Y?<???YVkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkVVZ^^kkkikkkkkZ^kkkZZ^kkkZ^kkkkkkkkkkZZkkkkkkkkkkkkkkkT~~~~~?????TVhhhhhhhhhihhhhZZhhhhhhhhhhhZ8hh8ZZhhhhZ8hhhhhhhhhhZVVVVVVVVIY~}~~~?????Y
+..Y?????YVikkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkVZZ^kkkiikkkkkkZ^kkZ^^kkkkZ^kkkkkkkkkZkkkkkkkkkkkkkkkkkT~~~~~?????TVhhhhhhhhhhhhhhhhZhhhhhhhhhhZ8hhh88ZhhhZ8hhhhhhhhihhZZVkkkkkZY~~}~~??<??Y
+..Y?????YVikkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkVVZ^^kkiikkkkkkkkZ^kZ^kkkkkkZ^kkkkkkkZZ^kkkkkkkkkkkkkkkZZT~~~~~?????TIZhhhhhhhhhhhhhhhhZZhhhhhhhhZ8hhhhh8ZhhZ8hhhhhhhhhiihhZVVkkkZY~~}~~??<??Y
+..Y?????YVikkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkVZZ^kkkikkkkkkkkkkZZZ^kkkkkkkZ^kkkkkkZkZ^kkkkkkkkkkkkkkZkkT~~~~~?????TVhZhhhhhhhhhhhhhhhZ8ZhhhhhhhZ8hhhhhh8ZZZ8hhhhhhhhhhhihhZZVkkZY~~}~~??<??Y
+..Y?????YVikkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkikkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkVVZ^^kkiikkkkkkkkkkkZ^^kkkkkkkkZ^kkkkZZkkZ^kkkkkkkkkkkkZZkkkT~~~~~?????TVhhZZhhhhhhhhhhhhhZ8hZZhhhhhZ8hhhhhhh88Z8hhhhhhhhhhhhihhhZVVZY~~}~~??<??Y
+..Y?????YVikkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZ^^^^^^^^^^ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZVZZ^kkiikkkkkkkkkkkZZ^kkkkkkkkkkZ^kkkZkkkkZ^kkkkkkkkkkkZkkkkkT~~~~~?????TVhhhhZhhhhhhhhhhhhZ8hhhZhhhhZ8hhhhhhhhh8ZZhhhhhhhhhhhhiihhZZIM~~}~~??<??Y
+..Y??<??YVikkkkkkkkZZZZZZZZZZZZ^kkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkkZZZZZZZZZZZZkkkkkkkkkVIZ^Z^kikkkkkkkkkkkkZ^^kkkkkkkkkkkZ^kZZkkkkkk^kkkkkkkkkZZkkkkkkT~~~~~?????TVhhhhhZZhhhhhhhhhhZ8hihhZZhhZ8hhhhhhhhhh88ZhhhhhhhhhhhhhihZ8ZM!~~~~?<???Y
+..Y??<??YVikkkkkkkkZVVVVVVVVVVZ^kkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZVVVVVVVVVVZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkVZZ^kZ^kkkkkkkkkkkkZZ^kkkkkkkkkkkkkZ^Zkkkkikkk^kkkkkkkkZkkkkkkkkT~~~~~?????TVhhhhhhhZhhhhhhhhhZ8hhiikkZhZ8hhhhhhhhhhhh8ZZhhhhhhhhhhhhhZ8hZZ!~~~?<???Y
+..Y??<??YVikkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkVVZ^^kkZ^kkkkkkkkkkkZ^^kkkkkkkkkkkkkkZZkkkiikkkk^kkkkkkZZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZZhhhhhhhZ8hhhhikkZZ8hhhhhhhhhhhhh88ZhhhhhhhhhhhhZ8hhhZ!!~?<???Y
+..Y??<??YVikkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkVZZ^kkkkk^kkkkkkkkkZZ^kkkkkkkkkkkkkkkZkkkkikkkkkk^kkkkkZ^Z^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8ZhhhhhhZ8hhhhhiikkZhhhhhhhhhhhhhhh8ZZhhhhhhhhhhh8hhhhZZ!?<???Y
+..Y??<??YVkkkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkVVZ^^kkkkkk^kkkkkkkkZ^^kkkkkkkkkkkkkkZZkkkiikkkkkkZ^kkkZZ^kZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ88ZZhhhhZ8hhhhhhhikkZZhhhhhhhhhhhhhh88Zhhhhhhhhhh8hhhhhhZ4v???Y
+..Y??<??YVikkkkkkkkZkkkkkkkkkkZ^kkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkVZZ^kkkkkkkk^kkkkkkZZZ^kkkkkkkkkkkkkkZkkkkikkkkkkkkZ^kkZ^^kkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8h88ZhhhZ8hhhhhhhhiikkZhhhhhhhhhhhhhhhZZZhhhhhhhh8hhhhhhhZZ4??Y
+..Y??<??YVkkkkkkkkkZkkkkkkkkkkZ^^^^^^^^^^ZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZkkkkkkkkkkZVVZ^^kkkkkkkkZ^kkkkkZkkZ^kkkkkkkkkkkkZZkkkkikkkkkkkkkZ^ZZ^kkkkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8hhh8ZZhZ8hhhhhhhhhhikkZZhhhhhhhhhhhhhZ8hZhhhhhhZ8hhhhhhhhhZ44Y
+..Y?????YQYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYIZZZ^kkkkkkkkkZ^kkkZZkkkZ^kkkkkkkkkkkZkkkkiikkkkkkkkkkZZ^^kkkkkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhh8hhhh88ZZ8hhhhhhhhhhhiihhZhhhhhhhhhhhhZ8hhZZhhhhZ8hhhhhhhhhZZZM
+..Y?????Y|(((((}}}((((((((((((((((((((((((((((((((((((((}}}}}}((((((}}}}}}}(((((((((((((((((((((((((((((((((((((((((((Z$$Z^kkkkkkkkkZ^kkZkkkkkZ^kkkkkkkkkkZkkkkikkkkkkkkkkkZZ^kkkkkkkZ^kkkkkkZZT~~~~~?????TIZhhhhhhhh8hhhhhh8ZZhhhhhhhhhhhhhihhZhhhhhhhhhhhZ8hhhhZhhhZ8hhhhhhhhhZ$$Z
+..Y?????Y|((((((((}}}}(((((((((((((}}}}}(((((((((((}}}}}(((((((((((((((((((}}}}}}}(((((((((((((}}}}}}}(((((((}}}}}}}}(Z$$Z^kkkkkkkkkZ^ZZkkkkkkZ^kkkkkkkkZZkkkiikkkkkkkkkkkZ^^kkkkkkkkZ^kkkkkZkkT~~~~~?????TVhZhhhhhhZ8hhhhhhh88ZhhhhhhhhhhhhhhhhZZhhhhhhhhhZ8hhhhhZZhZ8hhhhhhhhhZ$$Z
+..Y??<??Y|((((((((((((((((((((((((((((((}}}}}((((((((((((((((((((((((((((((((((((((((((((}}}}}}(((((((((((((((((((((((Z$$Z^kkkkkkkkkZZkkkkkkkkZ^kkkkkkkZ^kkkikkkkkkkkkkkZZ^kkkkkkkkkkZ^kkkZZkkkT~~~~~?????TVhhZZhhhhZ8hhhhhhhhh8ZZhhhhhhhhhhhhhhhhZhhhhhhhhZ8hhhhhhhZZ8hhhhhhhhhZ$$Z
+..Y??<??Y+??<<<<?????????????<<<?????<<<<<????????????????????????<<<<<<<????????????????????????????????<<<<<<<??????Z$$Z^kkkkkkkkZZkkkkkkkkkZ^kkkkkZZZ^kkkkkkkkkkkkkkZ^^kkkkkkkkkkkZ^kkZkkkkkT~~~~~?????TVhhhhZhhhZ8hhhhhhhhhh88ZhhhhhhhhhhhhhhhZZZhhhhhhZ8hhhhhhhhZZhhhhhhhhhZ$$Z
+.pY??<??Y+??????<<<<???<<<<<??????????????<<<<<?????<<<<???<<<<<<<?????????????????<<<<???????????<<<<<<<?????????????Z$$Z^kkkkkkkZkkkkkkkkkkkZ^kkkkZkkZ^kkkkkkkkkkkkZZ^kkkkkkkkkkkkkZ^ZZkkkkkkT~~~~~?????TVhhhhhZZhZ8hhhhhhhhhhhh8ZZhhhhhhhhhhhhhZ8hZhhhhhZ8hhhhhhhhhhZhhhhhhhhZ$$Z
+p6Y??<??YQYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYZ$$Z^kkkkkZZkkkkkkkkkkkkZ^kkZZkkkZ^kkkkkkkkkkkZ^^kkkkkkkkkkkkkkZZkkkkkkkkT~~~~~?????TVhhhhhhhZZ8hhhhhhhhhhhhh88ZhhhhhhhhhhhhZ8hhZZhhhZ8hhhhhhhhhhhZZhhhhhhZ$$Z
+p6Y??<??YttttttttttttttttttttttttttttttttttttttttttttttttttttBbWbbbBatttttttttttttttttttttttttttttttttttttttttttttttttZ$$Z^kkkkZkkkkkkkkkkkkkkZ^kZkkkkkk^kkkkkkkkkZZ^kkkkkkkkkkkkkkkZZkkkkkkkkkT~~~~~?????TVhhhhhhhhZZhhhhhhhhhhhhhhh8ZZhhhhhhhhhhZ8hhhhZhhZ8hhhhhhhhhhhhhZhhhhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@tZ$$Z^kkZZkkkkkkkkkkkkkkkZZZkkkkkkk^kkkkkkkkZZ^kkkkkkkkkkkkkkkZkkkkkkkkkkkT~~~~~?????TVhhhhhhhhhhZhhhhhhhhhhhhhhh8ZZhhhhhhhhhh8hhhhhZZZ8hhhhhhhhhhhhhhZZhhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@tZ$$Z^kZkkkkkkkkkkkkkkkkkZkkkkkkkkk^kkkkkkZZkZ^kkkkkkkkkkkkkZZkkkkkkkkkkkkT~~~~~?????TVhhhhhhhhhhhZZhhhhhhhhhhhhhhZ8ZZhhhhhhhh8hhhhhhhZ8hhhhhhhhhhhhhhhhZhhZ$$Z
+p6Y?<???Yt@@@@@@@@@@@@@@YYYYYYYYYYYYYYYYYYYYYYYy@@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@@YYYYYYYYYYYYYYYYYYYYYYYy@@@@@@@@@@@tZ$$Z9ZkkkkkkkkkkkkkkkkZZkkkkkkkkkZ^kkkkkZkkkZ^kkkkkkkkkkkkZkkkkkkkkkkkkkkT~~~~~?????TVhhhhhhhhhhhhhZhhhhhhhhhhhhhZ8hhZhhhhhhZ8hhhhhhhhZZhhhhhhhhhhhhhhhhZZZ$$Z
+p6Y?<???Yt@@@@@@@@@@@@@Y(((((((((((((((((((((((Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y(((((((((((((((((((((((Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkkkkkkkZkkkkkkkkkkkZ^kkkZZkkkkZ^kkkkkkkkkkZZkkkkkkkkkkkkkkkT~~~~~?????TVhhhhhhhhhhhhhhZZhhhhhhhhhhhZ8hhhZZhhhhZ8hhhhhhhhhhZhhhhhhhhhhhhhhhhhZ$$Z
+.cY?<???Yt@@@@@@@@@@@@@Y?YYYYYYYYYYYYYYYYYYYYY?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?YYYYYYYYYYYYYYYYYYYYY?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkkkkkZZkkkkkkkkkkkkZ^kkZkkkkkkZ^kkkkkkkkkZkkkkkkkkkkkkkkkkkT~~~~~?????TVhhhhhhhhhhhhhhhhZhhhhhhhhhhZ8hhhhhZhhhZ8hhhhhhhhhhhZZhhhhhhhhhhhhhhhZ$$Z
+p6Y?<???Yt@@@@@@@@@@@@@Y?Y'']]]]]:Y(Y'']]]]]]Y?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?Y'']]]]]:Y(Y'']]]]]]Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkkkkZkkkkkkkkkkkkkkZ^kZkkkkkkkZ^kkkkkkkZZ^kkkkkkkkkkkkkkkZZT~~~~~?????TIZhhhhhhhhhhhhhhhhZZhhhhhhhhZ8hhhhhhZhhZ8hhhhhhhhhhhhhZhhhhhhhhhhhhhhZ$$Z
+p6Y?<???Yt@@@@@@@@@@@@@Y?Y]'']]]]:Y(Y]'']]]]]Y?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?Y]'']]]]:Y(Y]'']]]]]Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkkZZkkkkkkkkkkkkkkkZZZkkkkkkkkZ^kkkkkkZkZ^kkkkkkkkkkkkkkZkkT~~~~~?????Tu8ZhhhhhhhhhhhhhhhZ8ZhhhhhhhZ8hhhhhhhZZZ8hhhhhhhhhhhhhhZZhhhhhhhhhhhhZ$$Z
+p6Y?<???Yt@@@@@@@@@@@@@Y?Y]]'']]]:Y(Y]]'']]]]Y?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?Y]]'']]]:Y(Y]]'']]]]Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkZ^kkkkkkkkkkkkkkkkZkkkkkkkkkkZ^kkkkZZkkZ^kkkkkkkkkkkkZZkkkT~~~~~?????TVh8ZZhhhhhhhhhhhhhZ88ZZhhhhhZ8hhhhhhhhhZ8hhhhhhhhhhhhhhhhZhhhhhhhhhhhZ$$Z
+pcY?<???Yt@@@@@@@@@@@@@Y?Y]]]'']]:Y(Y]]]'']]]Y?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?Y]]]'']]:Y(Y]]]'']]]Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkZZZ^kkkkkkkkkkkkkkZZkkkkkkkkkkkZ^kkkZkkkkZ^kkkkkkkkkkkZkkkkkT~~~~~?????TVhh88ZhhhhhhhhhhhhZ8h88ZhhhhZ8hhhhhhhhhhZZhhhhhhhhhhhhhhhZZZhhhhhhhhhZ$$Z
+p6Y?????Yt@@@@@@@@@@@@@Y?Y]]]]'']:Y(Y]]]]'']]Y?Yy@@@@@@@@@@@@Y?????Yt@@@@@@@@@@@@Y?Y]]]]'']:Y(Y]]]]'']]Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkZkkZ^kkkkkkkkkkkkkZkkkkkkkkkkkkkZ^kZZkkkkkZ^kkkkkkkkkZZkkkkkkT~~~~~?????TVhhhh8ZZhhhhhhhhhhZ8hhh8ZZhhZ8hhhhhhhhhhhhZhhhhhhhhhhhhhhZ88ZhhhhhhhhZ$$Z
+p6Y?????Yt@@@@@@@@@@@@@Y?Y]]]]]'':Y(Y]]]]]'']Y?Yy@@@@@@@@@@@@Y?????Yt@@@@@@@@@@@@Y?Y]]]]]'':Y(Y]]]]]'']Y?Yy@@@@@@@@@@tZ$$Z^kkkkkZZkkkZ^kkkkkkkkkkkZZkkkkkkkkkkkkkkZ^Zkkkkkkkk^kkkkkkkkZkkkkkkkkT~~~~~?????TVhhhhh88ZhhhhhhhhhZ8hhhh88ZhZ8hhhhhhhhhhhhhZZhhhhhhhhhhhhZ8h8ZZhhhhhhZ$$Z
+pcY?????Yt@@@@@@@@@@@@@Y?Y]]]]]]'{Y(Y]]]]]]''Y?Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y?Y]]]]]]'{Y(Y]]]]]]''Y?Yy@@@@@@@@@@tZ$$Z^kkkkZkkkkkZ^kkkkkkkkkkZkkkkkkkkkkkkkkkkZZkkkkkkkkZ^kkkkkkZZ^kkkkkkkkT~~~~~?????TVhhhhhhh8ZZhhhhhhhZ8hhhhhh8ZZ8hhhhhhhhhhhhhhhZhhhhhhhhhhhZ8hh88ZhhhhhZ$$Z
+.6Y??<??Yt@@@@@@@@@@@@@Y?Y]]]]]]]{Y(Y]]]]]]]'Y?Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y?Y]]]]]]]{Y(Y]]]]]]]'Y?Yy@@@@@@@@@@tZ$$Z^kkZZkkkkkkZ^kkkkkkkkZZkkkkkkkkkkkkkkkkZkkkkkkkkkkZ^kkkkkZ^Z^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8ZhhhhhhZ8hhhhhhh88ZhhhhhhhhhhhhhhhhZZhhhhhhhhhZ8hhhh8ZZhhhZ$$Z
+pcY??<??Yt@@@@@@@@@@@@@Y?YYYYYYYYYYYYYYYYYYYYY?Yy@@@@@@@@@@@@Y?????Yt@@@@@@@@@@@@Y?YYYYYYYYYYYYYYYYYYYYY?Yy@@@@@@@@@@tZ$$Z^kZkkkkkkkkZ^kkkkkkkZ^kkkkkkkkkkkkkkkZZkkkkkkkkkkkZ^kkkZZ^kZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8hZZhhhhZ8hhhhhhhhh8ZZhhhhhhhhhhhhhhhhZhhhhhhhhZ8hhhhh88ZhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@Y?Y(((((((((((((((((((Y?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?Y(((((((((((((((((((Y?Yy@@@@@@@@@@tZ$$Z9ZkkkkkkkkkZ^kkkkkZZZ^kkkkkkkkkkkkkkZkkkkkkkkkkkkkZ^kkZ^^kkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8hhhZhhhZ8hhhhhhhhhh88ZhhhhhhhhhhhhhhhZZZhhhhhhZ8hhhhhhh8ZZZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@Y?YYYYYYYYYYYYYYYYYYYYY?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?YYYYYYYYYYYYYYYYYYYYY?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkZ^kkkkZkkZ^kkkkkkkkkkkkZZkkkkkkkkkkkkkkZ^ZZ^kkkkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8hhhhZZhZ8hhhhhhhhhhhh8ZZhhhhhhhhhhhhhZ8hZhhhhhZ8hhhhhhhh88Z$$Z
+p6Y?????Yt@@@@@@@@@@@@@Y?Y{{::::::L>L{{[[[[[[Y?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?Y{{::::::L>L{{[[[[[[Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkZ^kkZZkkkZ^kkkkkkkkkkkZkkkkkkkkkkkkkkkkZZ^^kkkkkZ^kkkkkkkkT~~~~~?????TVhhhhhhhhZ8hhhhhhZZ8hhhhhhhhhhhhh88ZhhhhhhhhhhhhZ8hhZZhhhZ8hhhhhhhhhhZ$$Z
+p6Y?????Yt@@@@@@@@@@@@@Y?Y]'']]]]:Y(Y]'',,,,,Y?Yy@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@Y?Y]'']]]]:Y(Y]'',,,,,Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkZ^kZkkkkkZ^kkkkkkkkkkZkkkkkkkkkkkkkkkkZZ^kkkkikkZ^kkkkkkXXTzzzzzoooooTHXhhhhhhhZ8hhhhhhhZZhhhhhhhhhhhhhhh8ZhhhhhhhhhhhZ8hhhhZhhZ8hhhhhhhhhhZ$$Z
+p6G?????Yt@@@@@@@@@@@@@Y?Y]]'']]]:Y(Y]]'',,,,Y?Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y?Y]]'']]]:Y(Y]]'',,,,Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkZZZkkkkkkZ^kkkkkkkkZZkkkkkkkkkkkkkkkkZ^^kkkiikkkZ^kkkkkXffT*****22222TNfXhhhhhhZ8hhhhihhhhZhhhhhhhhhhhhhhh8ZZhhhhhhhhhZ8hihhhZZZ8hhhhhhhhhhZ$$Z
+.pY?<???Yt@@@@@@@@@@@@@Y?Y]]]'']]:Y(Y]]]'',,,Y?Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y?Y]]]'']]:Y(Y]]]'',,,Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkZkkkkkkkkZ^kkkkkkkZ^kkkkkkkkkkkkkkkZZ^kkkkikkkkkZ^kkkXXfffT*****22222TNffXXhhhhZ8hhhhhiihhhZZhhhhhhhhhhhhhh88ZhhhhhhhhZ8hhiihhhZ8hhhhhhhhhhZ$$Z
+p6Y?<???Yt@@@@@@@@@@@@@Y?Y]]]]'']:Y(Y]]]]'',,Y?Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y?Y]]]]'']:Y(Y]]]]'',,Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkkZZkkkkkkkkkZ^kkkkkZZZ^kkkkkkkkkkkkkkZ^^kkkkikkkkkkZ^kkXfffffT*****22222TNffffXhhhZ8hhhhhhhihhhhZhhhhhhhhhhhhhhhZZZhhhhhhZ8hhhhihhhZZhhhhhhhhhZ$$Z
+p6Y?<???Yt@@@@@@@@@@@@@Y?Y]]]]]'':Y(Y]]]]]'',Y?Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y?Y]]]]]'':Y(Y]]]]]'',Y?Yy@@@@@@@@@@tZ$$Z^kkkkkkkZkkkkkkkkkkkZ^kkkkZ^^Z^kkkkkkkkkkkkZZ^kkkkiikkkkkkkZ^XXffffXXTTTTTTTTTTTTHXffffXXhZ8hhhhhhhhiihhhZZhhhhhhhhhhhhhZ8hZhhhhhZ8hhhhhiihhhZhhhhhhhhZ$$Z
+.pY?<???Yt@@@@@@@@@@@@@Y?Y]]]]]]'{Y(Y]]]]]]''Y?Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y?Y]]]]]]'{Y(Y]]]]]]''Y?Yy@@@@@@@@@@tZ$$Z^kkkkkZZkkkkkkkkkkkkZ^kkZZ^kkZ^kkkkkkkkkkkZ^^kkkkikkkkkkkkkZXfffffXmmmmmmmmmmmmmmmmXfffffXZ8hhhhhhhhhhihhhhZhhhhhhhhhhhhZ8hhZZhhhZ8hhhhhhhihhhZZhhhhhhZ$$Z
+ppY??<??Yt@@@@@@@@@@@@@Y?Y]]]]]]]{Y(Y]]]]]]]'Y?Yy@@@@@@@@@@@@Y?????Yt@@@@@@@@@@@@Y?Y]]]]]]]{Y(Y]]]]]]]'Y?Yy@@@@@@@@@@tZ$$Z^kkkkZkkkkkkkkkkkkkkZ^kZ^^kkkZ^kkkkkkkkkZZ^kkkkkikkkkkkkkkXXffffXXmmmmmmmmmmmmmmmmmmXXffffXXhhhhhhhhhhhiihhhZZhhhhhhhhhhZ8hhhhZhhZ8hhhhhhhhihhhhZhhhhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@Y?Y]]]]]]]:Y(Y]]]]]]]]Y?Yy@@@@@@@@@@@@Y?????Yt@@@@@@@@@@@@Y?Y]]]]]]]:Y(Y]]]]]]]]Y?Yy@@@@@@@@@@tZ$$Z^kkZZkkkkkkkkkkkkkkkZZZ^kkkkkZ^kkkkkkkkZZ^kkkkiikkkkkkkkkXfffffXmmm@@@@@@@@@@@@@@@@mmmXfffffXhhhhhhhhhhhhihhhZZhhhhhhhhhh8hhhhhZZZ8hhhhhhhhhiihhhZZhhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@Y?Y]]]]]]]:Y(Y]]]]]]]]Y?Yy@@@@@@@@@@@@Y?????Yt@@@@@@@@@@@@Y?Y]]]]]]]:Y(Y]]]]]]]]Y?Yy@@@@@@@@@@tZ$$Z^kZkkkkkkkkkkkkkkkkkZ^^kkkikkZ^kkkkkkZZkZ^kkkikkkkkkkkkXXffffXXmmm@@@@@@@@@@@@@@@@@@mmmXXffffXXhhhhhhhhhhhhhhZ8ZZhhhhhhhh8hhhhhhhZ8hhhhhhhhhhhihhhhZhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@Y?YYYYYYYYYYYYYYYYYYYYY?Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y?YYYYYYYYYYYYYYYYYYYYY?Yy@@@@@@@@@@tZ$$Z9ZkkkkkkkkkkkkkkkkZZ^kkkiikkkZ^kkkkkZkkkZ^kkkkkkkkkkkkXffffXXmmm@@@@@@@@@@@@@@@@@@@@@@mmmXXffffXhhhhhhhhhhhhhZ8hhZhhhhhhZ8hhhhhhhhZZhhhhhhhhhhhiihhhZZZ$$Z
+p6Y?????Yt@@@@@@@@@@@@@Y(/////////////////////(Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y(/////////////////////(Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkkkkkkkZ^^kkkikkkkkZ^kkkZZkkkkZ^kkkkkkkkkkXXffffXGmmm@@@@@@@@@@@@@@@@@@@@@@@@mmmGXffffXXhhhhhhhhhhhZ8hhhZZhhhhZ8hhhhhhhhhhZhhhhhhhhhhhhihhhhZ$$Z
+p6Y?????Yt@@@@@@@@@@@@@Y(((((((((((((((((((((((Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y(((((((((((((((((((((((Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkkkkkZZ^kkkiikkkkkkZ^kkZkkkkkkZ^kkkkkkkkkXfffffXnGm@@@@@@@@@@@@@@@@@@@@@@@@@@@@mGnXfffffXhhhhhhhhhhZ8hhhhhZhhhZ8hhhhhhhhhhhZZhhhhhhhhhhhhhhhZ$$Z
+p6Y?<???Yt@@@@@@@@@@@@@Y???????????????????????Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y???????????????????????Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkkkkZ^^kkkikkkkkkkkZ^kZkkkkkkkk^kkkkkkkXXffffXXnnYm@@YYYYYYYYYYYYYYYYYYYYYYYYm@@YnnXXffffXXhhhhhhhhZ8hhhhhhZhhZ8hhhhhhhhhhhhhZhhhhhhhhhhhhhhZ$$Z
+.cY?<???Yt@@@@@@@@@@@@@Y???????????????????????Yy@@@@@@@@@@@@Y?<???Yt@@@@@@@@@@@@Y???????????????????????Yy@@@@@@@@@@tZ$$Z^kkkkkkkkkkkZZ^kkkiikkkkkkkkkZZZkkkkkkkkk^kkkkkkXfffffXnnn?Ym@Y((((((((((((((((((((((((Ym@Y?nnnXfffffXhhhhhhhZ8hhhhhhhZZZ8hhhhhhhhhhhhhhZZhhhhhhhhhhhhZ$$Z
+p6Y?????Yt@@@@@@@@@@@@@yYYYYYYYYYYYYYYYYYYYYYYYy@@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@yYYYYYYYYYYYYYYYYYYYYYYYy@@@@@@@@@@@tZ$$Z^kkkkkkkkkkZ^^kkkikkkkkkkkkkkZkkkkkkkkkkZ^kkkkXXffffXXnnn??Ym@Y????????????????????????Ym@Y??nnnXXffffXXhhhhhZ8hhhhhhhhhZ8hhhhhhhhhhhhhhhhZhhhhhhhhhhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@@yyyyyyyyyyyyyyyyyyyyyyy@@@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@@yyyyyyyyyyyyyyyyyyyyyyy@@@@@@@@@@@@tZ$$Z^kkkkkkkkZZZ^kkiikkkkkkkkk^ZZkkkkkkkkkkkZ^kkkXfffffXmGn????Ym@Y??YYYYYYYY%???YYYYYYYY%?Ym@Y<???nGmXfffffXhhhhZ8hhhhhhhhhhZZhhhhhhhhhhhhhhhZZZhhhhhhhhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@tZ$$Z^kkkkkkkZkkZ^kikkkkkkkkkkkZkkkkkkkkkkkkkZ^kXXffffXXmmG?????Ym@Y?Y]]]]]]]'Y%?Y]]]]]]''Y%Ym@Y<????GmmXXffffXXhhZ8hhhhhhhhhhhhZhhhhhhhhhhhhhhZ8hZhhhhhhhhZ$$Z
+pcY??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@tZ$$Z^kkkkkZZkkkk^kkkkkkkkkkkZZkkkkkkkkkkkkkkZ^XfffffXmmm@Y?<???Ym@Y?Y]]]]]]''Y%?Y]]]]]'']Y%Ym@Y<????YmmmmXfffffXhZ8hhhhhhhhhhhhhZZhhhhhhhhhhhhZ8hhZZhhhhhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@tZ$$Z^kkkkZkkkkkk^kkkkkkkkkkZkkkkkkkkkkkkkkkkXXffffXXmmm@@Y?<???Ym@Y?Y]]]]]'']Y%?Y]]]]'']]Y%Ym@Y<????Ym@mmmXXffffXX8hhhhhhhhhhhhhhhZhhhhhhhhhhhZ8hhhhZhhhhhZ$$Z
+p6Y??<??Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y?????Yt@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@tZ$$Z^kkZZkkkkkkk^kkkkkkkkZZkkkkkkkkkkkkkkkkXfffffXmmm@@@@Y?<???Ym@Y?Y]]]]'']]Y%?Y]]]'']]]Y%Ym@Y<????Ym@@@mmmXfffffXhhhhhhhhhhhhhhhhZZhhhhhhhhhZ8hhhhhZZhhhZ$$Z
+pcY??<??YGYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY?????YJYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYJZ$$Z^kZkkkkkkkkk^kkkkkkkZkkkkkkkkkkkkkkkkXXffffXXmmm@@@@@Y?<???Ym@Y?Y]]]'']]]Y%?Y]]'']]]'Y%Ym@Y<????Ym@@@@mmmXXffffXXhhhhhhhhhhhhhhhhZhhhhhhhhZ8hhhhhhhZhhZ$$Z
+.6Y???<?Y=(((((((((((((((((((((((((((((((((((((((((((((((((((Y?????Y&((((((((((((((((((((((((((((((((((((((((((((((((&Z$$Z9ZkkkkkkkkkZ^kkkkkZZ^kkkkkkkkkkkkkkkXfffffXmmm@@@@@@@Y?<???Ym@Y?Y]]'']]]'Y%?Y]'']]]']Y%Ym@Y?<???Ym@@@@@@mmmXfffffXhhhhhhhhhhhhhhhhZZhhhhhhZ8hhhhhhhhZZZ$$Z
+pcY???<?Y=(}}}}}((((((((((((((((((}}}}}}((((((}}}((((((((((}}Y??<??Y5}}((((((((((((((((((((((((((}}}}}}}}}}}(((((((}}5Z$$Z^kkkkkkkkkkZ^kkkkZkZ^kkkkkkkkkkkkkXXffffXXmmm@@@@@@@@Y?<???Ym@Y?Y]'']]]']Y%?Y'']]]']]Y%Ym@Y?<???Ym@@@@@@@mmmXXffffXXhhhhhhhhhhhhhhZ8ZhhhhhZ8hhhhhhhhhhZ$$Z
+p6Y???<?Y=((((((}}}}}}(((((((}}}}}(((((((((((((((((((((((((((Y??<??Y&(((((((((((((((((((((}}}}}}}((((((((((((((((((((&Z$$Z^kkkkkkkkkkZ^kkZZkkZ^kkkkkkkkkkkkXfffffXmmm@@@@@@@@@@Y??<??Ym@Y?Y'']]]']]Y%?Y']]]']]]Y%Ym@Y?<???Ym@@@@@@@@@mmmXfffffXhhhhhhhhhhhhhZ88ZZhhhZ8hhhhhhhhhhZ$$Z
+p6Y???<?Yn???????????????????????????????????????????????????Y?<???Ys????????????????????????????????????????????????sZ$$Z^kkkkkkkkkkZ^kZkkkkZ^kkkkkkkkkkkXffffXXmmm@@@@@@@@@@@Y??<??Ym@Y??YYYYYYYY%???YYYYYYYY%?Ym@Y?<???Ym@@@@@@@@@@mmmXXffffXhhhhhhhhhhhhZ8h88ZhhZ8hhhhhhhhhhZ$$Z
+p6Y???<?Yn<<<????????????????????????<<<??????????<<<<<<<<<<<Y?<???Ys????????<<<<<<<<<??????????????????????<<<<<<<<<sZ$$Z^kkkkkkkkkkZZZkkkkkZ^kkkkkkkkkXXffffXmmm@@@@@@@@@@@@@Y??<??Ym@Y((((((((((((((((((((((((Ym@Y?<???Ym@@@@@@@@@@@@mmmXffffXXhhhhhhhhhhZ8hhh8ZZZ8hhhhhhhhhhZ$$Z
+p6Y?????YGYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY?????YJYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYJZ$$Z^kkkkkkkkkkZkkkkkkkZ^kkkkkkkkXffffXXmmm@@@@@@@@@@@@@@Y??<??Ym@Y((((((((((((((((((((((((Ym@Y?<???Ym@@@@@@@@@@@@@mmmXXffffXhhhhhhhhhh8hhhh88Z8hhhhhhhhhhZ$$Z
+pcY?????Ycccq66ccccccq66666666ccccccq6666cccq66cccccc66666666Y?????Yq6666cccq66cccccc666666666ccccccq6666cccq66cccccc6Z$$Z^kkkkkkkkZZkkkkkkkkZ^kkkkkkXXffffXmmm@@@@@@@@@@@@@@@@Y??<??Ym@Y????????????????????????Ym@Y?????Ym@@@@@@@@@@@@@@@mmmXffffXXhhhhhhhh8hhhhhh8ZZhhhhhhhhhZ$$Z
+p)6YYYYYc))3_)3))))))3_))33_)3))))))3_))3))3_)3))))))3_))33_)gYYYYY-3_))3))3_)3))))))3_))33_)3))))))3_))3))3_)3))))))3Z$$Z^kkkkkkkZkkkkkkkkkkZ^kkkkkXfffffXmmm@@@@@@@@@@@@@@@@@Y??<??Ym@mYYYYYYYYYYYYYYYYYYYYYYYYm@@Y?????Ym@@@@@@@@@@@@@@@@mmmXfffffXhhhhhhZ8hhhhhhh88ZhhhhhhhhZ$$Z
+p))66cq63)))3_)3))))3_)33))3_3)))))))3_)3)))3_)3))))3_)33))3_3xxxxx))3_)3)))3_)3))))3_)33))3_3)))))))3_)3)))3_)3))))3_Z$$Z^kkkkkZZkkkkkkkkkkkZ^kkkXXffffXXmm@@@@@@@@@@@@@@@@@@@Y??<??Ym@@mmmmmmmmmmmmmmmmmmmmmmmm@@@Y?<???Ym@@@@@@@@@@@@@@@@@@mmXXffffXXhhhhZ8hhhhhhhhh8ZZhhhhhhZ$$Z
+p3)))3_)3))))3_)3333_)3))))3_)3333)))3_)3))))3_)3333_)3))))3_)3333)))3_)3))))3_)3333_)3))))3_)3333)))3_)3))))3_)3333_)Z$$Z^kkkkZkkkkkkkkkkkkkZ^kkXfffffXmmm@@@@@@@@@@@@@@@@@@@@Y?????Ym@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y?<??<Ym@@@@@@@@@@@@@@@@@@@mmmXfffffXhhhZ8hhhhhhhhhh88ZhhhhhZ$$Z
+.33))3_)3))))3_)))))))3))))3_)))))3))3_)3))))3_)))))))3))))3_)))))3))3_)3))))3_)))))))3))))3_)))))3))3_)3))))3_)))))))Z$$Z^kkZZkkkkkkkkkkkkkkZ^XXffffXXmmm@@@@@@@@@@@@@@@@@@@@@Y?????Ym@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y????<Ym@@@@@@@@@@@@@@@@@@@@mmmXXffffXXhZ8hhhhhhhhhhhh8ZZhhhZ$$Z
+.3)33_)33)))))3_))33_)3)))3_)3333_)33_))3)))))3_))33_)3)))3_)3333_)33_))3)))))3_))33_)3)))3_)3333_)33_))3)))))3_))33_)Z$$Z^kZkkkkkkkkkkkkkkkkZXfffffXmmm@@@@@@@@@@@@@@@@@@@@@@@Y?????Ym@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y????<Ym@@@@@@@@@@@@@@@@@@@@@@mmmXfffffXZ8hhhhhhhhhhhhh88ZhhZ$$Z
+p3)))))3)))))3_))3))3_)3333_3))))3_))))3)))))3_))3))3_)3333_3))))3_))))3)))))3_))3))3_)3333_3))))3_))))3)))))3_))3))3_Z$$Z9ZkkkkkkkkkkkkkkkkXXffffXXmmm@@@@@@@@@@@@@@@@@@@@@@@@Y?????Ym@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y????<Ym@@@@@@@@@@@@@@@@@@@@@@@mmmXXffffXXhhhhhhhhhhhhhhh8ZZZ$$Z
+p3))3_)33))33_))3)))3_))))))3))))3_33_))3))33_))3)))3_))))))3))))3_33_))3))33_))3)))3_))))))3))))3_33_))3))33_))3)))3_Z$$Z^kkkkkkkkkkkkkkkkXfffffXmmm@@@@@@@@@@@@@@@@@@@@@@@@@@Y?<??<Ym@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y???<?Ym@@@@@@@@@@@@@@@@@@@@@@@@@mmmXfffffXhhhhhhhhhhhhhhh88Z$$Z
+p3)3)3_))33_))3_)3))3_))3_))3))))3_3)3_))33_))3_)3))3_))3_))3))))3_3)3_))33_))3_)3))3_))3_))3))))3_3)3_))33_))3_)3))3_Z$$Z^kkkkkkkkkkkkkkXXffffXXGGGYYYYYYYYYYYYYYYYYYYYYYYYYYYY?<??<YGYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY???<?YGYYYYYYYYYYYYYYYYYYYYYYYYYYGGGXXffffXXhhhhhhhhhhhhhhhZ$$Z
+p3)3))3_)))))3)3_)3)3_)3)33_)3)))3_3))3_)))))3)3_)3)3_)3)33_)3)))3_3))3_)))))3)3_)3)3_)3)33_)3)))3_3))3_)))))3)3_)3)3_Z$$Z^kkkkkkkkkkkkkXffffXX777(((((((((((((((((((((}}}}}(((Y????<Yn?????????????????????????????Y???<?Y1((((((((((((((((((((((((((((177XXffffXhhhhhhhhhhhhhhZ$$Z
+.3)3)))3_)333)))3_3))33))))3_)3)3__3)))3_)333)))3_3))33))))3_)3)3__3)))3_)333)))3_3))33))))3_)3)3__3)))3_)333)))3_3))3Z$$Z^kkkkkkkkkkkXXffffX7777((((}}}}}(((((((((}}}}(((((((}Y????<Yn?????????????????????????????Y???<?Y1(((((((((((((((((((((((((((((7777XffffXXhhhhhhhhhhhhZ$$Z
+.33))))3_3))))))3_3))33)))))3_33_)3))))3_3))))))3_3))33)))))3_33_)3))))3_3))))))3_3))33)))))3_33_)3))))3_3))))))3_3))3Z$$Z^kkkkkkkkkkXfffffX777(((((((((((}}}}}((((((((((((((((Y????<Yn?????????????????????????????Y???<?Y1(((((((((((((((((((((((((((((((777XfffffXhhhhhhhhhhhZ$$Z
+p3)))))3p3)))))3pp3))33)))))3p)))3)))))3p3)))))3pp3))33)))))3p)))3)))))3p3)))))3pp3))33)))))3p)))3)))))3p3)))))3pp3))3Z$$Z^kkkkkkkkXXffffXXnn??????????????????????????????????Y????<Yn??CCCCCCCCCCCCCCCCCCCCCCCCl??Y?????Yn?????????????????????????????????nnXXffffXXhhhhhhhhhZ$$Z
+.ppppppp.ppppppp..ppppppppppp.pppppppppp.ppppppp..ppppppppppp.pppppppppp.ppppppp..ppppppppppp.pppppppppp.ppppppp..ppppZ$$Z^kkkkkkkXfffffXnnn???????????????????????????????????Y????<Yn?CeOOOOOCeOOOOOOOOOCeOOOOOCl?Y?????Yn??????????????????????????????????nnnXfffffXhhhhhhhhZ$$Z
+......................................................................................................................Z$$Z^kkkkkXXffffXXGGGYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY???<?Yn?CeRRRROCeRRRRRRRROCeRRPROCl?Y?????YGYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYGGGXXffffXXhhhhhhZ$$Z
+......................................................................................................................Z$$Z^kkkkXfffffXmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmY???<?Yn?CeRPRROCeRRPRRRRROCeRRPROCl?Y?<???YmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmXfffffXhhhhhZ$$Z
+......................................................................................................................Z$$Z^kkXXffffXXGmm@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y???<?Yn?CeRPRROCeRRPRRRRROCeRRRROCl?Y?<???Ym@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@mmGXXffffXXhhhZ$$Z
+......................................................................................................................Z$$Z^kXfffffXnnGm@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y???<?Yn?CeRPRROCeRRRPRRRROCeRPRROCl?Y?<???Ym@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GnnXfffffXhhZ$$Z
+......................................................................................................................Z$$ZXXffffXXnnnYm@@@@YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYm@@@@@Y???<?Yn?CeRPRROCeRRRPRRRROCeRPRROCl?Y?<???Ym@@@@YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYm@@@@@YnnnXXffffXXZ$$Z
+......................................................................................................................Z$$XfffffXnnn??Ym@@@Y((((((((((((((((((((((((((((((Ym@@@@Y???<?Yn?CeRPRROCeRRRRRRRROCeRPRROCl?Y?<???Ym@@@Y((((((((((((((((((((((((((((((Ym@@@@Y??nnnXfffffX$$Z
+......................................................................................................................Z$$XfffXXGnn???Ym@@@Y??????????????????????????????Ym@@@@Y???<?Yn?CeRRPROCeRRRRRRPROCeRPRROCl?Y??<??Ym@@@Y??????????????????????????????Ym@@@@Y???nnGXXfffX$$Z
+......................................................................................................................Z$$XffXSdG?????Ym@@@Y???YYYYYYYYYY%???YYYYYYYYYY%??Ym@@@@Y?????Yn?CeRRPROCeRRRAARPROCeRPRROCl?Y??<??Ym@@@Y???YYYYYYYYYY%???YYYYYYYYYY%??Ym@@@@Y?<???G6SXffX$$Z
+......................................................................................................................Z$$ZXX.SUY?<???Ym@@@Y??Y]]]]]]']]]Y%?Y'''']]]]]]Y%?Ym@@@@Y?????Yn?CeRRPROCeRRRAARPROCeRRPROCl?Y??<??Ym@@@Y??Y]]]]]]']]]Y%?Y'''']]]]]]Y%?Ym@@@@Y?<???YUS.XXZ$$Z
+......................................................................................................................Z$$Z...pcY?<???Ym@@@Y??Y]]]]]']]]]Y%?Y''']]]]]]]Y%?Ym@@@@Y?????Yn?CeRRPROCeRRROORPROCeRRPROCl?Y??<??Ym@@@Y??Y]]]]]']]]]Y%?Y''']]]]]]]Y%?Ym@@@@Y?<???Ycp...Z$$Z
+.......................................................................................................................ZZ....pcY?<???Ym@@@Y??Y]]]]']]]]]Y%?Y'']]]]]]]'Y%?Ym@@@@Y<????Yn?CeRRPROCeRRRRRPRROCeRRPROCl?Y??<??Ym@@@Y??Y]]]]']]]]]Y%?Y'']]]]]]]'Y%?Ym@@@@Y?<???Ycp....ZZ.
+..............................................................................................................................cY?<???Ym@@@Y??Y]]]']]]]]]Y%?Y']]]]]]]''Y%?Ym@@@@Y<????Yn?CeRRRROCeRRRRRPRROCeRRPROCl?Y??<??Ym@@@Y??Y]]]']]]]]]Y%?Y']]]]]]]''Y%?Ym@@@@Y?<???Y6p.......
+.............................................................................................................................pcY??<??Ym@@@Y??Y]]']]]]]]]Y%?Y]]]]]]]'']Y%?Ym@@@@Y<????Yn?CeRRRROCeRRPRRPRROCeRRRROCl?Y?????Ym@@@Y??Y]]']]]]]]]Y%?Y]]]]]]]'']Y%?Ym@@@@Y??<??YS........
+.............................................................................................................................pqY??<??Ym@@@Y??Y]']]]]]]]'Y%?Y]]]]]]'']]Y%?Ym@@@@Y<????Yn?CeRRRROCeRRPRRRRROCeRRRROCl?Y?????Ym@@@Y??Y]']]]]]]]'Y%?Y]]]]]]'']]Y%?Ym@@@@Y??<??YS........
+.............................................................................................................................p6Y??<??Ym@@@Y??Y']]]]]]]''Y%?Y]]]]]'']]]Y%?Ym@@@@Y<????Yn?CeRRPROCeRRPRRRRROCeRRRROCl?Y?????Ym@@@Y??Y']]]]]]]''Y%?Y]]]]]'']]]Y%?Ym@@@@Y??<??Y6p.......
+.............................................................................................................................p6Y??<??Ym@@@Y??Y]]]]]]]'''Y%?Y]]]]'']]]]Y%?Ym@@@@Y<????Yn?CeRRPROCeRRPRRRRROCeRRPROCl?Y???<?Ym@@@Y??Y]]]]]]]'''Y%?Y]]]]'']]]]Y%?Ym@@@@Y??<??Y6p.......
+.............................................................................................................................p6Y?????Ym@@@Y??Y]]]]]]''''Y%?Y]]]'']]]]]Y%?Ym@@@@Y?<???Yn?CeRPRROCeRRRPRRRROCeRRPROCl?Y???<?Ym@@@Y??Y]]]]]]''''Y%?Y]]]'']]]]]Y%?Ym@@@@Y??<??Y6p.......
+.............................................................................................................................p6Y?????Ym@@@Y??Y]]]]]'''']Y%?Y]]'']]]]]]Y%?Ym@@@@Y?<???Yn?CeRPRROCeRRRPRRRROCeRRPROCl?Y?????Ym@@@Y??Y]]]]]'''']Y%?Y]]'']]]]]]Y%?Ym@@@@Y?????Y6p.......
+.............................................................................................................................p6Y?<???Ym@@@Y??Y]]]]'''']]Y%?Y]'']]]]]]]Y%?Ym@@@@Y?<???Yn?CeAKAAOCeRRRPRRRROCeRPRROCl?Y?????Ym@@@Y??Y]]]]'''']]Y%?Y]'']]]]]]]Y%?Ym@@@@Y?????Y6p.......
+..............................................................................................................................cY?<???Ym@@@Y??Y]]]'''']]]Y%?Y'']]]]]]]]Y%?Ym@@@@Y?<???Yn?CeAAOOOCeRRRPRRRROCeRPRROCl?Y??<??Ym@@@Y??Y]]]'''']]]Y%?Y'']]]]]]]]Y%?Ym@@@@Y?<???Y6p.......
+.............................................................................................................................p6Y?????Ym@@@Y???YYYYYYYYYY%???YYYYYYYYYY%??Ym@@@@Y?<???Yn?CeOORROCeRRRPRRRROCeRPRROCl?Y??<??Ym@@@Y???YYYYYYYYYY%???YYYYYYYYYY%??Ym@@@@Y?<???Y6p.......
+.............................................................................................................................p6Y??<??Ym@@@Y((((((((((((((((((((((((((((((Ym@@@@Y?<???Yn?CeRRRROCeRRRRRRRROCeRRRROCl?Y??<??Ym@@@Y((((((((((((((((((((((((((((((Ym@@@@Y?????Y6p.......
+.............................................................................................................................p6Y??<??Ym@@@Y((((((((((((((((((((((((((((((Ym@@@@Y?<?<?Yn?CeRRRROCeRRRRPRRROCeRRRROCl?Y??<??Ym@@@Y((((((((((((((((((((((((((((((Ym@@@@Y??<??Y6p.......
+.............................................................................................................................pcY??<??Ym@@@Y??????????????????????????????Ym@@@@Y???<?Yn?CeRRRROCeRRRRPRRROCeRRPROCl?Y??<??Ym@@@Y??????????????????????????????Ym@@@@Y??<??Ycp.......
+.............................................................................................................................p6Y??<??Ym@@@mYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYm@@@@@Y???<?Yn?CePRRROCeRRRRPRRROCeRRPROCl?Y?<???Ym@@@mYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYm@@@@@Y??<??YS........
+.............................................................................................................................p6Y??<??Ym@@@@mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm@@@@@@Y???<?Yn?CePRRROCeRRRRPRRROCeRRPROCl?Y?<???Ym@@@@mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm@@@@@@Y??<??YS........
+.............................................................................................................................pcY??<??YGYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY?????Yn?CePRRROCeRRRPRRRROCeRRPROCl?Y?<???YGYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYGY??<??Ycp.......
+..............................................................................................................................6Y???<?Y=((((((((((((((((((((((((((((((((((((((((Y?????Yn?CeRPRROCeRRRPRRRROCeRPRROCl?Y?<??YY=(((((((((((((((((((((((((((((((((((}}}(=Y?<???YS........
+.............................................................................................................................pcY???<?Y=(}}}}}((((((((((((((((((}}}}}}((((((}}}(1YYYYYYn?CeRPRROCeRRRPRRRROCeRPRROCl?YYYYYj((((}}}}}(((}}}}}}((((((((((((((((}}}((((=Y?<???Ycp.......
+.............................................................................................................................p6Y???<?Y=((((((}}}}}}(((((((}}}}}(((((((((((((((((11111Yn?CeRPRROCeRRRPRRRROCeRPRROCl?Y1111(((((((((((((((((((}}}}}}}((((((((((((((((=Y?<???Y6p.......
+.............................................................................................................................p6Y???<?Yn??????????????????????????????????????????????Yn?CeRRRROCeRRRPRRRROCeRPRROCl?Yl?????????????????????????????????????????????nY?<???Y6p.......
+.............................................................................................................................p6Y???<?Yn<<<????????????????????????<<<????????????????Yn?CeRRRROCeRRRRRRRROCeRRRROCl?Yl????????????<<<<?????????????????<<<?????????nY?<???Y6p.......
+.............................................................................................................................p6Y?????YGYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYEYYCCCCCCCCCCCCCCCCCCCCCCCCEYYYEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYGY?????Y6p.......
+.............................................................................................................................pcY?????Ycccq66ccccccq66666666ccccccq6666cccq66cccccc6YYYEYYEEEEEEEEEEEEEEEEEEEEEEEEEYYYEY6cccccc66qccc6666qcccccc66666666qcccccc66qcccY?????Y3p.......
+.............................................................................................................................p)6YYYYYc))3_)3))))))3_))33_)3))))))3_))3))3_)3))))))3Y((((((((((((((((((((((((((((((((((Y3))))))3)_3))3))_3))))))3)_33))_3))))))3)_3))cYYYYY6)p.......
+.............................................................................................................................p))66cq63)))3_)3))))3_)33))3_3)))))))3_)3)))3_)3))))3_Y((}}}}}}(((((((((}}(((((((}}}}}}((Y_3))))3)_3)))3)_3)))))))3_3))33)_3))))3)_3)))36qc66))p.......
+.............................................................................................................................p3)))3_)3))))3_)3333_)3))))3_)3333)))3_)3))))3_)3333_)Y((((((((}}}}}}}(((((}}}}}}((((((((Y)_3333)_3))))3)_3)))3333)_3))))3)_3333)_3))))3)_3)))3p.......
+..............................................................................................................................33))3_)3))))3_)))))))3))))3_)))))3))3_)3))))3_)))))))Y??????????????????????????????????Y)))))))_3))))3)_3))3)))))_3))))3)))))))_3))))3)_3))3p........
+..............................................................................................................................3)33_)33)))))3_))33_)3)))3_)3333_)33_))3)))))3_))33_)Y??????????????????????????????????Y)_33))_3)))))3))_33)_3333)_3)))3)_33))_3)))))33)_33)p........
+.............................................................................................................................p3)))))3)))))3_))3))3_)3333_3))))3_))))3)))))3_))3))3_Y0000000000000000000000000000000000Y_3))3))_3)))))3))))_3))))3_3333)_3))3))_3)))))3)))))3p.......
+.............................................................................................................................p3))3_)33))33_))3)))3_))))))3))))3_33_))3))33_))3)))3_Y((((((((((((((((((((((((((((((((((Y_3)))3))_33))3))_33_3))))3))))))_3)))3))_33))33)_3))3p.......
+.............................................................................................................................p3)3)3_))33_))3_)3))3_))3_))3))))3_3)3_))33_))3_)3))3_Y(}}}}(((((((((}}}}}}}(}}}}((((((((Y_3))3)_3))_33))_3)3_3))))3))_3))_3))3)_3))_33))_3)3)3p.......
+.............................................................................................................................p3)3))3_)))))3)3_)3)3_)3)33_)3)))3_3))3_)))))3)3_)3)3_Y(((((}}}}}((((((((((((((((}}}}}(((Y33)3)_3)3)))))_3))3_3)))3)_33)3)_3)3)_3)3)))))_3))3)3p.......
+..............................................................................................................................3)3)))3_)333)))3_3))33))))3_)3)3__3)))3_)333)))3_3))3Y??????????????????????????????????Y)))3_3)))333)_3)))3__3)3)_3))))33))3_3)))333)_3)))3)p........
+..............................................................................................................................33))))3_3))))))3_3))33)))))3_33_)3))))3_3))))))3_3))3Y??????????????????????????????????Y)))3_3))))))3_3))))3)_33_3)))))33))3_3))))))3_3))))3p........
+.............................................................................................................................p3)))))3p3)))))3pp3))33)))))3p)))3)))))3p3)))))3pp3))3Y0000000000000000000000000000000000Y)))3p_3)))))3p3)))))3)))p3)))))33))3pp3)))))3p3)))))3p.......
+..............................................................................................................................ppppppp.ppppppp..ppppppppppp.pppppppppp.ppppppp..ppppY((((((}}}}}}((((((((((((((((((((((Ypppp.pppppppp.pppppppppp.ppppppppppp..ppppppp.ppppppp........
+...................................................................................................................................................................................Y(}}}}}(((((((((((}}}}(((}}}}((((((Y.............................................................
+...................................................................................................................................................................................Y((((((((((((((}}}(((((((((((}}}}((Y.............................................................
+...................................................................................................................................................................................Y??????????????????????????????????Y.............................................................
+...................................................................................................................................................................................Y??????????????????????????????????Y.............................................................
+....................................................................................................................................................................................YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY..............................................................

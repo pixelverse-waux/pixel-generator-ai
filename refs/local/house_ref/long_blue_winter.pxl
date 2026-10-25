@@ -1,0 +1,250 @@
+name long_blue_winter
+size 274 176
+scale 1
+layout
+winter
+palette
+K #311d0e outline (darkest)
+A #331e0e
+B #512f16
+C #543117
+D #563217
+E #5b3519
+F #61391a
+G #633a1b
+H #683c1c
+I #6a3d1d
+J #6c3f1d
+L #27475e
+M #6f401e
+N #663931
+O #774520
+P #2a4d66
+Q #844c24
+R #6e6030
+S #325c7a
+T #98582a
+U #9a592b
+V #9c5a2b
+W #7f6f37
+X #a55f2d
+Y #a8612f
+Z #ae642f
+a #b46831
+b #b56932
+c #bb6c33
+d #998542
+e #bf6e34
+f #427ca5
+g #c16f35
+h #c17035
+i #c87437
+j #4882ac
+k #cb7538
+l #4784ae
+m #cc7638
+n #cf7839
+o #d37a3a
+p #4b8ab7
+q #d97d3b
+r #b19a4c
+s #c8924d
+t #e6843e
+u #bda451
+v #5498c9
+w #ee8a41
+x #c1a753
+y #6299c0
+z #7183c8
+0 #d39a51
+1 #58a0d3
+2 #ff9345
+3 #d5b95b
+4 #7dabcb
+5 #67bbf7
+6 #ffba61
+7 #8aa1f6
+8 #97f1ff
+9 #c6e4e4
+! #cae9e9
+$ #c4f5fa
+% #ddffff
+
+; src 656,12 274x176
+frame winter
+.OOOOO.OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.OOOOOOOOOO.
+OqqqqqOtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttOtttttqqqqqO
+OqqqqqOttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt%%%%%%ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttOtttttqqqqqO
+OqqqqqOtttttttwwwwwttttttwwwwtttttttttttttttwwwwwttttttttttttttttttttttttttttttwwwttttttttttttwwwwwwwwttttttttttttttttttttttttttt%%%%%%%%%%%%ttttttttttttttttttttttttwwwwwwtttttttttwwwttttttttttttttttttttttttttttwwwwwwwwwtttttttttttttttttttttttttttttttwww%%%%ttttOtttttqkqqqO
+OqqqqqOttwwwwwtttttttttttttttwwwwtttttttwwwwtttttttttttttwwwwwwwwtttttttttttwwwtttttttwwwwwwwwtttttttttttttwwwwwttwwwtttttwwwwww%%%%%%%%%%%%%%tttttttttttttttwwwwtwwwttttttttttttttttttwwwwwwwwwwwttttttttwwwwwwwwwttttttttttttttttttttwwwwwwwtttttttttt%%%%%%%%%%%wttOtttttqkqqqO
+OqqkqqOttttttttttttttttt99tttttttttttttttttttttttttttttttttttttttwwwwwwwwtttttttttttttttttttttttttttttttttttttttttttttttttttttt%%%%%%%%%%%%%%%%tttwwwwwwttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttwwwwwwwtt%%%%%%%%%%%%%ttOtttttqkqqqO
+OqqkqqOqqqqqqqqqqqqqqqq999999qqqqqq99999999999qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq99999999999999999qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq999999999999999qOtttttqkqqqO
+OqkqqqOqqqqqqqqqqqqqqq9999999999999999999999999qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq99999999999999999qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq99999999999999999OtwtttqkqqqO
+OqqqqqOqqqkkkqqqqqqqq999999999999999999999999999qqqqqqqqqqqqqqqqqqqqqqqqqkkkkkkkkkkqqqqqqqqkkkkkkkqqqqqqqqqqqqqqqqqqqkkkkkkkkkq999999999999999999999qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkqqqqqqqqkkkkqqqqqqqqqqqqkkkkkkkkqqqqqqqqqqqqqqqqq999999999999999999OtwtttqkqqqO
+OqqqqqOqqqqqqkkkqqqq999999999999999999999999999999kkkkqqqqqqqqqqkkkkkkkkkqqqqqqqqqqqqqqqqqqqqqqqqqkkkkkkkkqqqqqqqqqqqqqqqqqqqq99999999999999999999999qqqqkkkkkkkkqqqqqqqqqqqqqqqqqqqqqkkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkkkkkkqqqqqqqqq9999999999999999999twtttqkqqqO
+OqqqqqOqqqqqqqqqqqq99999999999999999999999999999999qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq99999999999999999999999999qqqqqqqqqqqkkkkkkkkqqqqqqqqqqkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq99999999999999999999twtttqqkqqO
+OqqqqqOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOPPONNNNNNNNNNOPPOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOtwtttqqkqqO
+OqqqqqOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSPppNtttttqqqqqNffPSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSOtwtttqqkqqO
+OqqqqqO%pppppppppPppppppppppP%pppppppppPppppppppppPppppppppppPppppppppppP4pppppppppP4pppppppppPppppppppppPppppppppppP%pppppppppPppppppppppPppppppppppP%pppppppppPppppppppppPppppppppppPSPPpppNtttttqqqqqNfffPPSPppppppppppP%pppppppppPppppppppppPppppppppppPypppppppppOtwtttqqkqqO
+OqkqqqO%%ppppppppPppppppppppP%pppppppppPppppppppppPppppppppppPppppppppppP4pppppppppP4pppppppppPppppppppppPppppppppppP%%ppppppppPppppppppppPpplpppppppP%%ppppppppPppppppppppPpppppppppSSPpppppNtwtttqqqqqNfffffPSSpppppppppP%%%pppppppPppppppppppPppppppppppPypppppppppOttwttqqkqqO
+OqkqqqO%%%pppppppPppppppppppP%pppppppppPppppppppppPppppppppppPppppppppppP4pppppppppP4pppppppppPppppppppppPppppppppppP%%%pppppppPppppppppppPpplpppppppP%%%pppppppPppppppppppPppppppppSPPppppppNtwtttqqkqqNffffffPPSppppppppP%%%%ppppppPppppppppppPppppppppppPypppppppppOttwttqqkqqO
+OqkqqqO%%%pppppppPppppppppppP%pppppppppPppppppppppPppppppppppPppppppppppP4pppppppppP4pppppppppPppppppppppPppppppppppP%%%pppppppPppppppppppPpplpppppppP%%%%%%%pppPppppppppppPppppppSSPppppppppNtwtttqqkqqNffffffffPSSppppppP%%%%%pppppPppppppppppPppppppppppPypppppppppOttwttqqkqqO
+OqkqqqO%%%pppppppPppppppppppP%pppppppppPppppppppppPppppppppppPppppppppppP4pppppppppP4pppppppppPppppppppppPppppppppppP%%%pppppppPppppppppppPpplpppppppP%%%%%%%%ppPppppppppppPpppppSPPppplpppppNttwttqqkqqNfffffffffPPSpppppP%%%%%%%%%pPppppppppppPppppppppppPypppppppppOttwttqqqqqO
+OqkqqqO%%%%ppppppPppppppppppP%pppppppppPppppppppppPppppppppppPppppppppppP4pppppppppP4444444444PppppppppppPppppppppppP%%%%ppppppP%%%%%%%%%%PpplpppppppP%%%%%%%%%%PppppppppppPpppSSPpppllppppppNttwttqqkqqNfffffffffffPSSpppP%%%%%%%%%%PppppppppppPppppppppppPypppppppppOttwttqqqqqO
+OqqkqqO%%%%%pppppPPPPPPPPPPPP%pppppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPP4pppppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPP%%%%ppppppPPPPPPPPPPPPpplpppppppPPPPPPPPPPPPppppppppppPPPSPPppllppppppppNttwttqqkqqNffffffffffffPPSppPPPPPPPPPPPPppppppppppPPPPPPPPPPPPypppppppppOttwttqqqqqO
+OqqkqqO%%%%%pppppP4pppppppppP%pppppppppP4pppppppppPppppppppppP%pppppppppP4pppppppppPppppppppppPppppppppppPppppppppppP%%%%ppppppPppppppppppPpplpppppppPppppppppppPppppppppppPSSPppplppppppppppNttwttqqkqqNffffffffffffffPSSPppppppppppPppppppppppP%pppppppppPypppppppppOttwttqqqqqO
+OqqkqqO%%%%%%ppppP4pppppppppP%pppppppppP4pppppppppPppppppppppP%plpppppppP4pppppppppPppppppppppPppppppppppPpplpppppppP%%%%ppppppPppppppppppPpplpppppppPppppppppppPppppppppppSPPppllpppppppppppNtttttqqqkqNfffffffffffffffPPSppppppppppPppppppppppP%%ppppppppPypppppppppOttwttqqqqqO
+OqqkqqO%%%%%%%pppP4pppppppppP%pppppppppP4pppppppppPppppppppppP%%lpppppppP4pppppppppPppppppppppPppppppppppPpplpppppppP%%%%%pppppPppppppppppPpplpppppppPppppppppppPppppppppSSPppllpppppppppppppNtttttqqqkqNfffffffffffffffffPSSppppppppPppppppppppP%%ppppppppPypppppppppOtttttqqkqqO
+OqqkqqO%%%%%%%%ppP4pppppppppP%pppppppppP4pppppppppPppppppppppP%%lpppppppP4pppppppppPppppppppppPppppppppppPpplpppppppP%%%%%%%pppPppppppppppPpplpppppppPppppppppppPpppppppSPPpplpppppppppppppPPNtttttqqqkqNPPffffffffffffffffPPSpppppppPppppppppppP%%%pppppppPypppppppppOtttttqqkqqO
+OqqqqqO%%%%%%%%%pP4pppppppppP%pppppppppP4pppppppppPppppppppppP%%%pppppppP4pppppppppPppppppppppPppppppppppPpplpppppppP%%%%%%%%ppPppppppppppPppppppppppPppppppppppPpppppSSPP4pppppppppppppppPppNtttttqqqkqNffPffffffffffffffffPPSSpppppPppppppppppP%%%%ppppppPypppppppppOtttttqqkqqO
+OqqqqqO%%%%%%%%%%P4pppppppppP%pppppppppP4pppppppppPppppppppppP%%%%ppppppP4pppppppppPppppppppppPppppppppppPpplpppppppP%%%%%%%%%pPppppppppppPpplpppppppPppppppppppPppppSPPpP4pppppppppppppPPpppNtttttqqqkqNfffPPffffffffffffffPyPPSppppPppppppppppP%%%%%pppppPypppppppppOtttttqqkqqO
+OqqqqqO%%%%%%%%%%P4pppppppppP%%%%%%%%%%P4pppppppppP%%%%%%%%%%P%%%%ppppppP4444444444PppppppppppP%%%%%%%%%%PpplpppppppP%%%%%%%%%%PppppppppppPppppppppppPppppppppppPppSSPpppP4ppppppppppppPpppppNtttttqqqkqNfffffPfffffffffffffPyffPSSppP%%%%%%%%%%P%%%%%pppppP%%%%%%%%%%OtttttqqkqqO
+OqqqqqOSPPPPPPPPPP4pppppppppPPPPPPPPPPPP4pppppppppPPPPPPPPPPPP%%%%%pppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPPpplpppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPPppppppppppPPSPPppppP4ppppppppppPPppppppNtttttqqqqqNffffffPPfffffffffffPyfffPPSpPPPPPPPPPPPP%%%%%%ppppPPPPPPPPPPPOtttttqqkqqO
+OqqqqqOSpppppppppP4pppppppppPppppppppppP4pppppppppPppppppppppP%%%%%%ppppPppppppppppPppppppppppP4pppppppppPpplpppppppPppppppppppPppppppppppP4pppppppppPppppppppppSSPppppppP4pppppppppPppppppppNtttttqqqqqNffffffffPffffffffffPyfffffPSSppppppppppP%%%%%%%pppPppppppppppOttwttqqqqqO
+OqqkqqOSpppppppppP4pppppppppPppppppppppP4pppppppppPppppppppppP%%%%%%%pppPppppppppppPppppppppppP4pppppppppPpplpppppppPppppppppppPppppppppppP4pppppppppPpppppppppSPPpppppppP4pppppppPP4ppppppppNttwttqqqqqNfffffffffPPffffffffPyffffffPPSpppppppppP%%%%%%%%ppPppppppppppOttwttqqqqqO
+OqqkqqOSpppppppppP4pppppppppPpplpppppppP4pppppppppPppppppppppP%%%%%%%%ppPppppppppppPppppppppppP4pppppppppPpplpppppppPppppppppppPppppppppppP4pppppppppPpppppppSSPpppppppppP4ppppppPpP4ppppppppNttwttqqkqqNfffffffffPyPfffffffPyffffffffPSSpppppppP%%%%%%%%ppPppppppppppOttwttqqqqqO
+OqqkqqOSpppppppppP4pppppppppPpplpppppppP4pppppppppPppppppppppP%%%%%%%%%pPppppppppppPppppppppppP4pppppppppPpplpppppppPppppppppppPppppppppppP4pppppppppPppppppSPPppppppppppP4ppppPPppP4ppppppppNttwttqqkqqNfffffffffPyyPPfffffPyfffffffffPPSppppppP%%%%%%%%%pPppppppppppOttwttqqqqqO
+OqqkqqOSpppppppppP4pppppppppPpplpppppppP4pppppppppPppppppppppP%%%%%%%%%%PppppppppppPppppppppppP4pppppppppPpplpppppppPppppppppppPppppppppppP4pppppppppPppppSSPppppppppppppP4pppPppppP4ppppppppNttwttqqkqqNfffffffffPyfyyPffffPyfffffffffffPSSppppP%%%%%%%%%%PppppppppppOttwttqqqqqO
+OqqkqqOSpppppppppP4pppppppppPpplpppppppP4pppppppppPppppppppppP%%%%%%%%%%PppppppppppPppppppppppP4pppppppppPppppppppppPppppppppppPppppppppppP4pppppppppPpppSPPpppppppppppppP4pPPpppppP4ppppppppNttwttqkqqqNfffffffffPyfffyPPffPyffffffffffffPPSpppP%%%%%%%%%%PppppppppppOttwttqkqqqO
+OqqkqqOSpppppppppP4444444444PpplpppppppP4444444444PppppppppppP%%%%%%%%%%PppppppppppP%%%%%%%%%%P4pppppppppPppppppppppPppppppppppP%%%%%%%%%%P4pppppppppPppSPpppppppppppppppP4PpppppppP4ppppppppNttwttqkqqqNfffffffffPyffffyyPfPyffffffffffffffPSppP%%%%%%%%%%PppppppppppOttwttqkqqqO
+OqqkqqOSpppppppppPPPPPPPPPPPPpplpppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPP4pppppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPP4pppppppppPSSPppppppppppppppppPPppppppppP4ppppppPPNttwttqkqqqNPPfffffffPyffffffyPPyfffffffffffffffPSSPPPPPPPPPPPPppppppppppOtttttqkqqqO
+OqqkqqOSpppppppppPppppppppppPpplpppppppP%pppppppppPppppppppppP4pppppppppPppppppppppPppppppppppP4pppppppppPppppppppppPppppppppppPppppppppppP4pppppppppSPPppppppppppppppppPppppppppppP4pppppPppNtttttqkqqqNffPffffffPyfffffffyyPffffffffffffffffPPSppppppppppPppppppppppOtttttqqkqqO
+OqqkqqOSpppppppppPppppppppppPpplpppppppP%%ppppppppPppppppppppP4pppppppppPppppppppppPppppppppppP4pppppppppPppppppppppPppppppppppPppppppppppP4pppppppSSP4pppppppppppppppPPpppppppppppP4pppPPpppNtttttqqqqqNfffPPffffPyfffffffffyPPffffffffffffffffPSSppppppppPppppppppppOtttttqqkqqO
+OqkqqqOSpppppppppPppppppppppPpplpppppppP%%%pppppppPppppppppppP4pppppppppPppppppppppPpplpppppppP4pppppppppPppppppppppPppppppppppPplppppppppP4ppppppSPPP4ppppppppppppppPpppppppppppppP4ppPpppppNtttttqqqqqNfffffPfffPyffffffffffyyPfffffffffffffffPPPSpppppppPppppppppppOtttttqqkqqO
+OqkqqqOSpppppppppPppppppppppPpplpppppppP%%%pppppppPppppppppppP4pppppppppPppppppppppPpplpppppppP4pppppppppPppppppppppPppppppppppPplppppppppP4ppppSSP%%P4ppppppppppppPPppppppppppppppP4PPppppppNtttttqqqqqNfflfffPPfPyffffffffffffyPPfffffffffffffPyfPSSpppppPppppppppppOtttttqqqqqO
+OqkqqqOSpppppppppPppppppppppPppppppppppP%%%pppppppPppppppppppP4pppppppppPppppppppppPpplpppppppP4pppppppppPppppppppppPppppppppppPplppppppppP4pppSPP%%pP4pppppppppppPppppppppppppppppPPppppppppNtttttqqqqqNffflffffPPyfffffffffffffyyPffffffffffffPyffPPSppppPppppppppppOtttttqqqqqO
+OqkqqqOSpppppppppPppppppppppPppppppppppP%%%%ppppppPppppppppppP4pppppppppPppppppppppPpplpppppppP4pppppppppPppppppppppPppppppppppPplppppppppP4pSSP%%%ppP4pppppppppPPppppppppppppppppPPpppppppppNtttttqqqqqNffffllfffPP%%%ffffffffffffyPPffffffffffPyffffPSSppPppppppppppOtwtttqqqqqO
+OqkqqqO%%%%%%%%%%PppppppppppP%%%%%%%%%%P%%%%ppppppPppppppppppP4pppppppppP%%%%%%%%%%PpplpppppppP4444444444PppppppppppPppppppppppPplppppppppP4SPP%%%pppP4ppppppppPP4pppppppppppppppPpppppppppppNtttttqqqqqNfffffflffffP%%%%fffffffffff%PPfffffffffPyfffffPPSpP%%%%%%%%%%OtwtttqqqqqO
+OqkqqqOSPPPPPPPPPPppppppppppPPPPPPPPPPPP%%%%ppppppPPPPPPPPPPPP4pppppppppPPPPPPPPPPPPpplpppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPPplppppppppSSP%%%%%pppP4ppppppPP%P4pppppppppppppPPppppppppppppNttwttqqkqqNffffffflffffPP%%%%%%%%ffff%%PyPPfffffffPyfffffffPSSPPPPPPPPPPOtwtttqqqqqO
+OqkqqqOSpppppppppPppppppppppP4pppppppppP%%%%%pppppPppppppppppP4pppppppppPppppppppppPpplpppppppP%pppppppppPppppppppppP4pppppppppPplpppppppSPP%%%%%ppppP4pppppP%%%P4ppppppppppppPppppppppppppppNttwttqqkqqNffffffffllffffP%%%%%%%%%%%%%PyyyPffffffPyffffffffPPSpppppppppOtwtttqqqqqO
+OqkqqqOSpppppppppPppppppppppP4pppppppppP%%%%%%ppppPppppppppppP4pppppppppPppppppppppPpplpppppppP%%ppppppppPppppppppppP4pppppppppPplpppppSSP%%%%%%pppppP4pppPP%%%%P4ppppppppppPPpppppppppppppppNttwttqqkqqNfffffffffflffffPP%%%%%%%%%%%PyffyPPffffPyffffffffffPSSpppppppOtwtttqqqqqO
+OqqqqqOSlppppppppPppppppppppP4pppppppppP%%%%%%ppppPppppppppppP4pppppppppPppppppppppPpplpppppppP%%%pppppppPppppppppppP4pppppppppPplppppSPP%%%%%%%pppppP4ppP%%%%%pP4pppppppppPpppppppppppppppppNttwttqqkqqNfffffffffffffffffP%%%%%%%%%%PyfffyyPfffPyfffffffflffPPSppppppOttwttqqkqqO
+OqqqqqOSlppppppppPppppppppppP4pppppppppP%%%%%%%pppPppppppppppP4pppppppppPppppppppppPpplpppppppP%%%pppppppPppppppppppP4pppppppppPplppSSP%%%%%%%%ppppppP4pP%%%%%%pP4pppppppPP4pppppppppppppppPPNttwttqqkqqNPPffffffffffffffffPP%%%%%%%%PyfffffyPffPyfffffffffllffPSSppppOttwttqqkqqO
+OqqqqqOSlppppppppPppppppppppP4pppppppppP%%%%%%%%ppPppppppppppP4pppppppppPppppppppppPppppppppppP%%%%ppppppPppppppppppP4pppppppppPplpSPP%%%%%%%%%ppppppPPP%%%%%%ppP4ppppppPpP4ppppppppppppppPppNtttwtqqkqqNffPfffffffffffffffPyP%%%%%%%PyffffffyPPPyffffffffffflffPPSpppOttwttqqkqqO
+OqqqqqOSlppppppppPppppppppppP4pppppppppP%%%%%%%%%pPppppppppppP4pppppppppPppppppppppPpplpppppppP%%%%%pppppPppppppppppP4pppppppppPpSSP%%%%%%%%%%pppppppP%%%%%%%pppP4ppppPPppP4ppppppppppppPPpppNtttwtqqkqqNfffPPfffffffffffffPyfPP%%%%%PyfffffffyyPyfffffffffffflfffPSSpOttwttqqkqqO
+OqqqqqOSlppppppppPppppppppppP4pppppppppP%%%%%%%%%pPppppppppppP4444444444PppppppppppPppppppppppP%%%%%pppppP%%%%%%%%%%P4pppppppppPSPP%%%%%%%%%%ppppppPP%%%%%%%ppppP4pppPppppP4pppppppppppPpppppNtttwtqqqqqNfffffPffffffffffffPyfffP%%%%PyfffffffffyPPffffffffffffllffPPSGttwttqqkqqO
+OqqkqqOSlppppppppPPPPPPPPPPPP4pppppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPPppppppppppPPPPPPPPPPPP%%%%%%ppppPPPPPPPPPPPP4ppppppppSSP4P%%%%%%%%pppppppP%%%%%%%ppppppP4pPPpppppp4pppppppppPPppppppNtttwtqqqqqNffffffPPffffffffffPyflffPP%%PyffffffffffyyPffffffffffffflfPyPGettttqkqqqO
+OqqkqqOSlppppppppP%pppppppppP4pppppppppPppppppppppPppppppppppPppppppppppPppppppppppPppppppppppP%%%%%%ppppPppppppppppP4pppppppSPP4pP%%%%%%%ppppppPP%%%%%%ppppppppP4Ppppplppp4ppppppppPppppppppNtttwtqqkqqNffffffffPfffffffffPyffllppP%PyffffffffffffyPPfffffffffffffPyfPPttttqkqqqO
+OqqkqqOSlppppppppP%%ppppppppP4pppppppppPppppppppppPppppppppppPppppppppppPppppppppppPppppppppppP%%%%%%%pppPppppppppppP4pppppSSP44ppP%%%%%%ppppppP%%%%%%%pppppppppPPpppllpppp4ppppppPP4ppppppppNtttttqqkqqNfffffffffPPfffffffPyfffflppPPyfffffffffffffyyPffffffffffffPyfffPtwtqkqqqO
+OqqkqqOSlppppppppP%%%pppppppP4pppppppppPppppppppppPppppppppppPppppppppppPppppppppppPppppppppppP%%%%%%%%ppPppppppppppP4ppppSPP4ppppp%%%%%%ppppPP%%%%%%%pppppppppPpppplpppppp4pppppP%P4ppppppppNtttttqqkqqNfffffffffPyPffffffPyfffffllppPfffffffffffffffyPPfffffffffffyffffPPtqkqqqO
+OqqkqqOSpppppppppP%%%%ppppppP4pppppppppPppppppppppPppppppppppPppppppppppPppppppppppPppppppppppP%%%%%%%%ppPppppppppppP4ppSSP44pppppp%%%%%ppppP%%%%%%%%ppppppppPPpppllppppppP4pppPP%%P4ppppppppNtttttqqkqqNfffffffffPyyPPffffPyffffffflppPPffffffffffffffyyPffffffffffyffffffPqkqqqO
+OqqkqqOSlppppppppP%%%%%pppppP4pppppppppPppppppppppPppppppppppPppppppppppPppppppppppPppppppppppP%%%%%%%%%pPppppppppppP4pSPP4pppppppp%%%%pppPPP%%%%%%%ppppppppPpppplppppppppP4ppP%%%pP4ppppppppNtttttqqqkqNfffffffffPyfyyPfffPyffffffffllppPfffffffffffffffPPPffffffffyfffffffPPqqqO
+OqqkqqOSpppppppppP%%%%%%%%ppP4444444444PppppppppppPppppppppppP%%%%%%%%%%PppppppppppPppppppppppP%%%%%%%%%%PppppppppppPSSP44ppppppppP%%%%ppPppP%%%%%%pppppppPPpppplpppppppppP4PP%%%ppP4ppppppppNtttttqqqkqNfffffffffPyfffyPPfPyfffffffffflppPPfffffffffffffPyfPffffffPyfffffffffPqqO
+OqqqqqO%%%OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOSPPP4pppppppppP%%%pPPpppP%%%%%pppppppPppppllppppppppppPP%%%%pppP4ppppppppNtttttqqqkqNffffffffffyffffyyPPyfffffffffffllffPffffffffffffPyffPPffffPyfffffffffPPPG
+OqqqqqO%%%%%2www222222222222222222222%%%%%%%%222222222wwwwww222222wwwwwww22222222222222222%%%%2222222222222222222222P%%P4pppppppppP%%pPpppppP%%%%%ppppppPpppplpppppppppppPP%%%%%pppP4ppppppPPNtttttqqqkqNPPffffffffyffffffyPPffffffffffffflffPfffffffffffPyffffPfffPyfffffffffP%%P
+OqqqqqO%%%%%%%22wwww2222222222222ww%%%%%%%%%%%222%wwww2222222222222222222wwwwwww2222222%%%%%%%%%%www2222222wwwwwwww2P%%P4pppppppppP%PPppppppP%%%%pppppPPpppllpppppppppppP%%%%%%ppppP4pppppPppNtttttqqqkqNffPffffffPyfffffffyyPffffffffffffffffPPfffffffffPyfffffPPfPyfffffffffP%%P
+OqqkqqO%%%%%%%%222222222222222222%%%%%%%%%%%%%%%%%%222222222222222222222222222222222%%%%%%%%%%%%%%%%%222222222222222P%%P4pppppppppPPppppppppP%%%%ppppP4ppplpppppppppppPP%%%%%%pppppP4pppPPpppNttwttqqqqqNfffPPffffPyfffffffffyPPffffffffffffffffPffffffffPyfffffffPP%%ffffffffP%%P
+OqqkqqO9999999999qqqqqqqqqqkkkqq999999999999999999999qqqqqqqqqqqkkkkkkkqqqqqqqqq9999999999999999999999qkkkkkkkqqqqqqP%%P4ppppppppPPpppppppppP%%%pppPPP4ppppppppppppppP%%%%%%%%pppppP4ppPpppppNttwttqqqqqNfffffPfffPyffffffffffyyPfffffffffffffffPPPffffffPyffffffffPP%%%%%%%f%P%%P
+OqqkqqO999999999999qqkkkkkqqqqq99999999999999999999999qqqkkkkkkkqqqqqqqqqqqqq999999999999999999999999999qqqqqqqqqqqqP%%P4pppppppPpppppppppppP%%pppPppP4ppppppppppppPP%%%%%%%%ppppppP4PPppppppNttwttqqqqqNffffffPPfPyffffffffffffyPPfffffffffffffPyfPfffffPyffffffffffP%%%%%%%%P%%P
+OqqkqqOJOOO8%%%%OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO8%%%OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO8%%%%%%%OOOOOOOOOOOOOOP%%P4pppppPPppppppppppppP%%pPPpppP4pppppppppppP%%%%%%%%%pppppppPPppppppppNttwttqqqqqNffffffffPPyfffffffffffffyyPffffffffffffPyffPPfffPyfffffffffffPP%%%%%%P%%P
+OqqkqqOuuuu8%%%%uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu8%%%uuuuuuuEXUXXXEuuuuuuuuuuuuuuuuuuuuuuuuuuuu8%%%%uuuuuuuuuuuuuuuuuP%%P4ppppPppppppppppppppP%pPpppppp4pppppppppPP%%%%%%%%%pppppppPPpppppppppNttwttqqqkqNfffffffffPPfffffffffffffffyPPffffffffffPyffffPffPyfffffffffffffP%%%%%P%%P
+OqqkqqOu66668%%%6666666666666666666666666666666668%%6666666OqkqqqOu66666666666666666666666666668%%%6666666666666666xP%%P4ppPPpppppppppppppppPPPppppppp4ppppppppPP%%%%%%%%%pppppppPpppppppppppNttwttqqqkqNfffffffffffPfffffffffffffffyPPffffffffffyfffffPPPyffffffffffffffPP%%%P%%P
+OqqkqqOu666668%%6666666666666666666666666666666668%%6666666OqkqqqOu666666666666666666666666666668%%6666666666666666xP%%P4pPpppppppppppppppppPppppppppp4ppppppPPpP%%%%%%%%ppppppPPppppppppppppNttwttqqqkqNffffffffffffPPffffffffffffffPyPPffffffffyfffffffPyffffffffffffffffP%%P%%P
+OqkqqqOu666668%%666666OOOOOOOOOOOOOOOOOOOOOOOs6668%66666666OqkqqqOu6666666666666OOOOOOOOOOOOOOOO8%%OOOOs66666666666xP%%PPPppppppppppppppppPPpppppppppP4pppppPpppP%%%%%%pppppppPppppppppppppppNtttttqqqqqNffffffffffffffPfffffffffffffPyffPffffffPyffffffffPPffffffffffffffffPPP%%P
+OqkqqqOu666668%666666O22222222222222222222222Os668%66666666OqkqqqOu666666666666O222222222222222228%2222Os6666666666xP%%P4ppppppppppppppppPpppppppppppP4pppPPppppP%%%%%ppppppPPpppppppppppppppNtttttqqqqqN%ffffffffffffffPPfffffffffffPyfffPPffffPyffffffffffPfffffffffffffffffP%%P
+OqkqqqOu666668%666666OqOOOOOOOOOOOOOOOOOOOOOqOs668%66666666OqqkqqOu666666666666OqOOOOOOOOOOOOOOOO8OOOOqOs6666666666xP%%P4ppppppppppppppPPppppppppppppP4ppPppppppP%%%%ppppppPpppppppppppppppppNtttttqkqqqN%%%ffffffffffffffPffffffffffPyfffffPfffPyfffffffffffPPfffffffffffffffP%%P
+OqkqqqOu6666686666666OqO5511111jO2O55111111OqOs666866666666OqqkqqOu666666666666OqO5511111jO2O55118111OqOs6666666666xP%%P4pppppppppppppPppppppppppppppP4pPpppppppP%%%pppppPP4pppppppppppppppPPNtttttqkqqqNPP%%%ffffffffffff%PPffffffffPyffffffPffPyfffffffffffffPffffffffffffffP%%P
+OqkqqqOu6666686666666OqO1551111jO2O15511111OqOs666866666666OqqkqqOu666666666666OqO1551111jO2O15518111OqOs6666666666xP%%P4pppppppppppPPpppppppppppppppPPPppppppppP%%pppppPpP4ppppppppppppppPppNtttttqkqqqNyyP%%%fffffffffff%PyPfffffffPyfffffffPPPyffffffffffffffPPffffffffffffP%%P
+OqkqqqOu6666666666666OqO1155111jO2O11551111OqOs666666666666OqqkqqOu666666666666OqO1155111jO2O11551111OqOs6666666666xP%%P4ppppppppppP4ppppppppppppppppPppppppppppP%%pppPPppP4ppppppppppppPPpppNtttttqkqqqNffyPP%%%%%fffff%%%PyyPPfffffPyfffffffffPyffffffffffffffffPfffffffffffP%%P
+OqkqqqOu6666666666666OqO1115511jO2O11155111OqOs666666666666OqqkqqOu666666666666OqO1115511jO2O11155111OqOs6666666666xP%%P4ppppppppPPP4ppppppppppppppPPpppppppppppP%pppPppppP4pppppppppppPpppppNtttttqkqqqNfffyyP%%%%%%ff%%%%PyfyyPffffPyffffffffffPPfffffffffffffffPPPfffffffffP%%P
+OqqqqqOu6666666666666OqO1111551jO2O11115511OqOs666666666666OqqqqqOu666666666666OqO1111551jO2O11115511OqOs6666666666xP%%P4pppppppPppP4pppppppppppppPpppppppppppppP%pPPpppppP4pppppppppPPppppppNtttttqkqqqNfffffyPP%%%%%%%%%%PyfffyPPffPyffffffffffffPffffffffffffffPyyPffffffffP%%P
+OqqqqqOu6666666666666OqO1111155jO2O11111551OqOs666666666666OqqqqqOu666666666666OqO1111155jO2O11111551OqOs6666666666xP%%P4pppppPPpppP4pppppppppppPPppppppppppppppP%Ppppppppp4ppppppppPppppppppNtttwtqqkqqNffffffyyP%%%%%%%%%PyffffyyPfPyfffffffffffffPPffffffffffffPyfyPPffffffP%%P
+OqqqqqOu6666666666666OqO1111115vO2O11111155OqOs666666666666OqkqqqOu666666666666OqO1111115vO2O11111155OqOs6666666666xP%%P4ppppPpppppP4ppppppppppPppppppppppppppppPPppppppppP4ppppppPP4ppppppppNtttwtqqkqqNffffffffyPP%%%%%%%PyffffffyPP%fffffffffffffffPfffffffffffPyffyyPfffffP%%P
+OqqkqqOu6666666666666OqO1111111vO2O11111115OqOs666666666666OqkqqqOu666666666666OqO1111111vO2O11111115OqOs6666666666xP%%P4ppPPppppppP4ppppppppPPppppppppppppppppPppppppppppP4pppppP4P4ppppppppNtttwtqqkqqNfffffffffPyP%%%%%%PyfffffffyyP%%ffffffffffffffPPfffffffffPyffffyPPfffP%%P
+OqqkqqOu6666666666666OqOOOOOOOOOOOOOOOOOOOOOqOs666666666666OqqqqqOu666666666666OqOOOOOOOOOOOOOOOOOOOOOqOs6666666666xP%%P4pPppppppppP4pppppppP4pppppppppppppppPPpppppppppppP4pppPP4pP4ppppppppNtttwtq%kqqNfffffffffPyfPP%%%%PyfffffffffyPP%%ffffffffffff%%PffffffffPyfffffyyPffP%%P
+OqqkqqOu6666666666666OqO2222222222222222222OqOs666666666666OqqkqqOu666666666666OqO2222222222222222222OqOs6666666666xP%%PPPpppppppppP4pppppPPP4ppppppppppppppPpppppppppppppP4ppP44ppP4pppppppp%tttwt%%%qqNfffffffffPyfffP%%%PyffffffffffyyP%%%fffffffff%%%PPPffffffPyfffffffyPPP%%P
+OqqkqqOu6666666666666OqOOOOOOOOOOOOOOOOOOOOOqOs666666666666OqqkqqOu666666666666OqOOOOOOOOOOOOOOOOOOOOOqOs6666666666xP%%PpppppppppppP4ppppPppP4ppppppppppppPPppppppppppppppP4PP4ppppP4pppppppp%t%%%%%%%%qNfffffffffPyffffPP%PyffffffffffffyPP%%ffffff%%%%%PyfPfffffPyffffffffyyP%%P
+OqqqqqOu6666666666666OqOvvjjjjjjFnFvvzzzzzzOqOs666666666666OqqkqqOu666666666666OqOvvjjjjjjFnFvvzzzzzzOqOs6666666666xP%%P4ppppppppppP4ppPPpppP4pppppppppppPppppppppppppppppPP44pppppP4pppppppp%%%%%%%%%%%NfffffffffPyffffffPPyfffffffffffffyyP%%%%ff%%%%%%PyffPPfffPyffffffffffP%%P
+OqqqqqOu6666666666666OqO1551111jO2O15577777OqOs666666666666OqqkqqOu666666666666OqO1551111jO2O15577777OqOs6666666666xP%%P4ppppppppppP4pPpppppP4ppppppppppPppppppppppppppppPP4pppplppP4ppppppLL%%%%%%%%%%%NLLfffffffPyfffffffPPfffffffffffffffyP%%%%%%%%%%%PyffffPffPyffffffffffP%%P
+OqkqqqOu6666666666666OqO1155111jO2O11557777OqOs666666666666OqkqqqOu666666666666OqO1155111jO2O11557777OqOs6666666666xP%%P4ppppppppppPPPppppppP4ppppppppPPppppppppppppppppP44pppllpppP4pppppL%%%%%%%%%%%%%%%%LffffffPyfffflffffPfffffffffffffffyPP%%%%%%%%%PyflfffPPPyffffffffffP%%P
+OqkqqqOu6666666666666OqO1115511jO2O11155777OqOs666666666666OqkqqqOu666666666666OqO1115511jO2O11155777OqOs6666666666xP%%P4ppppppppppPppppppppP4pppppppP4pppppppppppppppPP4pppplpppppP4pppLL%%%%%%%%%%%%%%%%%%LLffffPyfffffllfffPPffffffffffffffyyP%%%%%%%%PyffllfffPyffffffffffP%%P
+OqkqqqOu6666666666666OqO1111551jO2O11115577OqOs666666666666OqkqqqOu666666666666OqO1111551jO2O11115577OqOs6666666666xP%%P4ppppppppPPpppppppppP4pppppPPP4ppppppppppppppP44pppplppppppP4ppL%%%%%%%%%%%%%%%%%%%%%%LfffPyffffffflffffPfffffffffffffffPPP%%%%%%PyfffflfffPPfffffffffP%%P
+OqkqqqOu6666666666666OqO1111155jO2O11111557OqOs666666666666OqkqqqOu666666666666OqO1111155jO2O11111557OqOs6666666666xP%%P4pppppppPpppppppppppP4ppppP%%P4ppppppppppppPP4ppppllpppppppP4LL%%%%LL%%%%%%%%%%%%LL%%%%LLfPyffffffffllfffPPfffffffffffffPyfP%%%%%PyfffffllfffPffffffffP%%P
+OqkqqqOu6666666666666OqO1111115vO2O11111155OqOs666666666666OqkqqqOu666666666666OqO1111115vO2O11111155OqOs6666666666xP%%P4pppppPPppppppppppppP4ppPP%%pP4pppppppppppP44pppplpppppppppPL%%%%%Ldd8%%%%%%%%dddddL%%%%%LPyfffffffffflffffPffffffffffffPyffPP%%%PyffffffflfffPPffffffP%%P
+OqkqqqOu6666666666666OqO1111111vO2O11111115OqOs666666666666OqqqqqOu666666666666OqO1111111vO2O11111115OqOs6666666666xP%%P4ppppPppppppppppppppP4pP%%%%pP4pppppppppPP4ppppplpppppppppLL%%%%LLddd8%%%d8%%%ddddddLL%%%%LLfffffffffffllfffPPffffffffffPyffffP%%PyfffffffflffffPfffffP%%P
+OqqkqqOu6666666666666OqO1111111jO2O11111111OqOs666666666666OqqqqqOu666666666666OqO1111111jO2O11111111OqOs6666666666xP%%P4ppPPpppppppppppppppPPP%%%%ppP4ppppppppPP4ppppllpppppppppL%%%%%Lddd3338%%r38%%r3333dddL%%%%%LfffffffffffflfffPPffffffffffyfffffPPPyfffffffffllfffPPfffP%%P
+OqqkqqOu6666666666666OqO1111111jO2O11111111OqOs666666666666OqqqqqOu666666666666OqO1111111jO2O11111111OqOs6666666666xP%%P4pPpppppppppppppppppP%%%%%%ppP4ppppppPPpP4ppplpppppppppLL%%%%LLddd33338%%r38%%r33333dddLL%%%%LLffffffffffffffPyPPffffffffyfffffffPyffffffffffflffffPffP%%P
+OqqkqqOu6666666666666OqOOOOOOOOOOOOOOOOOOOOOqOs666666666666OqkqqqOu666666666666OqOOOOOOOOOOOOOOOOOOOOOqOs6666666666xP%%PPPppppppppppppppppPP%%%%%%pppP4pppppPpppP4ppppppppppppL%%%%LLddd3333338%r338%r33333333ddd8%%8%%LfffffffffffffPyffPffffffPyffffffffPPfffffffffffllfffPPP%%P
+OqqkqqOu6666666666666O2iiiiiiiiiiiiiiiiiiiii2Os666666666666OqkqqqOu666666666666O2iiiiiiiiiiiiiiiiiiiii2Os6666666666xP%%P4ppppppppppppppppP%%%%%%%ppppP4pppPPppppP4ppppppppppLL%8%%LDddd333333388r3338r333333333dd8%%88%%LLfffffffffffPyfffPPffffPyffffffffffPfffffffffffflffffP%%P
+OqqkqqOu6666666666666O22%%%%%2%%2222222222222Os666666666666OqkqqqOu666666666666O22222222%%%%%%222222222Os6666666666xP%%P4ppppppppppppppPP%%%%%%ppppppP4ppPppppppP4pppppppppL%%%%8LVDd33333333338r3338r333333333338%%%8%%%%LffffffffffPyfffffPfffPyfffffffffffPPfffffffffffffffP%%P
+OqqkqqOu6666666666666O2%%%%%%%%%%222222222222Os666666666666OqkqqqOu666666666666O2222222%%%%%%%%%2222222Os6666666666xP%%P4pppppppppppppP%%%%%%%pppppppP4pPpppppppp4pppppppLL%%%%%8VVOd33OOOOOOOO8GOOOGOOOOOOOOOOu38%%%8L%%%%LLffffffffPyffffffPffPyfffffffffffffPffffffffffffffP%%P
+OqqqqqOu6666666666666O999999999999qqqqqqqqqqqOs666666666666OqkqqqOu666666666666Oqqqqq999999999999qqqqqqOs6666666666xP%%P4pppppppppppPP%%%%%%pppppppppPPPppppppppp4ppppppL%%%8%%%VVqOd3O222222228o22222222222222Ou38%%%VL%%%%%LfffffffPyfffffffPPPyffffffffffffffPPffffffffffffP%%P
+OqqqqqOu6666666666666sOOOOOOOOOOOOOOOOOOOOOOOs6666666666666OqqkqqOu666666666666sOOOOOOOOOOOOOOOOOOOOOOOs66666666666xP%%P4ppppppppppP%%%%%%%ppppppppppPppppppppppP4ppppLL%%%%L8%%VqqOd3OqqqqqqqqaqqqqqqqqqqqqqqqOu38%%%VVLL%%%%LLfffffPyfffffffffPyffffffffffffffffPfffffffffffP%%P
+OqqqqqOu66666666666666sssssssssssssssssssssss66666666666666OqqkqqOu6666666666666sssssssssssssssssssssss666666666666xP%%P4ppppppppPPP%%%%%%%ppppppp4PPpppppppppppP4pppL%%%%%Ld8%%aqqOd3OqqOOOOOOOOgqqqOOOOOOOOgqOu38%%aqVDdL%%%%%LffffPyffffffffffPPfffffffffffffffPPPfffffffffP%%P
+OqkqqqOu666666666666666666666666666666666666666666666666666OqqkqqOu666666666666666666666666666666666666666666666666xP%%P4pppppppPppP%%%%%%ppppppppPpppppppppppppP4pLL%%%%LLdd8%%aqqOd3OqO11111115OgqO11111155OgOu38%%aqqDddLL%%%%LLffPyffffffffffffPffffffffffffffPyfPffffffffP%%P
+OqkqqqOu666666666666666666666666666666666666666666666666666OqqkqqOu666666666666666666666666666666666666666666666666xP%%P4pppppPPpppp%%%%%%ppppppPPppppppppppppppP4L%%%%%Lddd3O8YqqqOd3OqO11111155OgqO11111551OgOu38%%aqqOddddL%%%%%LfPyfffffffffffffPPffffffffffffPyffPPffffffP%%P
+OqkqqqOu666666666666666666666666666666666666666666666666666OqqkqqOu666666666666666666666666666666666666666666666666xP%%P4ppppPpppppp%%%%%ppppppPppppppppppppppppLL%%%%LLddd33O%YqqqOd3OqO11111551OgqO11115511OgOu3O8%aqqOd3dddLL%%%%LL%%%%ffffffffffffPfffffffffffPyffffPfffffP%%P
+OqkqqqOu666666666666666666666666666666666666666666666666666OqqqqqOu666666666666666666666666666666666666666666666666xP%%P4ppPPppppppp%%%%pppppPPppppppppppppppppL%%%%%Lddd3333OakqqqOd3OqO11115511OgqO11155111OgOu3O8aqqqOd333dddL%%%%%L%%%%ffffffffffffPPfffffffffPyfffffPPfffP%%P
+OqkqqqOEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOqqqqqOEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOEP%%P4pPppppppppp%%%pppppPppppppppppppppppLL%8%%LLddd33333OqkqqqOd3OqO11155111OgqO11551115OgOu3O8aqqqOd3333dddLL%%%%LL%%%%ffffffffffffPffffffffPyfffffffPffP%%P
+OqkqqqOh222222222%22222222222222222222222222222222222222222OqqqqqOh22222222222222%%%%222222222222222222222222222222hP%%PPPpppppppppP%%%pppPP4pppppppppppppppL%%%8%Lddd3333333OqkqqqOd3OqO11551115OgqO15511151OgOu3OakqqqOd333333dddL%%%%%L%%%%%%fffffffff%PPffffffPyffffffffPPP%%P
+OqkqqqObww2222ww%%%%22222222222222222wwwwwwwwwww222222222wwOqqkqqObww2222222222%%%%%%%2222%%%%2wwwwwwwwwww2222222wwbP%%P4ppppppppppP%%%ppPpP4pppppppppppppLL%%%%8Lddd33333333OqkqqqOd3OqO15511151OgqO55111511OgOu3OqkqqqOd3333333ddd8%%%%%LL%%%%%%fffff%%%PyPfffffPyffffffffffP%%P
+OqkqqqOh2222222%%%%%%%%%%%%222wwwwwww2222222222222222222222OqqkqqOh222222%%%%%%%%%%%%%%%%%%%%%%22222222222222222222hP%%P4ppppppppppP%%pPPppP4ppppppppppppL%%%%%%8dd3333333333OqqkqqOd3OqO55111511OgqO51115111OgOu3OqkqqqOd333333333d8%%%%%%%L%%%%%%fff%%%%PyyPPfffPyffffffffffP%%P
+OqkqqqOXqqqqqqq9999999999999qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqOqkqqqOXqqqqq999999999999999999999999qqqqqqqqqqqqqqqqqqqXP%%P4ppppppppppP%%PppppP4pppppppppppL%%%%8%%dd33333333333OqqkqqOd3OqqOOOOOOOOgqqqOOOOOOOOgqOu3OqkqqqOd33333333338%%%%%%%%L%%%%%%%%%%%%PyfyyPffPyffffffffffP%%P
+OqqqqqOXqqqqqq999999999999999qqqqqqqqqqqqqqqqqqqkkkkkkkkkkkOqkqqqOXqqqq99999999999999999999999999qqqqqqqqqkkkkkkkkkXP%%P4ppppppppppPPPpppppP4pppppppppLL%%%%L8%%r333333333333OqqkqqOd3O22%%%%%%%%22222222222222Ou3OqkqqqOd33333333338%%%8L%%%%LL%%%%%%%%%%PyfffyPPPyffffffffffP%%P
+OqqqqqOEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOqqqqqOEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOEP%%P4ppppppppppPpppppppP4ppppppppL%%%%LLd8%%r333333333333OqqkqqOd3O2%%%%%%%%%%%%%2222222222Ou3OqkqqqOd333333333338%8ddL%%%%%L%%%%%%%%%pyffffyyPyffffffffffP%%P
+.OOOOO......................................................OOOOO...................................................P%%P4ppppppppPPppppppppP4ppppppLL%%%%Lddd8%%r333333333333OqqkqqOd3O999999999999999qqqqqqqqqOu3OqqqqqOd333333333338%%ddd8%%%%%LL%%%%%%%pyffffffyPPfffffffffP%%P
+....................................................................................................................P%%P4pppppppPppppppppppP4pppppL%%%%%Lddd338%r333333333333OqqkqqOd3uOOOOOOOOOOOOOOOOOOOOOOOOu33OqqqqqOd333333333338%r33d8%%%%%%%L%%%%%%PyfffffffyyPffffffffP%%P
+....................................................................................................................P%%P4pppppPPpppppppppppP4pppLL%%%%LLdd33338%r333333333333OqqkqqOd33uuuuuuuuuuuuuuuuuuuuuuuu333OqkqqqOd333333333338r333338%LL%%%%LL%%%%PyfffffffffyPPffffffP%%P
+....................................................................................................................P%%P4ppppPpppppppppppppP4ppL%%%%%Lddd333338r3333333333333OqqqqqOd33333333333333333333333333333OqkqqkOd333333333338r333338dddL%%%%%L%%%PyffffffffffyyPfffffP%%P
+....................................................................................................................P%%P4ppPPppppppppppppppP4LL%%%%LLddd3333338r3333333333333OqqqqqOd33333333333333333333333333333OqqqqkOd33333333333r3333338rdddLL%%%%LL%PyffffffffffffyPPfffP%%P
+....................................................................................................................P%%P4pPppppppppppppppppPL%%%%%Lddd333333338r3333333333333OqqqqqOd33333333333333333333333333333OqqqqkOd3333333333333333338r33dddL%%%%%LPyfffffffffffffyyPffP%%P
+....................................................................................................................P%%PPPppppppppppppppppLL%%%%LLddd333333333r33333333333333OqqqqqOd33333333333333333333333333333OqqqqkOd333333333333333333r3333dddLL%%%%LLfffffffffffffffyPPP%%P
+....................................................................................................................P%%P4ppppppppppppppppL%8%%%Lddd33333333333333333333333333OqkqqkOd33333333333333333333333333333OqqqkqOd3333333333333333333333333dddL%%%%%LfffffffffffffffyyP%%P
+....................................................................................................................P%%P4ppppppppppppppLL%8%8LLDDDOOOOOOOOOOOOOOOOOOOOOOOOOOOOqkqqkODOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOqqqkqODOOOOOOOOOOOOOOOOOOOOOOOOOODDDLL%%%%LLfffffffffffffffP%%P
+....................................................................................................................P%%P4pppppppppppppL%%8%%8ccc222222222222222222222wwwww222OqqqqkOVqqqqqqqqqqqqqqqqqqqqqqqqqqqqqOqqqkqO222222%%%%%%%%2222222222222222ccLL%%%%LffffffffffffffP%%P
+....................................................................................................................P%%P4pppppppppppLL%%8%%%ccc2222wwwww2%%%%%%22wwww2222222wOqqqqkOVqqqqqqqqqqqqqqqqqqqqqqqqqqqqqOqqqkqO22222%%%%%%%%%%%%2222222222222ccccL%%%%LLffffffffffffP%%P
+....................................................................................................................P%%P4ppppppppppL%%%%8%%%c222222%%2%%%%%%%%%%%222222222222OqqqqkOVqqqqqqqqqqqqqqqqqqqqqqqqqqqqqOqqqkqO22222%%%%%%%%%%%%%%%%22222222222cccL%%%%%LfffffffffffP%%P
+....................................................................................................................P%%P4ppppppppLL%%%%L8%%%aqqqq99999999999999999999qqqqqqqqOqqqqkOVqq999999999999999999999999VqqOqqqqqOVqqq99999999999999999999qqqqqqqqqqVVLL%%%%LLfffffffffP%%P
+....................................................................................................................P%%P4pppppppL%%%%%LVV8%%aqqq99999999999999999999999qqqqqqOqqqqkOVq99999999999999999999999999VqOqqqqqOVqq99999999999999999999999qqqqqqqqqVVVL%%%%%LffffffffP%%P
+....................................................................................................................P%%P4pppppLL%%%%LLDDD8%%GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOqqqkqOVq%%%%%%%!%%%%%%%%%$!%%MIMHBVqOqqqqqODOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOODDD8%%%%%LLffffffP%%P
+....................................................................................................................P%%P4ppppL%%%%%Lddddd8%%WddddddddddddddddddddddddddddddddOqqqkqOVq%%%%%%%!%%%%%%%%%%BQMMIMHBVqOqkqqqORdddddddddddddddddddddddddddddddddddddd8%%%%%%%LfffffP%%P
+....................................................................................................................P%%P4ppLL%%%%LLDdd3338%r333333333333333333333333333333333OqqqkqOVq%%$%%%%!$%%%%%%%%HBQMMMMHBVqOqkqqqOd333333333666666666666666666633333333338%%%%%%%%LLfffP%%P
+....................................................................................................................P%%P4pL%%%%%LVVDd333668r666666366666366666666666666633333OqqqkqOVq%%%%%%%!%%%%%%%%MHBQMIMMHBVqOqkqqqOd6666666666666666666666666666666633333338%%8L%%%%%LffP%%P
+....................................................................................................................P%%PLL%%%%LLVVVOd33366806OOOOOOOOOOOOOOOOOOOOOOOs66666663OqqqkqOVq%%%%%%%!QMMMIMMMMHBQMIMMHBVqOqkqqqOd66666666OOOOOOOOOOOOOOOOOOOOOOOs66u33338%8VVLL%%%%LLP%%P
+....................................................................................................................P%%L%%%%%LVVVqqOd3336680O22222222222222222222222Os6666666OqqqkqOVq%%%%%%HBQMMMMMMMMHBQMIMMHBVqOqkqqqOd6666666O22222222222222222222222Os66u3338%8aVVVL%%%%%L%%P
+....................................................................................................................P%%L%%%LLDVVqqqOd3366606OqOOOOOOOOOOOOOOOOOOOOOqOs6666666OqqqkqOVq%%%%%MHBQMMMMMMIMHBQMIMMHBVqOqqkqqOd6666666OqOOOOOOOOOOOOOOOOOOOOOqOs6663338%%aqVVDLL%%%L%%P
+....................................................................................................................P%%L%%L..DqqqqqOd6666666OqO5511111jO2O55111111OqOs6666666OqqqqqOVq%$%%IMHBQMMMAAMIMHBQMIMMHBVqOqqkqqOd6666666OqO11111155O2Oj1111155OqOs666633d8%YqqqD..L%%L%%P
+....................................................................................................................P%%PLL...OqkqqqOd6666666OqO1551111jO2O15511111OqOs6666666OqqqqqOVq%%%MIMHBQMMMAAMIMHBQMMIMHBVqOqqkqqOd6666666OqO11111551O2Oj1111551OqOs666633d8akqqqO...LLP%%P
+....................................................................................................................P%%P.....OqkqqqOd6666666OqO1155111jO2O11551111OqOs6666666OqqqqqOVq%%MMIMHBQMMMHHMIMHBQMMIMHBVqOqqkqqOd6666666OqO11115511O2Oj1115511OqOs666633d8akqqqO.....P%%P
+.....................................................................................................................PP......OqkqqqOd6666666OqO1115511jO2O11155111OqOs6666666OkqqqqOVq%QMMIMHBQMMMMMIMMHBQMMIMHBVqOqqkqqOd6666666OqO11155111O2Oj1155111OqOs666633dGqkqqqO......PP.
+.............................................................................................................................OqkqkqOd6666666OqO1111551jO2O11115511OqOs6666666OkqqqqOVqBQMMMMHBQMMMMMIMMHBQMMIMHBVqOqqkqqOd6666666OqO11551111O2Oj1551111OqOs666633dOqkqqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO1111155jO2O11111551OqOs6666666OkqqqqOVqBQMMMMHBQMMIMMIMMHBQMMMMHBVqOqqqqqOd6666666OqO15511111O2Oj5511111OqOs666333dOqqkqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO1111115vO2O11111155OqOs6666666OkqqqqOVqBQMMMMHBQMMIMMMMMHBQMMMMHBVqOqqqqqOd6666666OqO55111111O2Ov5111111OqOs666666dOqqkqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO1111111vO2O11111115OqOs6666666OkqqqqOVqBQMMIMHBQMMIMMMMMHBQMMMMHBVqOqqqqqOd6666666OqO51111111O2Ov1111111OqOs666666dOqqkqqO.........
+.............................................................................................................................OqqkqqOd6666666OqOOOOOOOOOOOOOOOOOOOOOqOs6666666OkqqqqOVqBQMMIMHBQMMIMMMMMHBQMMIMHBVqOqqqkqOd6666666OqOOOOOOOOOOOOOOOOOOOOOqOs666666dOqqkqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO2222222222222222222OqOs6666666OqkqqqOVqBQMIMMHBQMMMIMMMMHBQMMIMHBVqOqqqkqOd6666666OqO2222222222222222222OqOs666666dOqqkqqO.........
+.............................................................................................................................OqqqqqOd6666666OqOOOOOOOOOOOOOOOOOOOOOqOs6666666OqkqqqOVqBQMIMMHBQMMMIMMMMHBQMMIMHBVqOqqqqqOd6666666OqOOOOOOOOOOOOOOOOOOOOOqOs666666dOqqqqqO.........
+.............................................................................................................................OqqqqqOd6666666OqOvvjjjjjjFnFvvzzzzzzOqOs6666666OqkqqqOVqBQAKAAHBQMMMIMMMMHBQMIMMHBVqOqqqqqOd6666666OqOzzzzzzvvFnFjjjjjjvvOqOs666666dOqqqqqO.........
+.............................................................................................................................OqqqkqOd6666666OqO1551111jO2O15577777OqOs6666666OqkqqqOVqBQAAHHHBQMMMIMMMMHBQMIMMHBVqOqqkqqOd6666666OqO77777551O2Oj1111551OqOs666666dOqkqqqO.........
+.............................................................................................................................OqqqkqOd6666666OqO1155111jO2O11557777OqOs6666666OqkqqqOVqBQHHMMHBQMMMIMMMMHBQMIMMHBVqOqqkqqOd6666666OqO77775511O2Oj1115511OqOs666666dOqkqqqO.........
+.............................................................................................................................OqqqqqOd6666666OqO1115511jO2O11155777OqOs6666666OqkqqqOVqBQMMMMHBQMMMMMMMMHBQMMMMHBVqOqqkqqOd6666666OqO77755111O2Oj1155111OqOs666666dOqqqqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO1111551jO2O11115577OqOs6666666OqkqkqOVqBQMMMMHBQMMMMIMMMHBQMMMMHBVqOqqkqqOd6666666OqO77551111O2Oj1551111OqOs666666dOqqkqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO1111155jO2O11111557OqOs6666666OqqqkqOVqBQMMMMHBQMMMMIMMMHBQMMIMHBVqOqqkqqOd6666666OqO75511111O2Oj5511111OqOs666666dOqqkqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO1111115vO2O11111155OqOs6666666OqqqkqOVqBQIMMMHBQMMMMIMMMHBQMMIMHBVqOqkqqqOd6666666OqO55111111O2Ov5111111OqOs666666dOqqkqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO1111111vO2O11111115OqOs6666666OqqqkqOVqBQIMMMHBQMMMMIMMMHBQMMIMHBVqOqkqqqOd6666666OqO51111111O2Ov1111111OqOs666666dOqqkqqO.........
+.............................................................................................................................OqqkqqOd6666666OqO1111111jO2O11111111OqOs6666666OqqqqqOVqBQIMMMHBQMMMIMMMMHBQMMIMHBVqOqkqqqOd6666666OqO11111111O2Oj1111111OqOs666666dOqqkqqO.........
+.............................................................................................................................OqkqqqOd6666666OqO1111111jO2O11111111OqOs6666666OqqqqqOVqBQMIMMHBQMMMIMMMMHBQMIMMHBVqOqkqqqOd6666666OqO11111111O2Oj1111111OqOs666666dOqqqkqO.........
+.............................................................................................................................OqkqqqOd6666666OqOOOOOOOOOOOOOOOOOOOOOqOs6666666OqqqqqOVqBQMIMMHBQMMMIMMMMHBQMIMMHBVqOqqqqqOd6666666OqOOOOOOOOOOOOOOOOOOOOOqOs666666dOqqqkqO.........
+.............................................................................................................................OqkqqqOd6666666O2iiiiiiiiiiiiiiiiiiiii2Os6666666OqqkqqOVqBQMIMMHBQMMMIMMMMHBQMIMMHBVqOqqkqqOd6666666O22iii%iiii%%iiiiiiiiii2Os666666dOqqqkqO.........
+.............................................................................................................................OqkqqqOd6666666O2222%%%%222222222222222Os6666666OqqkqqOVqBQMMMMHBQMMMIMMMMHBQMIMMHBVqOqqkqqOd6666666O2222%%%%%%%%%%222222222Os666666dOqqqkqO.........
+.............................................................................................................................OqkqqqOd6666666O222%%%%%%22222222222222Os6666666OqkqqqOVqBQMMMMHBQMMMMMMMMHBQMMMMHBVqOTqqkqOd6666666O222%%%%%%%%%%%%22222222Os666666dOqqqkqO.........
+.............................................................................................................................OqkqqqOd6666666Oqq9999999999qqqqqqqqqqqOs6666666OqkqqOOOOOBBBBBBBBBBBBBBBBBBBBBBBBCOOOOTqkqOd6666666Oqq999999999999999qqqqqqOs666666dOqqqkqO.........
+.............................................................................................................................OqkqqqOd6666666sOOOOOOOOOOOOOOOOOOOOOOOs66666666OqqqOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOTkqOd6666666sOOOOOOOOOOOOOOOOOOOOOOOs6666666dOqqqkqO.........
+.............................................................................................................................OqkqqqOd66666666sssssssssssssssssssssss666666666OqqqO2222222222222222222222222222222222OTqqOd66666666sssssssssssssssssssssss66666666dOqqqkqO.........
+.............................................................................................................................OqqqqqOd6666666666666666666666666666666666666666OqqqO22wwww%%%22222222ww2222222wwwwww22OTqqOd666666666666666666666666666666666666666dOqqqqqO.........
+.............................................................................................................................OqqqqqOd6666666666666666666666666666666666666666OqqqO2222%%%%%%%wwww22222wwwwww22222222OTqqOd666666666666666666666666666666666666666dOqqqqqO.........
+.............................................................................................................................OqqqqqOd6666666666666666666666666666666666666666OqqqOqqq9999999999qqqqqqqqqqqqqqqqqqqqqOTkqOd666666666666666666666666666666666666666dOqqqqqO.........
+.............................................................................................................................OqqqqqOd6666666666666666666666666666666666666666OkqqOqq9999999999999qqqqqqqqqqqqqqqqqqqOTkqOd666666666666666666666666666666666666666dOqqqqqO.........
+.............................................................................................................................OqqqqqODOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkqqOZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOTkqODOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOODOqqqqqO.........
+.............................................................................................................................OqqqqqOm2www222222222222222222222222222222222222OkqqO2222222222222222222222222222222222OTkqOm22222222222222222222222222222222222www2mOqqqqqO.........
+.............................................................................................................................OqqqqqOm2222ww2%%22%%%%22222222wwwwww222wwwww222OkqqO2wwww222222222w%%%%%%2wwww22222222OTqkOm22wwwww%%%%222222222222222222222www2222mOqqqqqO.........
+.............................................................................................................................OqqqqqOm222222%%%%%%%%%%%%%%%ww22222222222222222OqkqO22222wwwww2222%%%%%%%%%%%2wwwww222OTqkOm222222%%%%%%%%%%%%22www2222222222222222mOqqqqqO.........
+.............................................................................................................................OqqqqqOVqqqqq999999999999999999qqqqqqqqqqqqqqqqqOqkqOqqqqqqqqqqqqq9999999999999999qqqqqOTqkOVqqqqqq9999999999999qqqqqqqqqqqqqqqqqqqqVOqqqqqO.........
+.............................................................................................................................OqqqqqOVqqqqq9999999999999999999qqqqqkkkkqqqqqqqOqkqOqqqqqqqqqqq999999999999999999999qqOTqkOVqqqqq999999999999999qqqqqqqkkkqqqqqqqqqVOqqqqqO.........
+.............................................................................................................................OqqqqqODOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOqkqOZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOTqkODOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOODOqqqqqO.........
+..............................................................................................................................OOOOO...........................................OOOO222222wwww222222222222222222222222OCOO...........................................OOOOO..........
+.................................................................................................................................................................................O2wwwww22%%%%%%%22wwww222wwww222222O.............................................................
+.................................................................................................................................................................................O222222%%%%%%%%%%%%%222222222wwww22O.............................................................
+.................................................................................................................................................................................Oqqqqq99999999999999999qqqqqqqqqqqqO.............................................................
+.................................................................................................................................................................................Oqqqq99999999999999999999qqqqqqqqqqO.............................................................
+..................................................................................................................................................................................OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO..............................................................

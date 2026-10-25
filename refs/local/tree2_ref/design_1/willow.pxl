@@ -1,0 +1,84 @@
+name tree2_design_1_willow
+size 27 40
+scale 1
+layout
+design_1
+palette
+K #231018 outline (darkest)
+A #251718
+B #2b1e1c
+C #352522
+D #223c1e
+E #233920
+F #2a3224
+G #284322
+H #2c4923
+I #325326
+J #443731
+L #4c3d36
+M #3b5f2a
+N #3d672a
+O #584b33
+P #466e32
+Q #6a5430
+R #497531
+S #655936
+T #507e36
+U #58863a
+V #598a37
+W #896c38
+X #61933b
+Y #64983b
+Z #6e9e3e
+a #a17a3f
+b #84b645
+c #90b049
+d #95c14b
+e #9fc850
+f #a5ce4e
+g #abd054
+h #c3db59
+i #ece463
+
+; src 649,31 27x40 on the 1x re-grid (png is ~4.9x, blurred)
+frame design_1
+.............Zgc...........
+...........UVfffZZ.........
+.........GGXffifgYE........
+........GDGXXffcZZRRR......
+.......GGXYYXYgiibbRR......
+......HXfhYeeYdfhhbXGH.....
+......XVfgegiZYffefYVII....
+.....GEVVfffhfYYfXVDXXHH...
+...ZgiGGGXfffYYNNNNNZhUH...
+..YfffeeVVXXXDDEDMINTYVH...
+.XXgffifbVRXXefeHHHIUgVH...
+.HXXXefVTDPRffXXYdeVGDDG...
+.HGXXXXVNDIPYYdYiifffDDMI..
+..DMMMMDDDDIRRRdiiiffZIMII.
+..DDDDDDDDDIDRXdiiiffZIPPMI
+..RDDEDTfffYGDXXffffbVIPPPI
+.PRMPEViffffVGNXYffXVVIMMMI
+.PMMMIZffifffXDNNNNNVVIIMH.
+INRMMMZfggfifXDNNggNVDIMDG.
+HHPPRMTfedffXYMEEccEEEEED..
+.HGMMHUVVVfffYIEAFEEEEEEE..
+..GGGGNVVVTTTIIEAedEEEEEE..
+..GGGGNNNNTTIIIEAAgEEEEE...
+....TEEDDEEDIIBBBeEEEE.HH..
+....T..GEEEEIBBJJAg...I.I..
+...U.T..EEEEBBJCAgg...I.I..
+...gc......JJJJJKe.....M...
+...g.V.....LBJBJA.g...M.M..
+....g.....CLBJBJ.gg...M.P..
+....g.....CLBJJJ.f.....R...
+..........CLJJCJ.g.....T...
+..........CLLJCJ...........
+..........COWWCB...........
+.........LBaQaaC...........
+.........JaaQaQJJ..........
+.........aOQaaaaC..........
+.......WWWOOOaaKWW.........
+......BOOO.AKQaLLWWW.......
+.......S......SaOOSSS......
+..............OOO..........

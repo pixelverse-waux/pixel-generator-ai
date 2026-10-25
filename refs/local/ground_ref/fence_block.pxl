@@ -1,0 +1,85 @@
+name fence_block
+size 80 64
+scale 2
+layout
+block
+palette
+K #36362c SHADOW: #36362c at 35 % alpha (89) in the source, drawn over the ground
+A #482a2a
+B #5d3731
+C #404155
+D #714438
+E #865441
+F #94614a
+G #5b6485
+H #ab7757
+I #687ca1
+J #c48e5e
+L #7294b8
+
+; src 160,0 80x64: the tiles above as laid out on the sheet
+frame block
+...................................................AAA.....................AAA..
+..................................................AJHFA...................AJHFA.
+..................................................AFFFA...................AFFFA.
+..................................................AEEDA...................AEEDA.
+..................................................AEEDA...................AEEDA.
+..................................................AEEDA...................AEEDA.
+................................................CCCCCCC...................CCCCCC
+................................................LLLIIGGC.................CGGIILL
+................................................CCCCCCC...................CCCCCC
+..................................................AEEDA...................AEEDA.
+..................................................AEEDA...................AEEDA.
+..................................................AEEDA...................AEEDA.
+.................................................KAEDDAK.................KAEDDAK
+.................................................KADDBAK.................KADDBAK
+.................................................KKAAAKK.................KKAAAKK
+..................................................KKKKK...................KKKKK.
+...........AAA.....AAA.....AAA.....AAA.............AAA.....AAA.....AAA.....AAA..
+..........AJHFA...AJHFA...AJHFA...AJHFA...........AJHFA...AJHFA...AJHFA...AJHFA.
+..........AFFFA...AFFFA...AFFFA...AFFFA...........AFFFA...AFFFA...AFFFA...AFFFA.
+..........AEEDA...AEEDA...AEEDA...AEEDA...........AEEDA...AEEDA...AEEDA...AEEDA.
+..........AEEDA...AEEDA...AEEDA...AEEDA...........AEEDA...AEEDA...AEEDA...AEEDA.
+..........AEEDA...AEEDA...AEEDA...AEEDA...........AEEDA...AEEDA...AEEDA...AEEDA.
+..........CCCCCCCCCCCCCCCCCCCCCCCCCCCCC.........CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+.........CGGIILLLLLLLLLLLLLLLLLLLLIIGGGC........LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+.........CCAAACCCCCCCCCCCCCCCCCCCCCAAACC........CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+.........CAJHFAC..AEEDA...AEEDA..CAFHJAC..........AEEDA...AEEDA...AEEDA...AEEDA.
+.........CAFFFAC..AEEDA...AEEDA..CAFFFAC..........AEEDA...AEEDA...AEEDA...AEEDA.
+.........CAEEDAC..AEEDA...AEEDA..CADEEAC..........AEEDA...AEEDA...AEEDA...AEEDA.
+.........CAEEDAC.KAEDDAK.KAEDDAK.CADEEAC.........KAEDDAK.KAEDDAK.KAEDDAK.KAEDDAK
+.........CAEDDAC.KADDBAK.KADDBAK.CADDEAC.........KADDBAK.KADDBAK.KADDBAK.KADDBAK
+.........CADDDAC.KKAAAKK.KKAAAKK.CADDDAC.........KKAAAKK.KKAAAKK.KKAAAKK.KKAAAKK
+.........CADDDAC..KKKKK...KKKKK..CADDDAC..........KKKKK...KKKKK...KKKKK...KKKKK.
+.........CAAAAAC.................CAAAAAC...........AAA.....AAA.....AAA.....AAA..
+.........CAJHFAC.................CAFHJAC..........AJHFA...AJHFA...AJHFA...AJHFA.
+.........CAFFFAC.................CAFFFAC..........AFFFA...AFFFA...AFFFA...AFFFA.
+.........CAEEDAC.................CADEEAC..........AEEDA...AEEDA...AEEDA...AEEDA.
+.........CAEEDAC.................CADEEAC..........AEEDA...AEEDA...AEEDA...AEEDA.
+.........CAEDDAC.................CADDEAC..........AEEDA...AEEDA...AEEDA...AEEDA.
+.........CADDDAC.................CADDDAC..........CCCCCCCCCCCCCCCCCCCCCCCCCCCCC.
+.........CADDDAC.................CADDDAC.........CGGIILLLLLLLLLLLLLLLLLLLLIIGGGC
+.........CAAAAAC.................CAAAAAC.........CCAAACCCCCCCCCCCCCCCCCCCCCAAACC
+.........CAJHFAC.................CAFHJAC.........CAJHFAC..AEEDA...AEEDA..CAFHJAC
+.........CAFFFAC.................CAFFFAC.........CAFFFAC..AEEDA...AEEDA..CAFFFAC
+.........CAEEDAC.................CADEEAC.........CAEEDAC..AEEDA...AEEDA..CADEEAC
+.........CAEEDAC.................CADEEAC.........CAEEDAC.KAEDDAK.KAEDDAK.CADEEAC
+.........CAEDDAC.................CADDEAC.........CAEDDAC.KADDBAK.KADDBAK.CADDEAC
+.........CADDDAC.................CADDDAC.........CADDDAC.KKAAAKK.KKAAAKK.CADDDAC
+.........CADDDAC.................CADDDAC.........CADDDAC..KKKKK...KKKKK..CADDDAC
+.........CAAAAAC...AAA.....AAA...CAAAAAC.........CAAAAAC...AAA.....AAA...CAAAAAC
+.........CAJHFAC..AJHFA...AJHFA..CAJHFAC.........CAJHFAC..AJHFA...AJHFA..CAJHFAC
+.........CAFFFAC..AFFFA...AFFFA..CAFFFAC.........CAFFFAC..AFFFA...AFFFA..CAFFFAC
+.........CAEEDAC..AEEDA...AEEDA..CAEEDAC.........CAEEDAC..AEEDA...AEEDA..CAEEDAC
+.........CAEEDAC..AEEDA...AEEDA..CAEEDAC.........CAEEDAC..AEEDA...AEEDA..CAEEDAC
+.........CAEEDAC..AEEDA...AEEDA..CAEEDAC.........CAEEDAC..AEEDA...AEEDA..CAEEDAC
+.........CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC.........CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+.........CGGIILLLLLLLLLLLLLLLLLLLLIIGGGC.........CGGIILLLLLLLLLLLLLLLLLLLLIIGGGC
+..........CCCCCCCCCCCCCCCCCCCCCCCCCCCCC...........CCCCCCCCCCCCCCCCCCCCCCCCCCCCC.
+..........AEEDA...AEEDA...AEEDA...AEEDA...........AEEDA...AEEDA...AEEDA...AEEDA.
+..........AEEDA...AEEDA...AEEDA...AEEDA...........AEEDA...AEEDA...AEEDA...AEEDA.
+..........AEEDA...AEEDA...AEEDA...AEEDA...........AEEDA...AEEDA...AEEDA...AEEDA.
+.........KAEDDAK.KAEDDAK.KAEDDAK.KAEDDAK.........KAEDDAK.KAEDDAK.KAEDDAK.KAEDDAK
+.........KADDBAK.KADDBAK.KADDBAK.KADDBAK.........KADDBAK.KADDBAK.KADDBAK.KADDBAK
+.........KKAAAKK.KKAAAKK.KKAAAKK.KKAAAKK.........KKAAAKK.KKAAAKK.KKAAAKK.KKAAAKK
+..........KKKKK...KKKKK...KKKKK...KKKKK...........KKKKK...KKKKK...KKKKK...KKKKK.

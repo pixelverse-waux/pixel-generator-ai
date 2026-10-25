@@ -1,0 +1,89 @@
+GIMP Palette
+Name: Flower & Plant Pack
+Columns: 7
+#
+ 14  52  28	leaf spring 0
+ 22  74  34	leaf spring 1
+ 40 122  44	leaf spring 2
+ 86 172  52	leaf spring 3
+148 212  72	leaf spring 4
+204 238 112	leaf spring 5
+238 252 176	leaf spring 6
+ 12  40  22	leaf summer 0
+ 16  58  26	leaf summer 1
+ 30  98  36	leaf summer 2
+ 58 146  44	leaf summer 3
+112 190  58	leaf summer 4
+170 222  88	leaf summer 5
+218 244 150	leaf summer 6
+ 62  34  12	leaf autumn 0
+104  60  16	leaf autumn 1
+152  96  22	leaf autumn 2
+198 138  34	leaf autumn 3
+228 178  60	leaf autumn 4
+246 212 104	leaf autumn 5
+255 238 170	leaf autumn 6
+ 52  14  14	leaf autumn_red 0
+ 84  22  18	leaf autumn_red 1
+152  42  24	leaf autumn_red 2
+212  86  30	leaf autumn_red 3
+240 146  40	leaf autumn_red 4
+250 198  76	leaf autumn_red 5
+255 232 142	leaf autumn_red 6
+ 14  36  30	leaf winter 0
+ 20  48  40	leaf winter 1
+ 36  82  66	leaf winter 2
+ 70 118 104	leaf winter 3
+184 212 228	leaf winter 4
+232 242 252	leaf winter 5
+255 255 255	leaf winter 6
+ 72  14  36	petal red 0
+138  24  48	petal red 1
+196  38  56	petal red 2
+234  70  68	petal red 3
+255 122 106	petal red 4
+255 186 170	petal red 5
+ 88  20  64	petal pink 0
+160  40 108	petal pink 1
+218  78 146	petal pink 2
+248 124 180	petal pink 3
+255 172 210	petal pink 4
+255 220 236	petal pink 5
+104  52  12	petal yellow 0
+180 104  14	petal yellow 1
+230 160  22	petal yellow 2
+250 204  50	petal yellow 3
+255 232 112	petal yellow 4
+255 248 190	petal yellow 5
+ 96  30  14	petal orange 0
+170  60  18	petal orange 1
+224 102  26	petal orange 2
+250 146  42	petal orange 3
+255 190  94	petal orange 4
+255 226 166	petal orange 5
+ 68  70 104	petal white 0
+132 140 178	petal white 1
+190 198 224	petal white 2
+228 234 248	petal white 3
+246 250 255	petal white 4
+ 24  30  90	petal blue 0
+ 40  62 156	petal blue 1
+ 62 106 212	petal blue 2
+100 152 242	petal blue 3
+152 198 255	petal blue 4
+208 232 255	petal blue 5
+ 46  20  84	petal purple 0
+ 88  40 146	petal purple 1
+134  72 200	petal purple 2
+172 116 234	petal purple 3
+208 164 250	petal purple 4
+236 210 255	petal purple 5
+196 120  16	center yellow 1
+240 172  30	center yellow 2
+255 214  64	center yellow 3
+255 240 140	center yellow 4
+ 56  28  14	center brown 0
+104  56  24	center brown 1
+150  90  36	center brown 2
+192 128  52	center brown 3
+226 168  80	center brown 4

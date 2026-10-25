@@ -1,0 +1,10 @@
+{
+  "name": "white_persian",
+  "photo": "input/white_persian.avif",
+  "identity": "fluffy white Persian: long fur, amber eyes, pink nose and ears",
+  "palette": {"K": "#1e161c", "A": "#dcc8b4", "B": "#f7f2ea", "C": "#ffffff",
+              "D": "#ef8f99", "E": "#f2adb2", "F": "#e8a0b0", "G": "#ffffff"},
+  "extra": {"Y": ["#d4952a", "amber eye"]},
+  "shape": {"ears": 0, "fluff": 3},
+  "markings": {"eyes": "Y"}
+}

@@ -1,0 +1,1 @@
+{"name":"fence","image":"fence.png","frameWidth":16,"frameHeight":16,"frames":[[0,0],[16,0],[32,0]],"animations":{},"poses":{"fence_h":[0],"fence_v":[1],"fence_post":[2]}}

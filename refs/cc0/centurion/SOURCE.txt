@@ -1,0 +1,5 @@
+RPG Asset Character "Centurion" NES by Chasersgaming
+https://opengameart.org/content/rpg-asset-character-centurion-nes
+License: CC0 1.0 (public domain) - http://creativecommons.org/publicdomain/zero/1.0/
+raw/ = original zip + the Blue/Walk frames. centurion_walk_sheet.png = South/West/East/North
+walk strips (24x32) stacked down/left/right/up. centurion.pxl = that sheet as text.

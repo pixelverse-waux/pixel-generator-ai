@@ -1,0 +1,58 @@
+name tree2_design_1_sapling
+size 22 25
+scale 1
+layout
+design_1
+palette
+K #182926 outline (darkest)
+A #21372b
+B #302733
+C #2b422d
+D #372e37
+E #2a3f36
+F #49393d
+G #55433e
+H #476932
+I #4e6b3c
+J #6c513e
+L #53783d
+M #5b823c
+N #81603d
+O #658f3e
+P #866a4d
+Q #7aa344
+R #88b248
+S #9bbf50
+T #acc958
+U #b0c55f
+V #b6cf66
+W #bcd569
+X #b6c780
+
+; src 316,43 22x25 on the 1x re-grid (png is ~4.9x, blurred)
+frame design_1
+.......IRSSSS.........
+.....IHRRSVWSS........
+......HRRWWWWRRRRW....
+......HLSSSWWSRRUTV...
+.......LQQSSSSRRRTVV..
+..CC....LQSTTWTRRRRV..
+.EEAA...LLRRTTRRHVOL..
+.EEAA.QQQLLLORRSVWRC..
+.EAA..QWRHLLL.QSVRRRS.
+..A...QQQAA..MMRRHRVVU
+.AAC.LHQQQQQ.HMMMA.QSM
+..A...HHHRXXRR...COOOO
+..AAAA..HRRVWREALQOHC.
+EAAAAAAAHMRVSSHHHOOHA.
+.AAAAAA.CMMMMO..HHHHC.
+..EKA.A.......F.CHHC..
+....EAA.AFACKDFAAA....
+......EAADEDFF........
+........FBBFF.........
+.........BBFJ.........
+.........DJNJ.........
+.........DJNJ.........
+........DDJNPJ........
+........BGJN.N........
+..........GN..........

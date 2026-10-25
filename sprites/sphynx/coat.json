@@ -1,0 +1,10 @@
+{
+  "name": "sphynx",
+  "photo": "input/sphynx.webp",
+  "identity": "hairless Sphynx: huge ears, pink skin, wrinkles, grey face mask, pale blue eyes",
+  "palette": {"K": "#2a1f24", "A": "#c3aaa5", "B": "#e4d6d2", "C": "#f4ecea",
+              "D": "#6e5458", "E": "#e3a8a2", "F": "#d98f99", "G": "#ffffff"},
+  "extra": {"M": ["#9c8d90", "grey mask"], "Y": ["#bcd4e4", "pale blue eye"]},
+  "shape": {"ears": 3, "fluff": 0},
+  "markings": {"mask": "M", "eyes": "Y", "wrinkles": "A"}
+}

@@ -1,0 +1,72 @@
+name tree2_dead_winter_bamboo
+size 18 38
+scale 1
+layout
+dead_winter
+palette
+K #493b33 outline (darkest)
+A #544130
+B #474739
+C #544841
+D #69512e
+E #5f4e41
+F #695840
+G #635251
+H #6a5548
+I #7c6238
+J #715b54
+L #786049
+M #766859
+N #917636
+O #877053
+P #9f855b
+Q #a08171
+R #968782
+S #caa967
+T #c7a680
+U #e5c172
+V #f1d07c
+W #f7e093
+X #c8d9ec
+Y #f1f8fe
+
+; src 613,321 18x38 on the 1x re-grid (png is ~4.9x, blurred)
+frame dead_winter
+......YY..........
+YYY..YXUY.........
+XPX...DA..........
+LUSY..ID..........
+.OWM..ID......YYYY
+.LWL..DD..YY..XWXE
+.MUF..DD.YXS..FFLE
+..PSY.II..IF..ESL.
+..GFX.TI..SO..ASF.
+..PVN.TI.YUL..AWE.
+..LWUYNI.RVF..KOL.
+..HVUHDD..LL..LVL.
+...PUHND..TD..LQE.
+...LHMND..TA..PUE.
+...LUONI..NI..PWH.
+...MUVND.YMO.YSSF.
+....PVFD.JSO..HF..
+....LSFNYGUO.YUL..
+....ELFNXGOL.EVO..
+....CSPNECUI.EVL..
+....EUPNEEWI.FUF..
+....EPAKGFWL.EVF..
+.....PSKCEVO.OEE..
+.....OVKCEOE.OSE..
+.....OUKCLSL.OVJ..
+.....OVKKPVLYOSJ..
+.....JPPKPVMXFL...
+.....HPSKSVMEUL...
+.....MVSKSVMHUL...
+.....MVOKSOCEUL...
+......PSCUSCLVL...
+......UUCVWEEPG...
+.....YSULSVKSW....
+....YQKAANFCOGY...
+...YXQHQHAOEPUX...
+..YFBQCJEBKOLMMY..
+..X.FE.QC.MLB...MC
+....FM.EC.........

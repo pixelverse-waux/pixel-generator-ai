@@ -1,0 +1,81 @@
+name tree2_dead_palm
+size 31 44
+scale 1
+layout
+dead
+palette
+K #231d22 outline (darkest)
+A #272127
+B #2e2324
+C #362220
+D #2c252a
+E #4b2b26
+F #53372d
+G #5d3c32
+H #654537
+I #694a3a
+J #72513d
+L #795842
+M #7e5c45
+N #846048
+O #8b674d
+P #937055
+Q #a98361
+R #b58d67
+S #bf976f
+T #c69d6f
+U #cda471
+V #d1ab7a
+W #e0b87e
+X #daca96
+Y #efce83
+Z #f1d681
+a #ecde90
+b #ebe0a5
+
+; src 567,243 31x44 on the 1x re-grid (png is ~4.9x, blurred)
+frame dead
+..........MLLM.................
+........LLSSSONN...............
+.......B.AAAYYPVQF.............
+...........DIYZPYFJ..ONMM......
+............KJTONWB.NUbbTPA....
+........JHGFAATTNNEDVPVOYYTQ...
+......NMTTTbRDDQSJIAMAAAADAVN..
+....POZZNNNUVPAJSJEAGAAAADAGLE.
+...QZZST..AAIAAAAEEAAAA...DABEA
+..TZTB.AAAQTTQJAAAKAJJJJAA..DEA
+.QZT..K.ARZbSBSSSOAVTLZLJAA.DAA
+.QS....NZZURBQZSbUANZZSYJLAA.DA
+KS....TYTTOARZZUbbSATTZJZMJAK.D
+.S...OZTUPAAWZTZZTTAPbZTMYJLA.D
+....JVOTLK.RZTTZZTHAKRZZMYJAE..
+....SNWPK.JVZTZZTTAAAJUZSMTHGA.
+...MMSRB..LaZTZTTIKA.KUaUNTIAA.
+...MMYC..MTaTZZZRIHA..JaTNVMGA.
+...ASM...MTbJbXRGAKA..BTTTMMFA.
+...ASL...MTTLbUJAAID...RbbMSFA.
+....LL...MTNUTJJAAK....AUTMSFA.
+....KL...MZNVQJAAGA.....NSMSFA.
+.....L...MSNLGAAFAA.....DHOEEK.
+.........MMNEAALLLA......HOFG..
+.........MMNK.AKEEA......KOEK..
+.........MEB..AJJE........KEA..
+.........MA...LJAA.........B...
+..........D...LYPG.........D...
+..............LLAK.............
+.............MZSJD.............
+.............NTJAA.............
+.............MTOID.............
+.............NNAAC.............
+.............NZRJB.............
+.............NSBACA............
+.............MTTHHD............
+............IYJMAAEBD..........
+............YGGDSNAFF..........
+...........HPEBZZBAFFC.........
+..........JRHHAOWPHDFF.........
+.........FTLAAAJFFBCBGF........
+........HSIDK..JSSHC..IH.......
+.........F.....JJTPE...........
+.................MME...........

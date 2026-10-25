@@ -1,0 +1,244 @@
+name shop_small_summer
+size 167 153
+scale 1
+layout
+summer
+palette
+K #311d0e outline (darkest)
+A #331e0e
+B #1a4330
+C #512f16
+D #1c4832
+E #573318
+F #50391c
+G #5a3419
+H #5b3519
+I #1f513e
+J #61391a
+L #225a40
+M #4b3f33
+N #683c1c
+O #6a3d1d
+P #6c3f1d
+Q #6e401e
+R #256246
+S #6f401e
+T #266448
+U #286849
+V #774520
+W #784521
+X #296b4b
+Y #844c24
+Z #615242
+a #2d7653
+b #884e26
+c #5f564b
+d #2f7c56
+e #2e795c
+f #915428
+g #48705d
+h #338660
+i #9c5a2b
+j #9e5b2b
+k #6d6555
+l #a45f2d
+m #a55f2d
+n #a6602e
+o #916b38
+p #936c39
+q #37946e
+r #aa622e
+s #7e6b55
+t #ae642f
+u #b56932
+v #b66a32
+w #7f7564
+x #c06f34
+y #539878
+z #c17035
+0 #c37135
+1 #c47136
+2 #c87437
+3 #4882ac
+4 #cb7538
+5 #cf7839
+6 #8e846f
+7 #948675
+8 #d97d3b
+9 #948b77
+! #d28b39
+$ #c08d4a
+% #c38f4b
+& #6ba78b
+* #c8924d
++ #e6843e
+- #e6853f
+/ #9c9180
+: #bda451
+< #5498c9
+= #ee8a41
+> #7183c8
+? #e29e3f
+@ #58a0d3
+^ #ff9345
+_ #ecac47
+~ #efb14a
+| #67bbf7
+{ #ffba61
+} #8aa1f6
+
+; src 1701,246 167x153
+frame summer
+.VVVVV.VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV.VVVVV.
+V88888V+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++V88888V
+V88888V+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++V88888V
+V88888V+++++++++++++++++===++++++++++++========++++++++++++++++++========++++++++++++===++++++++++++++++++++++++++++++=====+++++++++++++++====++++++=====+++++++V88888V
+V88888V===+++++++++++===+++++++========++++++++++++==++=====+++++++++++++========+++++++===+++++++++++========+++++++++++++====+++++++====+++++++++++++++=====++V88888V
+V88488V+++========++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++========++++++++++++++++++++++++++++++++++++++++++++++++++++++++++V88488V
+V88488V888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888V88488V
+V88848V888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888884444444888888888888888888V88848V
+V88888V888888888884444444444888888884444444888888888888888888888888884444444888888884444444444888888888888888888888888884444448888888888888888888888888888444888V88888V
+V88888V884444444448888888888888888888888888444444448888888888444444448888888888888888888888888444444444888888888844444448888888888888888888888888888888444888888V88888V
+V88888V888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888V88888V
+V88888VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV88888V
+V88888VTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTV88888V
+V88888VhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88888V
+V88848VhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848VhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848VhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848VhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848VhhhhhhhhhhX&hhhhhhhhhX&&&&&&&&&&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&&&&&&&&&&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88488VXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhTV88488V
+V88488VhhhhhhhhhhX&hhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88488VhhehhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88488VhhehhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88488VhhehhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88888VhhehhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhTV88888V
+V88888VhhehhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhTV88888V
+V88888VhhehhhhhhhX&&&&&&&&&&XhhhhhhhhhhXhhhhhhhhhhXhhhLLhLIhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhTV88888V
+V88888VhhehhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhLXXLXXLhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhehhXXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXTV88888V
+V88888VhhehhhhhhhXTTTTTTTTTTXhhhhhhhhhhX&hhhhhhhhhXLLXhhXddXLDhhhhhhhhh&XhhhhhhhhhhXTTTTTTTTTTXhhhhhhhehhXTTTTTTTTTTX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXTTTTTTTTTTV88888V
+V88488VhhehhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhDXXhhhXdddXXLhhhhhhhh&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88488VhhehhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhLLXhhhhhXdddddXLLhhhhhh&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhehhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88488VhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhLXXhhhehhXddedddXXLhhhhh&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhehhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88488VhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhLLXhhhhehhhXdddeddddXLLhhh&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhehhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88488VhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhLXXhhheehhhhXddddeedddXXLhh&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhehhX&hhhhhhhhhXhhhhhhhhhTV88488V
+V88488VhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hLLXhhhhehhhhhhXddddddeddddXLL&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&&&&&&&&&&XhhhhhhhehhX&&&&&&&&&&XhhhhhhhhhTV88488V
+V88488VXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXX&LXXhhhhehhhhhhhXdddddddeddddXXgXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhehhXXXXXXXXXXXXhhhhhhhhhTV88488V
+V88488V&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhDgXhhhheehhhhhhhhXddddddddeeddddXDLhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXTTTTTTTTTTXhhhhhhhehhXTTTTTTTTTTXhhhhhhhhhTV88488V
+V88488V&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhLXXhhhhehhhhhhhhhhXddddddddddeddddXXLhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhXhhhhhhhhhTV88488V
+V88848V&hhhhhhhhhXhhhhhhhhhhXhhehhhhLLXhhhhhhhhhhhhhhhhhXdddddddddddddddddXLLhhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848V&hhhhhhhhhXhhhhhhhhhhXhhehhhLXXhhhhhhhhhhhhhhhhXXXXXddddddddddddddddXXLhhehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhehhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848V&hhhhhhhhhXhhhhhhhhhhXhhehLLXhXhhhhhhhhhhhhhhhXhhXddXdddddddddddddddXdXLLehhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848V&hhhhhhhhhXhhhhhhhhhhXhheLXXhhXhhhhhhhhhhhhhXXhhhXdddXXdddddddddddddXddXXIhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848V&hhhhhhhhhXhhhhhhhhhhXhLIXhhhhXhhhhhhhhhhhhXhhhhhXdddddXddddddddddddXddddXLLXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848V&hhhhhhhhhXXXXXXXXXXXDLXXhhehhXhhhhhhhhhhXXhhhhhhXddddddXXddddddddddXddeddXXDXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXTV88848V
+V88848V&hhhhhhhhhXTTTTTTTTTBXXhheehhhXhhhhhhhhhXhhhhhhhhXddddddddXdddddddddXdddeehhXBBTTTTTTTTX&hhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88848V&hhhhhhhhhXhhhhhhhhLXXhhehhhhhXhhhhhhhXXhhhhhhhhhXdddddddddXXdddddddXdddddehhXXLhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88848V
+V88888V&hhhhhhhhhXhhhhhhLLXhheehhhhhhXhhhhhhX&XhhhhhhhhhXdddddddddX&XddddddXddddddeehhXLLhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhheTV88888V
+V88888V&hhhhhhhhhXhhhhhLXXhhehhhhhhhhXhhhhXX&hXhhhhhhhhhXdddddddddX&dXXddddXddddddddehhXXLhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhheTV88888V
+V88888V&hhhhhhhhhXhhhLLXhheehhhhhhhhhXhhhX&&hhXhhhhhhhhhXdddddddddX&dddXdddXdddddddddeehhXLLhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhheTV88888V
+V88888V&hhhhhhhhhXhhLXXhhehhhhhhhhhhhXhXX&hhhhXhhhhhhhhhXdddddddddX&ddddXXdXdddddddddddehhXXLhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhheTV88888V
+V88888V&&&&&&&&&&XhLXhheehhhhhhhhhhhhXX&&hhhhhhhhhhhhhhhXdddddddddd&ddddddXXddddddddddddeeddXLX&&&&&&&&&&XhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhheTV88888V
+V88488VXXXXXXXXXXDLXhhehhhhhhhhhhhhhXX&hhhhhhhhhhhhhhhXXXXXdddddddd&dddddddXXdddddddddddddeddXDDXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXXhhhhhhhheTV88488V
+V88488VTTTTTTTTTBXXhhhhhhhhhhhhhhhhX&&hhhhhhhhXhhhhhhXhhXddXddddddX&dddddddddXddddddddddddddddXXBTTTTTTTTXhhhhhhhhhhXTTTTTTTTTTX&hhhhhhhhhXTTTTTTTTTTXhhhhhhhheTV88488V
+V88488VhLLhhhhLLXhhhhhhhhhhhhhhhhXX&hhhhhhhhhhXhhhhXXhhhXdddXXddddX&ddddddddddXXddddddddddddddddXLLhhhhLLXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhheTV88488V
+V88488VLRRLhhLXXXhhhhhhhhhhhhhhhX&&hhhhhhhhhhhXhhhXhhhhhXdddddXdddX&ddddddddddddXdddddddddddddddXXXLhhLLLDhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhheTV88488V
+V88488VRXXRLLXhhXhhhhhhhhhhhhhXX&hhhhhhhhhhhhhXhXXhhhhhhXddddddXXdX&dddddddddddddXXdddddddddddddX&dXLLLXXDLhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTV88488V
+V88488VXyyXXXhhhXhhhhhhhhhhhhX&&hhhhhhhhhhhhhhXXhhhhhhhhXddddddddXX&dddddddddddddddXddddddddddddX&ddXXXyyXLhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhheTV88488V
+V88488VXyyXhhhhhXhhhhhhhhhhXX&hhhhhhhhhhhhhhhXXhhhhhhhhhXdddddddddXX&dddddddddddddddXXddddddddddX&ddddXyyXLhhhhhhhhhXhhhhhhhhhhX&&&&&&&&&&XhhhhhhhhhhXhhhhhhhhhTV88488V
+V88888VXyyXhhhhhhhhhhhhhhhXX&hhhhhhhhhhhhhhhXhhhhhhhhhhhXdddddddddddX&&ddddddddddddddXXdddddddddd&ddddXyyXqVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVPV88888V
+V88888VXyyXhhhhhhhhhhhhhXXhX&hhhhhhhhhhhhhXXhhhhhhhhhhhhXddddddddddddXX&dddddddddddddXdXXdddddddd&ddddXyyXr======^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^===^^^^^-V88888V
+V88888VXyyXhhhhhXhhhhhhXhhhX&hhhhhhhhhhhhXhhhhhhhhhhhhhhXddddddddddddddX&&dddddddddddXdddXddddddX&ddddXyyXr^^^^^^=====^^^^^^^^^^^=====^^^^^^^^^^^^^====^^^^^^^^-V88888V
+V88488VXyyXhhhhhXhhhhXXhhhhX&hhhhhhhhhhXXhhhhhhhhhhhhhhhXdddddddddddddddXX&ddddddddddXddddXXddddX&ddddXyyXr^^^^^^^^^^^^^^^^^=====^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-V88488V
+V88488VXyyXhhhhhXhhhXhhhhhhX&hhhhhhhhhXhhhhhhhhhhhhhhhhhXdddddddddddddddddX&&ddddddddXddddddXdddX&ddddXyyXf88888888888888888888444448888844488888888888884444881V88488V
+V88488VXyyXhhhhhXhhXhhhhhhhX&hhhhhhhXXhhhhhhhhhhhhhhhhXXXXXddddddddddddddddXX&dddddddXdddddddXddX&ddddXyyXb44488844448888844444888888888888884444488844448888881V88488V
+V88488VXyyXhhhhhXXXhhhhhhhhX&hhhhhhX&XhhhhhhhhhhhhhhhX&&XddXdddddddddddddddX&X&&dddddXddddddddXXX&ddddXyyXqVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVPV88488V
+V88488VXyyXhhhhhXhhhhhhhhhhX&hhhhXX&hXhhhhhhhhhhhhhXX&hhXdddXXdddddddddddddX&dXX&ddddXddddddddddX&&dddXyyXQH::::::::::::::::::::::::::::::::::::::::::::::::::::V88488V
+V88488VXyyXhhhXXhhhhhhhhhhhX&hhhX&&hhXhhhhhhhhhhhhX&&hhhXdddddXddddddddddddX&dddX&&ddXdddddddddddXX&ddXyyXfV%{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{:V88488V
+V88488VXyyXhhXhhhhhhhhhhhhhX&hXX&hhhhXhhhhhhhhhhXX&hhhhhXddddddXXddddddddddX&ddddXX&dXdddddddddddddX&&XyyXfV%{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{:V88488V
+V88848VXyyXXXhhhhhhhhhhhhhhX&X&&hhhhhXhhhhhhhhhX&&hhhhhhXddddddddXdddddddddX&ddddddX&XddddddddddddddXXXyyXfV%{{{{{{{{{{{{{VVVVVVVVVVVVVVVVVVVVVVV*{{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhhhhhhhhhhhhXX&hhhhhhhXhhhhhhhXX&hhhhhhhhXdddddddddXXdddddddX&dddddddXXddddddddddddddddXyyXfV%{{{{{{{{{{{{V^^^^^^^^^^^^^^^^^^^^^^^V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhhhhhhhhhhhX&&hhhhhhhhXhhhhhhXhX&hhhhhhhhXdddddddddXdXddddddX&dddddddddXdddddddddddddddXyyXfV%{{{{{{{{{{{{V8VVVVVVVVVVVVVVVVVVVVV8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhhhhhhhhhXX&hhhhhhhhhhXhhhhXXhhX&hhhhhhhhXdddddddddXddXXddddX&ddddddddddXXdddddddddddddXyyXfV%{{{{{{{{{{{{V8V@@@@@@||V^V3@@@@@||V8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhhhhhhhhX&&hhhhhhhhhhhXhhhXhhhhX&hhhhhhhhXdddddddddXddddXdddX&ddddddddddddXddddddddddddXyyXfV%{{{{{{{{{{{{V8V@@@@@||@V^V3@@@@||@V8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhhhhhhXX&hhhhhhhhhhhhhXhXXhhhhhX&hhhhhhhhXdddddddddXdddddXXdX&dddddddddddddXXddddddddddXyyXfV%{{{{{{{{{{{{V8V@@@@||@@V^V3@@@||@@V8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhhhhhX&&hhhhhhhhhhhhhhXXhhhhhhhX&hhhhhhhhXdddddddddXdddddddXX&dddddddddddddddXdddddddddXyyXfV%{{{{{{{{{{{{V8V@@@||@@@V^V3@@||@@@V8V*{{{{{{{{{{{{:V88848V
+V88888VXyyXhhhhhhhhX&hhhhhhhhhhhhhhhXXhhhhhhhhX&hhhhhhUUXUUdddddddXddddddddXX&dddddddddddddddXddddddddXyyXfV%{{{{{{{{{{{{V8V@@||@@@@V^V3@||@@@@V8V*{{{{{{{{{{{{:V88888V
+V88888VXyyXhhhhhhXX&hhhhhhhhhhhhhhhXhhhhehhhhhX&hhhhhUaaXaaUddddddXdddddeddddX&&ddddddddddddddXXddddddXyyXfV%{{{{{{{{{{{{V8V@||@@@@@V^V3||@@@@@V8V*{{{{{{{{{{{{:V88888V
+V88888VXyyXhhhhhX&&hhhhhhhhhhhhhhXXhhheehhhhhhX&hhhUUaaaXaaaUUddddXddddddeedddXX&dddddddddddddddXdddddXyyXfV%{{{{{{{{{{{{V8V||@@@@@@V^V<|@@@@@@V8V*{{{{{{{{{{{{:V88888V
+V88488VXyyXhhhXXX&hhhhhhhhhhhhhhXhhhhehhhhhhhhX&hhUaaaaaXaaaaaUdddXddddddddeddddX&&dddddddddddddXXXdddXyyXfV%{{{{{{{{{{{{V8V|@@@@@@@V^V<@@@@@@@V8V*{{{{{{{{{{{{:V88488V
+V88488VXyyXhhXhhX&hhhhhhhhhhhhXXhhheehhhhhhhhhX&UUaaaaUU$UUaaaaUUdXdddddddddeedddXX&ddddddddddddXddXddXyyXfV%{{{{{{{{{{{{V8VVVVVVVVVVVVVVVVVVVVV8V*{{{{{{{{{{{{:V88488V
+V88488VXyyXXXhhhX&hhhhhhhhhhhXhhhhehhhhhhhhhhhXUaaaaaU$${$$UaaaaaUXdddddddddddeddddX&&ddddddddddXdddXXXyyXfV%{{{{{{{{{{{{V8V^^^^^^^^^^^^^^^^^^^V8V*{{{{{{{{{{{{:V88488V
+V88488VXyyXhhhhhX&hhhhhhhhhXXhhheehhhhhhhhhhhUUaaaaUU${{{{{$UUaaaaUUdddddddddddeedddXX&dddddddddXdddddXyyXfV%{{{{{{{{{{{{V8VVVVVVVVVVVVVVVVVVVVV8V*{{{{{{{{{{{{:V88488V
+V88888VXyyXhhhhhh&hhhhhhhhXXhhhehhhhhhhhhhhhUaaaaaU$${{{{{{{$$UaaaaaUddddddddddddedddXX&&dddddddddddddXyyXfV%{{{{{{{{{{{{V8V>>>>>><<J5J333333<<V8V*{{{{{{{{{{{{:V88888V
+V88888VXyyXhhhhhh&hhhhhhXXhXhhhhhhhhhhhhhhUUaaaaUU${{{{{{{{{{{$UUaaaaUUddddddddddddddX&XX&ddddddddddddXyyXfV%{{{{{{{{{{{{V8V}}}}}||@V^V3@@@@||@V8V*{{{{{{{{{{{{:V88888V
+V88848VXyyXhhhhhX&hhhhhXhhhXhhhhhhhhhhhhhUaaaaUU$${{{{{{{{{{{{{$$UUaaaaUdddddddddddddX&ddX&&ddddXdddddXyyXfV%{{{{{{{{{{{{V8V}}}}||@@V^V3@@@||@@V8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhX&hhhXXhhhhXhhhhhhhhhhhUUaaaaU$${{{{{{{{{{{{{{{{{$$UaaaaUUdddddddddddX&dddXX&dddXdddddXyyXfV%{{{{{{{{{{{{V8V}}}||@@@V^V3@@||@@@V8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhX&hhXhhhhhhXhhhhhhhhhhUaaaaaU${{{{{{{{{{{{{{{{{{{{{$UaaaaaUddddddddddX&dddddX&ddXdddddXyyXfV%{{{{{{{{{{{{V8V}}||@@@@V^V3@||@@@@V8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhX&hXhhhhhhhXhhhhhhhhUUaaaaUU${{{{{{{{{{{{{{{{{{{{{{{$UUaaaaUUddddddddX&ddddddX&&XdddddXyyXfV%{{{{{{{{{{{{V8V}||@@@@@V^V3||@@@@@V8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhXXXhhhhhhhhXhhhhhhhUaaaaaU$${{{{{{{{{{{{{{{{{{{{{{{{{$$UaaaaaUdddddddX&dddddddXXXdddddXyyXfV%{{{{{{{{{{{{V8V||@@@@@@V^V<|@@@@@@V8V*{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhXhhhhhhhhhhXhhhhhUUaaaaUU${{{{{{VVVVVVFVVFVVVVVV${{{{{{$UUaaaaUUdddddX&dddddddddXdddddXyyXfV%{{{{{{{{{{{{V8V|@@@@@@@V^V<@@@@@@@V8V*{{{{{{{{{{{{:V88848V
+V88488VXyyXhhhXXhhhhhhhhhhhXhhhhUaaaaaU$${{{{{{V^^^^^^^^^^^^^^^^V${{{{{{$$UaaaaaUddddX&ddddddddddXXdddXyyXfV%{{{{{{{{{{{{V8V@@@@@@@@V^V3@@@@@@@V8V*{{{{{{{{{{{{:V88488V
+V88488VXyyXhhXhhhhhhhhhhhhhXhhUUaaaaUU${{{{{{{{V^^^^^^^^^^^^^^^^V${{{{{{{{$UUaaaaUUddX&ddddddddddddXddXyyXfV%{{{{{{{{{{{{V8V@@@@@@@@V^V3@@@@@@@V8V*{{{{{{{{{{{{:V88488V
+V88488VXyyXXXhhhhhhhhhhhhhhXhUaaaaaU$${{{{{{{{{V^^^^^^^^^^^^^^^^V${{{{{{{{{$UaaaaaUddX&dddddddddddddXXXyyXfV%{{{{{{{{{{{{V8VVVVVVVVVVVVVVVVVVVVV8V*{{{{{{{{{{{{:V88488V
+V88488VXyyXhhhhhhhhhhhhhhhhUUaaaaUU${{{{{{{{{{{V^^^^^^^^^^^^^^^^V${{{{{{{{{{$UUaaaaUUX&dddddddddddddddXyyXfV%{{{{{{{{{{{{V^222222222222222222222^V*{{{{{{{{{{{{:V88488V
+V88488VXyyXhhhhhhhhhhhhhhhUaaaaaU$${{{{{{{{{{{{V^^^^^^^^^^^^^^^^V${{{{{{{{{{{$$UaaaaaU&&ddddddddddddddXyyXfV%{{{{{{{{{{{{V^^^^^^^^^^^^^^^^^^^^^^^V*{{{{{{{{{{{{:V88488V
+V88488VXyyXhhhhhhhhhhhhhUUaaaaUU${{{{{{{{{{{{{{{VVVVVVFVVFVVVVVV${{{{{{{{{{{{{{$UUaaaaUU&dddddddddddddXyyXfV%{{{{{{{{{{{{V^^^^^^^^^^^^^^^^^^^^^^^V*{{{{{{{{{{{{:V88488V
+V88888VXyyXhhhhhhhhhhhhUaaaaaU$${{{{{{{{{{{{{{{{$$$$$$$$$$$$$$$${{{{{{{{{{{{{{{{$$UaaaaaU&&dddddddddddXyyXfV%{{{{{{{{{{{{V88888888888888888888888V*{{{{{{{{{{{{:V88888V
+V88888VXyyXhhhhhhhhhhUUaaaaUU${{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{$UUaaaaUU&ddddddddddXyyXfV%{{{{{{{{{{{{*VVVVVVVVVVVVVVVVVVVVVVV*{{{{{{{{{{{{{:V88888V
+V88888VXyyXhhhhhhhhhUaaaaaU$${{{{{{{{{{{{{{{CCCCCCCCCCCCCCCCCCCCCCCC${{{{{{{{{{{{{{$$UaaaaaU&dddddddddXyyXfV%{{{{{{{{{{{{{***********************{{{{{{{{{{{{{{:V88888V
+V88848VXyyXhhhhhhhhUaaaaUU${{{{{{{{{{{{{{{{CYNNNNNCYNNNNNNNNNCYNNNNNC${{{{{{{{{{{{{{{$UUaaaaU&&dddddddXyyXfV%{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhhUUaaaaU$${{{{{{{{{{{{{{{{{CYSSSSNCYSSSSSSSSNCYSSOSNC${{{{{{{{{{{{{{{{$$UaaaaUU&ddddddXyyXfV%{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhhhUaaaaUU${{{{{{{{{{{{{{{{{{{CYSOSSNCYSSOSSSSSNCYSSOSNC${{{{{{{{{{{{{{{{{{$UUaaaaU&&ddddXyyXfV%{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{:V88848V
+V88848VXyyXhhhUUaaaaU$${{{{{{{{ccc${{{{{{{{CYSOSSNCYSSOSSSSSNCYSSSSNC${{{{{{{{ccc${{{{{{{$$UaaaaUU&dddXyyXfV%{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{:V88848V
+V88848VUyyXhhUaaaaUU${{{{{{{{{{ccc${{{{{{{{CYSOSSNCYSSSOSSSSNCYSOSSNC${{{{{{{{ccc${{{{{{{{{$UUaaaaU&&dXyyUfVHVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVHV88848V
+V88848VUyyXUUaaaaUlG${{{{{{{{{{{c${{{{{{{{{CYSOSSNCYSSSOSSSSNCYSOSSNC${{{{{{{{{c${{{{{{{{{{$GlUaaaaUU&XyyUfV0^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^zV88848V
+V88848VUyyXaaaaUUl8V${{{{{{{{{{{c${{{{{{{{{CYSOSSNCYSSSSSSSSNCYSOSSNC${{{{{{{{{c${{{{{{{{{{$V8lUUaaaaXXyyUfVv=^^^^^^^^^===========^^^^^^^^^^^^^^^^^^^^^^^^^^^==uV88848V
+V88848VXyyXaaaUll88V${{{{{{{{{{c7c${{{{{{{{CYSSOSNCYSSSSSSOSNCYSOSSNC${{{{{{{{c7c${{{{{{{{{$V88llUaaaXXyyXfV0^^^^^^^^^^^^^^^^^^^^^=======^^^^^^^^^^^^^^^^^^^^^^zV88848V
+V88848VXyyXUUUl8888V${{{{{{{{{csssc${{{{{{{CYSSOSNCYSSSAASOSNCYSOSSNC${{{{{{{csssc${{{{{{{{$V8888lUUUqXyyXfVn88888888888888888888888888888888888888888888888888mV88848V
+V88888VVXXEWjG88888V${{{{{{{{csssssc${{{{{{CYSSOSNCYSSSAASOSNCYSSOSNC${{{{{{csssssc${{{{{{{$V88888GfQVfXXb8Vi44444444448888888888888888888888444444444888888888mV88888V
+V88888V.VVVHVV88888V${{{{{{{csssssssc${{{{{CYSSOSNCYSSSNNSOSNCYSSOSNC${{{{{csssssssc${{{{{{$V88888VVHV8ff88VHVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVHV88888V
+.VVVVV.......V88888V${{{{{{{c7777777c${{{{{CYSSOSNCYSSSSSOSSNCYSSOSNC${{{{{c7777777c${{{{{{$V88888V...VVVVV......................................................VVVVV.
+.............V88888V${{{{{{{c/sssss/c${{{{{CYSSSSNCYSSSSSOSSNCYSSOSNC${{{{{c/sssss/c${{{{{{$V88888V....................................................................
+.............V88888V${{{{{{{c/s!!!s/c${{{{{CYSSSSNCYSSOSSOSSNCYSSSSNC${{{{{c/s!!!s/c${{{{{{$V88888V....................................................................
+.............V88888V${{{{{{{c/s???s/c${{{{{CYSSSSNCYSSOSSSSSNCYSSSSNC${{{{{c/s???s/c${{{{{{$V88888V....................................................................
+.............V88888V${{{{{{{c/s___s/c${{{{{CYSSOSNCYSSOSSSSSNCYSSSSNC${{{{{c/s___s/c${{{{{{$V88888V....................................................................
+.............V88848V${{{{{{{c/s~~~s/c${{{{{CYSSOSNCYSSOSSSSSNCYSSOSNC${{{{{c/s~~~s/c${{{{{{$V84888V....................................................................
+.............V88848V${{{{{{{c/sssss/c${{{{{CYSOSSNCYSSSOSSSSNCYSSOSNC${{{{{c/sssss/c${{{{{{$V84888V....................................................................
+.............V88848V${{{{{{{c///////c${{{{{CYSOSSNCYSSSOSSSSNCYSSOSNC${{{{{c///////c${{{{{{$V84888V....................................................................
+.............V88888V${{{{{{{$ccccccc${{{{{{CYAKAANCYSSSOSSSSNCYSOSSNC${{{{{$ccccccc${{{{{{{$V88888V....................................................................
+.............V88888V${{{{{{{{$$$$$$${{{{{{{CYAANNNCYSSSOSSSSNCYSOSSNC${{{{{{$$$$$$${{{{{{{{$V88888V....................................................................
+.............V88888V${{{{{{{{{{{{{{{{{{{{{{CYNNSSNCYSSSOSSSSNCYSOSSNC${{{{{{{{{{{{{{{{{{{{{$V88888V....................................................................
+.............V48888V${{{{{{{{{{{{{{{{{{{{{{CYSSSSNCYSSSSSSSSNCYSSSSNC${{{{{{{{{{{{{{{{{{{{{$V88884V....................................................................
+.............V48888V${{{{{{{{{{{{{{{{{{{{{{CYSSSSNCYSSSSOSSSNCYSSSSNC${{{{{{{{{{{{{{{{{{{{{$V88884V....................................................................
+.............V48888V${{{{{{{{{{{{{{{{{{{{{{CYSSSSNCYSSSSOSSSNCYSSOSNC${{{{{{{{{{{{{{{{{{{{{$V88884V....................................................................
+.............V48888V${{{{{{{{{{{{{{{{{{{{{{CYOSSSNCYSSSSOSSSNCYSSOSNC${{{{{{{{{{{{{{{{{{{{{$V88884V....................................................................
+.............V48888V${{{{{{{{{{{{{{{{{{{{{{CYOSSSNCYSSSSOSSSNCYSSOSNC${{{{{{{{{{{{{{{{{{{{{$V88884V....................................................................
+.............V48888V${{{{{{{{{{{{{{{{{{{{{{CYOSSSNCYSSSOSSSSNCYSSOSNC${{{{{{{{{{{{{{{{{{{{{$V88884V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{{{{{{{CYSOSSNCYSSSOSSSSNCYSOSSNC${{{{{{{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{{{{{{{CYSOSSNCYSSSOSSSSNCYSOSSNC${{{{{{{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{{{{{{{CYSOSSNCYSSSOSSSSNCYSOSSNC${{{{{{{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{{{{{{{CYSSSSNCYSSSOSSSSNCYSOSSNC${{{{{{{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{{{{{{{CYSSSSNCYSSSSSSSSNCYSSSSNC${{{{{{{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{{{{{{{{CCCCCCCCCCCCCCCCCCCCCCCC${{{{{{{{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{{%VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV${{{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{%V^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^V${{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{%V^^======^^^^^^^^^==^^^^^^^======^^V${{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{%V^^^^^^^^=======^^^^^======^^^^^^^^V${{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{%V8888888888888888888888888888888888V${{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V${{{{{{{{{{{{{{{{%V8888888888888888888888888888888888V${{{{{{{{{{{{{{{{$V88848V....................................................................
+.............V84888V$$${{{{{{{{{{{{{{%VttttttttttttttttttttttttttttttttttV${{{{{{{{{{{{{{$$$V88848V....................................................................
+..........ZZZV84848VMZZ${{{{{{{{{{{{{%V^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^V${{{{{{{{{{{{{$ZZZV84848VMZZ.................................................................
+.........Z666V84848Vk66Z$$$$$$$$$$$$$pV^====^^^^^^^^^=======^====^^^^^^^^Vo$$$$$$$$$$$$$Z666V84848Vk66Z................................................................
+.........Z666V84848Vk66ZVVVVVVVVVVVVVHV^^^^^=====^^^^^^^^^^^^^^^^=====^^^VGVVVVVVVVVVVVVZ666V84848Vk66Z................................................................
+.........Z666V88848Vk66Z^^^^^^^^^^^^^0V8888888888888888888888888888888888Vx^^^^^^^^^^^^^Z666V84888Vk66Z................................................................
+.........Z666V88888Vk66Z^^^^^^^^^^^^^0V8888888888888888888888888888888888Vx^^^^^^^^^^^^^Z666V88888Vk66Z................................................................
+.........Z666V88888Vk66Z=====^^^^^^^^0VttttttttttttttttttttttttttttttttttVx^^^^^^^^=====Z666V88888Vk66Z................................................................
+.........Z6666VVVVVk666Z8888888888888nV^^^^^^======^^^^^^^^^^^^^^^^^^^^^^Vl8888888888888Z666kVVVVVk666Z................................................................
+.........Z6666666666666Z8888888884448nV^=====^^^^^^^^^^^====^^^====^^^^^^Vl8444888888888Z6666kkkkk6666Z................................................................
+.........Z9999999999999ZVVVVVVVVVVVVVHV^^^^^^^^^^^^^^===^^^^^^^^^^^====^^VGVVVVVVVVVVVVVZ9999999999999Z................................................................
+.........ZwwwwwwwwwwwwwZ..............V8888888888888888888888888888888888V..............ZwwwwwwwwwwwwwZ................................................................
+.........ZwwwwwwwwwwwwwZ..............V8888888888888888888888888888888888V..............ZwwwwwwwwwwwwwZ................................................................
+.........ZwwwwwwwwwwwwwZ...............VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV...............ZwwwwwwwwwwwwwZ................................................................
+..........ZZZZZZZZZZZZZ..................................................................ZZZZZZZZZZZZZ.................................................................

@@ -1,0 +1,83 @@
+name tree2_dead_winter_palm
+size 31 44
+scale 1
+layout
+dead_winter
+palette
+K #231d22 outline (darkest)
+A #272127
+B #2e2324
+C #362220
+D #2c252a
+E #4b2b26
+F #53372d
+G #5d3c32
+H #654537
+I #694a3a
+J #72513d
+L #795842
+M #7e5c45
+N #846048
+O #8b674d
+P #937055
+Q #a98361
+R #b58d67
+S #bf976f
+T #c69d6f
+U #cda471
+V #d1ab7a
+W #e0b87e
+X #daca96
+Y #efce83
+Z #f1d681
+a #ecde90
+b #ebe0a5
+c #c8d9ec
+d #f1f8fe
+
+; src 567,315 31x44 on the 1x re-grid (png is ~4.9x, blurred)
+frame dead_winter
+..........dddd.................
+........ddcScOdd...............
+.......d.AAAYYcVdd.............
+...........DIYZPcFd..dddd......
+............KJTONWc.dUcbcdd....
+........ddddAATTNNEdcPVOYYcd...
+......ddcTcbRDDQSJIAMAAAADAVd..
+....ddcZNNNUVPAJSJEAGAAAADAGcd.
+...dcZST..AAIAAAAEEAAAA...DABEd
+..dZTB.AddQTTQJAAAKAJJJddd..DEc
+.dcT..d.cRZbSBSSSOAVTLZLcAd.DAA
+.QS....dZZURBQZSbUANZZSYJLcd.DA
+dS....dYTTOARZZUbbSATTZJZMJAd.D
+.S...dcTUPAAWZTZZTTAPbZTMYJLc.D
+....dVOTLK.RZTTZZTHAKRZZMYJAE..
+....cNWPK.dVZTZZTTAAAJUZSMTHGd.
+...dMSRB..caZTZTTIKA.KUaUNTIAA.
+...MMYC..dTaTZZZRIHA..JaTNVMGA.
+...ASM...MTbJbXRGAKA..BTTTMMFA.
+...ASL...MTTLbUJAAID...RbbMSFA.
+....LL...MTNUTJJAAK....AUTMSFA.
+....KL...MZNVQJAAGA.....NSMSFA.
+.....L...MSNLGAAFAA.....DHOEEK.
+.........MMNEAALLLA......HOFG..
+.........MMNK.AKEEA......KOEK..
+.........MEB..AJJE........KEA..
+.........MA...LJAA.........B...
+..........D...LYPG.........D...
+..............LLAK.............
+.............dZSJD.............
+.............NTJAA.............
+.............MTOID.............
+.............NNAAC.............
+.............NZRJB.............
+.............NSBACd............
+.............MTTHHc............
+............dYJMAAEdd..........
+............cGGDSNAFc..........
+...........dPEBZZBAFFd.........
+..........dRHHAOWPHDFF.........
+.........dcLAAAJFFBCBGd........
+........dSIDK..JSSHC..cd.......
+.........F.....JJTPE...........
+.................MME...........

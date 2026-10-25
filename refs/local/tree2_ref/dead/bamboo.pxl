@@ -1,0 +1,71 @@
+name tree2_dead_bamboo
+size 18 38
+scale 1
+layout
+dead
+palette
+K #493b33 outline (darkest)
+A #544130
+B #474739
+C #544841
+D #69512e
+E #5f4e41
+F #695840
+G #635251
+H #6a5548
+I #7c6238
+J #715b54
+L #786049
+M #766859
+N #917636
+O #877053
+P #9f855b
+Q #a08171
+R #968782
+S #caa967
+T #c7a680
+U #e5c172
+V #f1d07c
+W #f7e093
+X #d5d4ce
+
+; src 613,249 18x38 on the 1x re-grid (png is ~4.9x, blurred)
+frame dead
+......HJ..........
+MLL..RVUM.........
+GPI...DA..........
+LUSM..ID..........
+.OWM..ID......ROLX
+.LWL..DD..FF..LWWE
+.MUF..DD.RPS..FFLE
+..PSE.II..IF..ESL.
+..GFP.TI..SO..ASF.
+..PVN.TI.RUL..AWE.
+..LWULNI.RVF..KOL.
+..HVUHDD..LL..LVL.
+...PUHND..TD..LQE.
+...LHMND..TA..PUE.
+...LUONI..NI..PWH.
+...MUVND.GMO.MSSF.
+....PVFD.JSO..HF..
+....LSFNAGUO.GUL..
+....ELFNEGOL.EVO..
+....CSPNECUI.EVL..
+....EUPNEEWI.FUF..
+....EPAKGFWL.EVF..
+.....PSKCEVO.OEE..
+.....OVKCEOE.OSE..
+.....OUKCLSL.OVJ..
+.....OVKKPVLGOSJ..
+.....JPPKPVMHFL...
+.....HPSKSVMEUL...
+.....MVSKSVMHUL...
+.....MVOKSOCEUL...
+......PSCUSCLVL...
+......UUCVWEEPG...
+.....CSULSVKSW....
+....OQKAANFCOGB...
+...JJQHQHAOEPUC...
+..OFBQCJEBKOLMMM..
+..F.FE.QC.MLB...MC
+....FM.EC.........

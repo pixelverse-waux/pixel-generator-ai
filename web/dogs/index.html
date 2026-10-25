@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dogs · Pixel Sprites</title>
+<link rel="stylesheet" href="../site.css">
+</head>
+<body>
+<main>
+  <nav class="nav">
+    <a class="home" href="../">Pixel sprites</a>
+    <a class="tab" href="../cats/">Cats</a>
+    <a class="tab" href="../dogs/" aria-current="page">Dogs</a>
+    <a class="tab" href="../characters/">Characters</a>
+    <a class="tab" href="../buildings/">Buildings &amp; trees</a>
+    <a class="tab" href="../town/">Town</a>
+  </nav>
+  <h1>Dogs</h1>
+  <p class="lede">Hand-drawn 48×48 dogs from <code>web/dogs/</code>: walk, sit, pant, lie and sleep. Pick a dog, then an animation or pose.</p>
+  <div id="app"></div>
+</main>
+<script src="../catsprite.js"></script>
+<script src="../viewer.js"></script>
+<script>SpriteViewer.mount(document.getElementById("app"), { label: "dog" });</script>
+</body>
+</html>

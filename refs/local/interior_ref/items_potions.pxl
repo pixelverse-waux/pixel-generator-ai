@@ -1,0 +1,249 @@
+name items_potions
+size 6 9
+scale 1
+layout
+vial_0 vial_1 vial_2 vial_3 potion_0 potion_1 potion_2 potion_3
+vial_4 vial_5 vial_6 vial_7 potion_4 potion_5 potion_6 potion_7
+palette
+K #36582d outline (darkest)
+A #3d5d34
+B #406138
+C #4c2c68
+D #753737
+E #6e5621
+F #2c5169
+G #52336d
+H #793e3e
+I #676826
+J #735b28
+L #724c38
+M #33576e
+N #55376f
+O #725239
+P #7c4141
+Q #755f2c
+R #375a70
+S #3f9d29
+T #6c6d2d
+U #515760
+V #735741
+W #505a63
+X #76583f
+Y #6f7031
+Z #575c65
+a #6c4d63
+b #565f68
+c #715368
+d #60676c
+e #73566b
+f #57a944
+g #7d26ca
+h #ed4242
+i #db9808
+j #2789cd
+k #8d42d0
+l #ef5a5a
+m #c7ca15
+n #dfa527
+o #4298d3
+p #ced033
+q #e89c5d
+r #88a3bc
+s #97aec4
+t #d480bb
+u #d990c3
+v #b3c7d5
+w #bcceda
+x #c0cbdc
+
+; src 368,526 4x9
+frame vial_0
+..OO..
+.LqqL.
+.xxxx.
+.edZe.
+.evve.
+.awve.
+.aute.
+.atta.
+..ae..
+
+; src 374,526 4x9
+frame vial_1
+..OO..
+.LqqL.
+.xxxx.
+.NdZN.
+.NvvN.
+.CwvN.
+.CkgN.
+.CggC.
+..CN..
+
+; src 380,526 4x9
+frame vial_2
+..OO..
+.LqqL.
+.xxxx.
+.RdZR.
+.RvvR.
+.FwvR.
+.FojR.
+.FjjF.
+..FR..
+
+; src 386,526 4x9
+frame vial_3
+..OO..
+.LqqL.
+.xxxx.
+.bdZb.
+.bvvb.
+.bwvb.
+.WsrW.
+.brrW.
+..Wb..
+
+; src 397,526 6x9
+frame potion_0
+.XOOO.
+.OqqO.
+..UZ..
+..dd..
+.dvvd.
+cvwvva
+ctuttc
+atttta
+.accc.
+
+; src 406,526 6x9
+frame potion_1
+.XOOO.
+.OqqO.
+..UZ..
+..dd..
+.dvvd.
+bvwvvW
+brsrrb
+WrrrrW
+.Wbbb.
+
+; src 415,526 6x9
+frame potion_2
+.XVVO.
+.OqqO.
+..UZ..
+..dd..
+.dvvd.
+HvwvvD
+HhlhhH
+DhhhhD
+.DHHH.
+
+; src 424,526 6x9
+frame potion_3
+.XOOO.
+.OqqO.
+..UZ..
+..dd..
+.dvvd.
+AvwvvK
+ASfSSA
+KSSSSK
+.KAAA.
+
+; src 368,536 4x9
+frame vial_4
+..OO..
+.LqqL.
+.xxxx.
+.YdZY.
+.YvvY.
+.IwvY.
+.IpmY.
+.ImmI.
+..IY..
+
+; src 374,536 4x9
+frame vial_5
+..OO..
+.LqqL.
+.xxxx.
+.QdZQ.
+.QvvQ.
+.EwvQ.
+.EniQ.
+.EiiE.
+..EQ..
+
+; src 380,536 4x9
+frame vial_6
+..OO..
+.LqqL.
+.xxxx.
+.BdZB.
+.BvvB.
+.KwvB.
+.KfSB.
+.KSSK.
+..KB..
+
+; src 386,536 4x9
+frame vial_7
+..OO..
+.LqqL.
+.xxxx.
+.PdZP.
+.PvvP.
+.DwvP.
+.DlhP.
+.DhhD.
+..DP..
+
+; src 397,536 6x9
+frame potion_4
+.XOOO.
+.OqqO.
+..UZ..
+..dd..
+.dvvd.
+GvwvvC
+GgkggG
+CggggC
+.CGGG.
+
+; src 406,536 6x9
+frame potion_5
+.XOOO.
+.OqqO.
+..UZ..
+..dd..
+.dvvd.
+MvwvvF
+MjojjM
+FjjjjF
+.FMMM.
+
+; src 415,536 6x9
+frame potion_6
+.XOOO.
+.OqqO.
+..UZ..
+..dd..
+.dvvd.
+TvwvvI
+TmpmmT
+ImmmmI
+.ITTT.
+
+; src 424,536 6x9
+frame potion_7
+.XOOO.
+.OqqO.
+..UZ..
+..dd..
+.dvvd.
+JvwvvE
+JiniiJ
+EiiiiE
+.EJJJ.

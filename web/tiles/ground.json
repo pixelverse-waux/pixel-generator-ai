@@ -1,0 +1,1 @@
+{"name":"ground","image":"ground.png","frameWidth":16,"frameHeight":16,"frames":[[0,0],[16,0],[32,0],[48,0],[64,0],[80,0],[96,0],[112,0],[128,0],[144,0],[160,0],[176,0]],"animations":{},"poses":{"grass_0":[0],"grass_1":[1],"dirt":[2],"cobble":[3],"edge_n":[4],"edge_s":[5],"edge_w":[6],"edge_e":[7],"pebble_a":[8],"pebble_b":[9],"leaf_a":[10],"leaf_b":[11]}}

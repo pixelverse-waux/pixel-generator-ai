@@ -1,0 +1,1 @@
+{"name":"furniture","image":"furniture.png","frameWidth":48,"frameHeight":48,"frames":[[0,0],[48,0],[96,0],[144,0],[192,0],[240,0],[288,0],[336,0],[384,0],[432,0],[480,0]],"animations":{},"poses":{"bed":[0],"desk":[1],"table":[2],"chair_s":[3],"chair_n":[4],"chair_e":[5],"bookshelf":[6],"sofa":[7],"lamp":[8],"plant":[9],"chair_w":[10]}}

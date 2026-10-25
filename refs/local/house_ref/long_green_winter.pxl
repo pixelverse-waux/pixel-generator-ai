@@ -1,0 +1,265 @@
+name long_green_winter
+size 276 176
+scale 1
+layout
+winter
+palette
+K #311d0e outline (darkest)
+A #331e0e
+B #442813
+C #512f16
+D #4c2b25
+E #543117
+F #1d4b36
+G #563217
+H #1e4e37
+I #1f5038
+J #5b3519
+L #61391a
+M #633a1b
+N #683c1c
+O #6a3d1d
+P #6c3f1d
+Q #6f401e
+R #5f442d
+S #663931
+T #266448
+U #734220
+V #286849
+W #774520
+X #296b4b
+Y #6b4f29
+Z #7b4722
+a #6b4c33
+b #6b5a2e
+c #844c24
+d #715036
+e #2f7c56
+f #2e795c
+g #8f5328
+h #338660
+i #98582a
+j #886434
+k #9c5a2b
+l #876040
+m #876a38
+n #a55f2d
+o #906a37
+p #507c68
+q #a8612f
+r #8b753c
+s #956d3a
+t #ae642f
+u #b26731
+v #986c48
+w #b46831
+x #b56932
+y #988041
+z #bb6c33
+0 #558f7b
+1 #5d8e76
+2 #bf6e34
+3 #c16f35
+4 #c17035
+5 #a18845
+6 #c87437
+7 #4882ac
+8 #cb7538
+9 #cc7638
+! #cf7839
+$ #d97d3b
+% #c28e4a
+& #6ba78b
+* #c19750
++ #e6843e
+- #5498c9
+/ #ee8a41
+: #7183c8
+< #58a0d3
+= #ff9345
+> #d9b75d
+? #67bbf7
+@ #8aa1f6
+^ #97f1ff
+_ #c6e4e4
+~ #c4f5fa
+| #ddffff
+
+; src 1643,20 276x176
+frame winter
+...WWWWW.WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW.WWWWWWWWWW.
+..W$$$$$W+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++W+++++$$$$$W
+..W$$$$$W+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++W+++++$$$$$W
+..W$$$$$W+++++++/////++++++////+++++++++++++++/////++++++++++++++++++++++++++++++///++++++++++++////////+++++++++++++++++++++++++++++/////////+++++++++++++++++++++++++//////+++++++++///++++++++++++++++++++++++++++/////////+++++++++++++++++++++++++++++++////+++++++W+++++$8$$$W
+..W$$$$$W++/////+++++++++++++++////+++++++////+++++++++++++////////+++++++++++///+++++++////////+++++++++++++/////++///+++++/////////++++++++++++++++++++++++++////+///++++++++++++++++++///////////++++++++/////////++++++++++++++++++++///////+++++++++++++++++++///++W+++++$8$$$W
+..W$$8$$W++++++++++++++++++++++++++++++++++++++++++++++++++++++++++////////+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//////++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++///////+++++++++++++++++W+++++$8$$$W
+..W$$8$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W+++++$8$$$W
+..W$8$$$W$$$$$$$$$$$$$$$$$$8888888$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$888$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W+/+++$8$$$W
+..W$$$$$W$$$888$$$$$$$$$$$$$$$$$$$$$$$$$$$$888888$$$$$$$$$$$$$$$$$$$$$$$$$$8888888888$$$$$$$$8888888$$$$$$$$$$$$$$$$$$$888888888$$888$$$$$$$$$$$88888$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$888$$$$$$$$8888$$$$$$$$$$$$88888888$$$$$$$$$$$$$$$$$$$$$$$8888888$88$$W+/+++$8$$$W
+..W$$$$$W$$$$$$888$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8888888$$$$$$$$$$888888888$$$$$$$$$$$$$$$$$$$$$$$$$88888888$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$88888$$$$$$$$$$$88888888$$$$$$$$$$$$$$$$$$$$$8888$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$88888888$$$$$$$$$888888$$$$$$$$$$$$W+/+++$8$$$W
+..W$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$88888888$$$$$$$$$$888$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W+/+++$$8$$W
+..W$$$$$WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWSSSSSSSSSSWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW+/+++$$8$$W
+..W$$$$$WTTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTIpTTTTTTTTTIpTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITFFITTD|||||_____DTTIFFITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTITTTTTTTTTTIW+/+++$$8$$W
+..W$$$$$W|hhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXTXXhhhS|||||_____STeeXXIhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXW+/+++$$8$$W
+..W$8$$$W||hhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTIXhhhhhS|||||_____STeeeeXTThhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXW++/++$$8$$W
+..W$8$$$W|||hhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhTXXhhhhhhS|||||_____STeeeeeXXThhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXW++/++$$8$$W
+..W$8$$$W|||hhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhTTXhhhhhhhhS|||||_____STeeeeeeeXTThhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXW++/++$$8$$W
+..W$8$$$W|||hhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhTXXhhhfhhhhhS|||||_____STeeeeeeeeXXThhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXW++/++$$$$$W
+..W$8$$$W||||hhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX&&&&&&&&&&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhTTXhhhffhhhhhhS|||||_____STeeeeeeeeeeXTThhX||||||||||XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXW++/++$$$$$W
+..W$$8$$W|||||hhhhhXXXXXXXXXXXX|hhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXX|hhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXIXXhhffhhhhhhhhS|||||_____STeeeeeeeeeeeXXThXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXW++/++$$$$$W
+..W$$8$$W|||||hhhhhX&hhhhhhhhhX|hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX|TTTTTTTTTX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhXTTTTTTTTTTX|hhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhXTTXhhhfhhhhhhhhhhS|||||_____STeeeeeeeeeeeeeXTITTTTTTTTTTXhhhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhXW++/++$$$$$W
+..W$$8$$W||||||hhhhX&hhhhhhhhhX|hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX|hfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhIXXhhffhhhhhhhhhhhS|||||_____STeeeeeeeeeeeeeeXXThhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXW++/++$$$$$W
+..W$$8$$W|||||||hhhX&hhhhhhhhhX|hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX||fhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhhTTXhhffhhhhhhhhhhhhhS|||||_____STeeeeeeeeeeeeeeeeXTThhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXW+++++$$8$$W
+..W$$8$$W||||||||hhX&hhhhhhhhhX|hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX||fhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhhhTXXhhfhhhhhhhhhhhhhXXS|||||_____SIXeeeeeeeeeeeeeeeeXXThhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXW+++++$$8$$W
+..W$$$$$W|||||||||hX&hhhhhhhhhX|hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX|||hhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhhTTXX&hhhhhhhhhhhhhhhXhhS|||||_____STeXeeeeeeeeeeeeeeeeXXTThhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXW+++++$$8$$W
+..W$$$$$W||||||||||X&hhhhhhhhhX|hhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX||||hhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXhhhhTXXhX&hhhhhhhhhhhhhXXhhhS|||||_____STeeXXeeeeeeeeeeeeeeX0XXThhhXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXW+++++$$8$$W
+..W$$$$$W||||||||||X&hhhhhhhhhX||||||||||X&hhhhhhhhhXhhhhhhhhhhX||||hhhhhhX&&&&&&&&&&XhhhhhhhhhhX||||||||||XhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX||||||||||XhhhhhhhhhhXhhTTXhhhX&hhhhhhhhhhhhXhhhhhS|||||_____STeeeeXeeeeeeeeeeeeeX0eeXTThXhhhhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXW+++++$$8$$W
+..W$$$$$WIXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXX|||||hhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhfhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXhTXXhhhhX&hhhhhhhhhhXXhhhhhhS|||||_____STeeeeeXXeeeeeeeeeeeX0eeeXXTX||||||||||X|hhhhhhhhhXhhhhhhhhhhXW+++++$$8$$W
+..W$$$$$WFTTTTTTTTTX&hhhhhhhhhXTTTTTTTTTTX&hhhhhhhhhXTTTTTTTTTTX||||||hhhhXTTTTTTTTTTXhhhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhXTTTTTTTTTTXhhhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhITXhhhhhhX&hhhhhhhhhXhhhhhhhhS|||||_____STeeeeeeeXeeeeeeeeeeX0eeeeeXIIXXXXXXXXXX|hhhhhhhhhXXXXXXXXXXXXW++/++$$$$$W
+..W$$8$$WThhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX|||||||hhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhTXXhhhhhhhX&hhhhhhhXX&hhhhhhhhS|||||_____STeeeeeeeeXXeeeeeeeeX0eeeeeeXXThhhhhhhhX|hhhhhhhhhXTTTTTTTTTTIW++/++$$$$$W
+..W$$8$$WThhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX||||||||hhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhTTXhhhhhhhhhX&hhhhhhXhX&hhhhhhhhS|||||_____STeeeeeeeeX0XeeeeeeeX0eeeeeeeeXTThhhhhhX|hhhhhhhhhXhhhhhhhhhhXW++/++$$$$$W
+..W$$8$$WThhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX|||||||||hXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhTXXhhhhhhhhhhX&hhhhXXhhX&hhhhhhhhS|||||_____STeeeeeeeeX00XXeeeeeX0eeeeeeeeeXXThhhhhX|hhhhhhhhhXhhhhhhhhhhXW++/++$$$$$W
+..W$$8$$WThhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX||||||||||XhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhTTXhhhhhhhhhhhhX&hhhXhhhhX&hhhhhhhhS|||||_____STeeeeeeeeX0h00XeeeeX0eeeeeeeeeeeXTThhhX|hhhhhhhhhXhhhhhhhhhhXW++/++$$$$$W
+..W$$8$$WThhhhhhhhhX&hhhhhhhhhXhhfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhX||||||||||XhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhTXXhhhhhhhhhhhhhX&hXXhhhhhX&hhhhhhhhS|||||_____STeeeeeeeeX0hhh0XXeeX0eeeeeeeeeeeeXXThhX|hhhhhhhhhXhhhhhhhhhhXW++/++$8$$$W
+..W$$8$$WThhhhhhhhhX&&&&&&&&&&XhhfhhhhhhhX&&&&&&&&&&XhhhhhhhhhhX||||||||||XhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX||||||||||XhhhhhhhhhhX||||||||||XhhhhhhhhhhXhhTXhhhhhhhhhhhhhhhX&XhhhhhhhX&hhhhhhhhS|||||_____STeeeeeeeeX0hhhh00XeX0eeeeeeeeeeeeeeXThX||||||||||XhhhhhhhhhhXW++/++$8$$$W
+..W$$8$$WThhhhhhhhhXXXXXXXXXXXXhhfhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXTTXhhhhhhhhhhhhhhhhXXhhhhhhhhX&hhhhhhXXS|||||_____SIXeeeeeeeX0hhhhhh0XX0eeeeeeeeeeeeeeeXTIXXXXXXXXXXXhhhhhhhhhhXW+++++$8$$$W
+..W$$8$$WThhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX|hhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhIXXhhhhhhhhhhhhhhhhXhhhhhhhhhhX&hhhhhXhhS|||||_____STeXeeeeeeX0hhhhhhh00XeeeeeeeeeeeeeeeeXXTTTTTTTTTTXhhhhhhhhhhXW+++++$$8$$W
+..W$$8$$WThhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX||hhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhTTX&hhhhhhhhhhhhhhhXXhhhhhhhhhhhX&hhhXXhhhS|||||_____STeeXXeeeeX0hhhhhhhhh0XXeeeeeeeeeeeeeeeeXTThhhhhhhXhhhhhhhhhhXW+++++$$8$$W
+..W$8$$$WThhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX|||hhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhTXXX&hhhhhhhhhhhhhhXhhhhhhhhhhhhhX&hhXhhhhhS|||||_____STeeeeXeeeX0hhhhhhhhhh00XeeeeeeeeeeeeeeeXXXThhhhhhXhhhhhhhhhhXW+++++$$8$$W
+..W$8$$$WThhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX|||hhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhTTX||X&hhhhhhhhhhhhXXhhhhhhhhhhhhhhX&XXhhhhhhS|||||_____STefeeeXXeX0hhhhhhhhhhhh0XXeeeeeeeeeeeeeX0eXTThhhhXhhhhhhhhhhXW+++++$$$$$W
+..W$8$$$WThhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|||hhhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhTXX||hX&hhhhhhhhhhhXhhhhhhhhhhhhhhhhXXhhhhhhhhS|||||_____STeefeeeeXX0hhhhhhhhhhhhh00XeeeeeeeeeeeeX0eeXXThhhXhhhhhhhhhhXW+++++$$$$$W
+..W$8$$$WThhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX||||hhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhTTX|||hhX&hhhhhhhhhXXhhhhhhhhhhhhhhhhXXhhhhhhhhhS|||||_____STeeeffeeeXX|||hhhhhhhhhhhh0XXeeeeeeeeeeX0eeeeXTThXhhhhhhhhhhXW+/+++$$$$$W
+..W$8$$$W||||||||||XhhhhhhhhhhX||||||||||X||||hhhhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX&&&&&&&&&&XhhhhhhhhhhX||||||||||XhhhhhhhhhhXhTXX|||hhhX&hhhhhhhhXX&hhhhhhhhhhhhhhhXhhhhhhhhhhhS|||||_____STeeeeefeeeeX||||hhhhhhhhhhh|XXeeeeeeeeeX0eeeeeXXTXhhhhhhhhhhXW+/+++$$$$$W
+..W$8$$$WIXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXX||||hhhhhhXXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXXhhfhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhITX|||||hhhX&hhhhhhXX|X&hhhhhhhhhhhhhXXhhhhhhhhhhhhS|||||_____STeeeeeefeeeeXX||||||||hhhh||X0XXeeeeeeeX0eeeeeeeXITThhhhhhhhXW+/+++$$$$$W
+..W$8$$$WThhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX|||||hhhhhXTTTTTTTTTTX&hhhhhhhhhXTTTTTTTTTTXhhfhhhhhhhX|hhhhhhhhhXhhhhhhhhhhXTTTTTTTTTTXhhhhhhhhhTXX|||||hhhhX&hhhhhX|||X&hhhhhhhhhhhhXhhhhhhhhhhhhhhS|||||_____STeeeeeeeffeeeeX|||||||||||||X000XeeeeeeX0eeeeeeeeXXIXXXXXXXXXW+/+++$$$$$W
+..W$8$$$WThhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX||||||hhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX||hhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhTTX||||||hhhhhX&hhhXX||||X&hhhhhhhhhhXXhhhhhhhhhhhhhhhS|||||_____STeeeeeeeeefeeeeXX|||||||||||X0ee0XXeeeeX0eeeeeeeeeeXTTTTTTTTIW+/+++$$$$$W
+..W$$$$$WTfhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX||||||hhhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX|||hhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhTXX|||||||hhhhhX&hhX|||||hX&hhhhhhhhhXhhhhhhhhhhhhhhhhhS|||||_____STeeeeeeeeeeeeeeeeX||||||||||X0eee00XeeeX0eeeeeeeefeeXXThhhhhXW++/++$$8$$W
+..W$$$$$WTfhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX|||||||hhhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX|||hhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhTTX||||||||hhhhhhX&hX||||||hX&hhhhhhhXX&hhhhhhhhhhhhhhhXXS|||||_____SIXeeeeeeeeeeeeeeeeXX||||||||X0eeeee0XeeX0eeeeeeeeeffeeXTThhhXW++/++$$8$$W
+..W$$$$$WTfhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX||||||||hhXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX||||hhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhTXX|||||||||hhhhhhXXX||||||hhX&hhhhhhXhX&hhhhhhhhhhhhhhXhhS|||||_____STeXeeeeeeeeeeeeeeeX0X|||||||X0eeeeee0XXX0eeeeeeeeeeefeeXXThhXW++/++$$8$$W
+..W$$$$$WTfhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX|||||||||hXhhhhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhfhhhhhhhX|||||hhhhhXhhhhhhhhhhXhhhhhhhhhhXhTTX||||||||||hhhhhhhX|||||||hhhX&hhhhXXhhX&hhhhhhhhhhhhXXhhhS|||||_____STeeXXeeeeeeeeeeeeeX0eXX|||||X0eeeeeee00X0eeeeeeeeeeeefeeeXTTXW++/++$$8$$W
+..W$$$$$WTfhhhhhhhhXhhhhhhhhhhX&hhhhhhhhhX|||||||||hXhhhhhhhhhhX&&&&&&&&&&XhhhhhhhhhhXhhhhhhhhhhX|||||hhhhhXhhhhhhhhhhXhhhhhhhhhhXTXX||||||||||hhhhhhXX|||||||hhhhX&hhhXhhhhX&hhhhhhhhhhhXhhhhhS|||||_____STeeeeXeeeeeeeeeeeeX0eeeX||||X0eeeeeeeee0XXeeeeeeeeeeeeffeeXXIM++/++$$8$$W
+..W$$8$$WTfhhhhhhhhXXXXXXXXXXXX&hhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXXhhhhhhhhhhXXXXXXXXXXXX||||||hhhhXXXXXXXXXXXXhhhhhhhhhTIX&X||||||||hhhhhhhX|||||||hhhhhhX&hXXhhhhhh&hhhhhhhhhXXhhhhhhS|||||_____STeeeeeXXeeeeeeeeeeX0efeeXX||X0eeeeeeeeee00XeeeeeeeeeeeeefeX0XM2++++$8$$$W
+..W$$8$$WTfhhhhhhhhX|TTTTTTTTTX&hhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhXTTTTTTTTTTXhhhhhhhhhhXTTTTTTTTTTX||||||hhhhXhhhhhhhhhhXhhhhhhhhTXX&hX|||||||hhhhhhXX||||||hhhhhhhhX&Xhhhhfhhh&hhhhhhhhXhhhhhhhhS|||||_____STeeeeeeeXeeeeeeeeeX0eeffhhX|X0eeeeeeeeeeee0XXeeeeeeeeeeeeeX0eXX2+++$8$$$W
+..W$$8$$WTfhhhhhhhhX||hhhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|||||||hhhXhhhhhhhhhhXhhhhhhTTX&&hhX||||||hhhhhhX|||||||hhhhhhhhhXXhhhffhhhh&hhhhhhXX&hhhhhhhhS|||||_____STeeeeeeeeXXeeeeeeeX0eeeefhhXX0eeeeeeeeeeeee00XeeeeeeeeeeeeX0eeeX22+$8$$$W
+..W$$8$$WTfhhhhhhhhX|||hhhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX||||||||hhXhhhhhhhhhhXhhhhhTXX&hhhhh|||||hhhhhXX|||||||hhhhhhhhhXhhhhfhhhhhh&hhhhhX|X&hhhhhhhhS|||||_____STeeeeeeeeX0XeeeeeeX0eeeeeffhhXeeeeeeeeeeeeeee0XXeeeeeeeeeee0eeeeXX2$8$$$W
+..W$$8$$WThhhhhhhhhX||||hhhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX||||||||hhXhhhhhhhhhhXhhhTTX&&hhhhhh||hhhhhhhX||||||||hhhhhhhhXXhhhffhhhhhhX&hhhXX||X&hhhhhhhhS|||||_____STeeeeeeeeX00XXeeeeX0eeeeeeefhhXXeeeeeeeeeeeeee00Xeeeeeeeeee0eeeeeeXwq$$$W
+..W$$8$$WTfhhhhhhhhX|||||hhhhhX&hhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX|||||||||hXhhhhhhhhhhXhhTXX&hhhhhhhh||hhhhhXXX|||||||hhhhhhhhXhhhhfhhhhhhhhX&hhX|||hX&hhhhhhhhS|||||_____STeeeeeeeeX0e00XeeeX0eeeeeeeeffhhXeeeeeeeeeeeeeeeXXXeeeeeeee0eeeeeeeXXw$$W
+..W$$8$$WThhhhhhhhhX||||||||hhX&&&&&&&&&&XhhhhhhhhhhXhhhhhhhhhhXhhhhhhhhhhX||||||||||XhhhhhhhhhhX||||||||||XhhhhhhhhhhXTTX&&hhhhhhhhX|hhhhhXhhX||||||hhhhhhhXXhhhhfhhhhhhhhhX&XX|||hhX&hhhhhhhhS|||||_____STeeeeeeeeX0eee0XXeX0eeeeeeeeeefhhXXeeeeeeeeeeeeeX0eXeeeeeeX0eeeeeeeeeXwwW
+..W$$$$$W|||WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWIXXX&hhhhhhhhhX|hhhXXhhhX|||||hhhhhhhXhhhhffhhhhhhhhhhXX||||hhhX&hhhhhhhhS|||||_____STeeeeeeeee0eeee00XX0eeeeeeeeeeeffeeXeeeeeeeeeeeeX0eeXXeeeeX0eeeeeeeeeXXXM
+..W$$$$$W|||||=///=====================||||||||=========//////======///////=================||||======================X||X&hhhhhhhhhX|hhXhhhhhX|||||hhhhhhXhhhhfhhhhhhhhhhhXX|||||hhhX&hhhhhhXXS|||||_____SIXeeeeeeee0eeeeee0XXeeeeeeeeeeeeefeeXeeeeeeeeeeeX0eeeeXeeeX0eeeeeeeeeX||X
+..W$$$$$W|||||||==////=============//|||||||||||===|////===================///////=======||||||||||///=======////////=X||X&hhhhhhhhhX|XXhhhhhhX||||hhhhhXXhhhffhhhhhhhhhhhX||||||hhhhX&hhhhhXhhS|||||_____STeXeeeeeeX0eeeeeee00XeeeeeeeeeeeeeeeeXXeeeeeeeeeX0eeeeeXXeX0eeeeeeeeeX||X
+..W$$8$$W||||||||==================||||||||||||||||||=================================|||||||||||||||||===============X||X&hhhhhhhhhXXhhhhhhhhX||||hhhhX&hhhfhhhhhhhhhhhXX||||||hhhhhX&hhhXXhhhS|||||_____STeeXXeeeeX0eeeeeeeee0XXeeeeeeeeeeeeeeeeXeeeeeeeeX0eeeeeeeXX||eeeeeeeeX||X
+..W$$8$$W__________$$$$$$$$$$888$$_____________________$$$$$$$$$$$8888888$$$$$$$$$______________________$8888888$$$$$$X||X&hhhhhhhhXXhhhhhhhhhX|||hhhXXX&hhhhhhhhhhhhhhX||||||||hhhhhX&hhXhhhhhS|||||_____STeeeeXeeeX0eeeeeeeeee00XeeeeeeeeeeeeeeeXXXeeeeeeX0eeeeeeeeXX|||||||e|X||X
+.lW$$8$$W____________$$88888$$$$$_______________________$$$8888888$$$$$$$$$$$$$___________________________$$$$$$$$$$$$X||X&hhhhhhhXhhhhhhhhhhhX||hhhXhhX&hhhhhhhhhhhhXX||||||||hhhhhhX&XXhhhhhhS|||||_____STeeeeeXXeX0eeeeeeeeeeee0XXeeeeeeeeeeeeeX0eXeeeeeX0eeeeeeeeeeX||||||||X||X
+lyW$$8$$WPWWW^||||WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW^|||WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW^|||||||WWWWWWWWWWWWWWX||X&hhhhhXXhhhhhhhhhhhhX||hXXhhhX&hhhhhhhhhhhX|||||||||hhhhhhhXXhhhhhhhhS|||||_____STeeeeeeeXX0eeeeeeeeeeeee00XeeeeeeeeeeeeX0eeXXeeeX0eeeeeeeeeeeXX||||||X||X
+lyW$$8$$Woooo^||||oooooooooooooooooooooooooooooooo^|||oooooooBZUZZZBYooooooooooooooooooooooooooo^||||oooooooooooooooooX||X&hhhhXhhhhhhhhhhhhhhX|hXhhhhhh&hhhhhhhhhXX|||||||||hhhhhhhXXhhhhhhhhhS|||||_____STeeeeeeeeXXeeeeeeeeeeeeeee0XXeeeeeeeeeeX0eeeeXeeX0eeeeeeeeeeeeeX|||||X||X
+lyW$$8$$Wo%%%%^|||%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%^||%%%%%%%W$8$$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%^|||%%%%%%%%%%%%%%%%oX||X&hhXXhhhhhhhhhhhhhhhXXXhhhhhhh&hhhhhhhhXX|||||||||hhhhhhhXhhhhhhhhhhhS|||||_____STeeeeeeeeeeXeeeeeeeeeeeeeee0XXeeeeeeeeee0eeeeeXXX0eeeeeeeeeeeeeeXX|||X||X
+lyW$$8$$Wo%%%%%^||%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%^||%%%%%%%W$8$$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%^||%%%%%%%%%%%%%%%%oX||X&hXhhhhhhhhhhhhhhhhhXhhhhhhhhh&hhhhhhXXhX||||||||hhhhhhXXhhhhhhhhhhhhS|||||_____STeeeeeeeeeeeXXeeeeeeeeeeeeeeX0XXeeeeeeee0eeeeeeeX0eeeeeeeeeeeeeeeeX||X||X
+lyW$8$$$Wo%%%%%^||%%%%%%WWWWWWWWWWWWWWWWWWWWWWWs%%%^|%%%%%%%%W$8$$$Wo%%%%%%%%%%%%%WWWWWWWWWWWWWWWW^||WWWWs%%%%%%%%%%%oX||X1XhhhhhhhhhhhhhhhhXXhhhhhhhhhX&hhhhhXhhhX||||||hhhhhhhXhhhhhhhhhhhhhhS|||||_____STeeeeeeeeeeeeeXeeeeeeeeeeeeeX0eeXeeeeeeX0eeeeeeeeXXeeeeeeeeeeeeeeeeXXX||X
+l|W$8$$$Wo%%%%%^|%%%%%%W=======================Ws%%^|%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W=================^|====Ws%%%%%%%%%%oX||X&hhhhhhhhhhhhhhhhXhhhhhhhhhhhX&hhhXXhhhhX|||||hhhhhhXXhhhhhhhhhhhhhhhS|||||_____S|eeeeeeeeeeeeeeXXeeeeeeeeeeeX0eeeXXeeeeX0eeeeeeeeeeXeeeeeeeeeeeeeeeeeX||X
+.aW$8$$$Wo%%%%%^|%%%%%%W$WWWWWWWWWWWWWWWWWWWWW$Ws%%^|%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$WWWWWWWWWWWWWWWW^WWWW$Ws%%%%%%%%%%oX||X&hhhhhhhhhhhhhhXXhhhhhhhhhhhhX&hhXhhhhhhX||||hhhhhhXhhhhhhhhhhhhhhhhhS|||||_____S|||eeeeeeeeeeeeeeXeeeeeeeeeeX0eeeeeXeeeX0eeeeeeeeeeeXXeeeeeeeeeeeeeeeX||X
+lyW$8$$$Wo%%%%%^%%%%%%%W$W??<<<<<7W=W??<<<<<<W$Ws%%%^%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$W??<<<<<7W=W??<<^<<<W$Ws%%%%%%%%%%oX||X&hhhhhhhhhhhhhXhhhhhhhhhhhhhhX&hXhhhhhhhX|||hhhhhXX&hhhhhhhhhhhhhhhXXS|||||_____SIX|||eeeeeeeeeeee|XXeeeeeeeeX0eeeeeeXeeX0eeeeeeeeeeeeeXeeeeeeeeeeeeeeX||X
+lyW$8$$$Wo%%%%%^%%%%%%%W$W<??<<<<7W=W<??<<<<<W$Ws%%%^%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$W<??<<<<7W=W<??<^<<<W$Ws%%%%%%%%%%oX||X&hhhhhhhhhhhXXhhhhhhhhhhhhhhhXXXhhhhhhhhX||hhhhhXhX&hhhhhhhhhhhhhhXhhS|||||_____Sp0X|||eeeeeeeeeee|X0XeeeeeeeX0eeeeeeeXXX0eeeeeeeeeeeeeeXXeeeeeeeeeeeeX||X
+l|W$8$$$Wo%%%%%%%%%%%%%W$W<<??<<<7W=W<<??<<<<W$Ws%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$W<<??<<<7W=W<<??<<<<W$Ws%%%%%%%%%%oX||X&hhhhhhhhhhX&hhhhhhhhhhhhhhhhXhhhhhhhhhhX||hhhXXhhX&hhhhhhhhhhhhXXhhhS|||||_____STe0XX|||||eeeee|||X00XXeeeeeX0eeeeeeeeeX0eeeeeeeeeeeeeeeeXeeeeeeeeeeeX||X
+laW$8$$$Wo%%%%%%%%%%%%%W$W<<<??<<7W=W<<<??<<<W$Ws%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$W<<<??<<7W=W<<<??<<<W$Ws%%%%%%%%%%oX||X&hhhhhhhhXXX&hhhhhhhhhhhhhhXXhhhhhhhhhhhX|hhhXhhhhX&hhhhhhhhhhhXhhhhhS|||||_____STee00X||||||ee||||X0e00XeeeeX0eeeeeeeeeeXXeeeeeeeeeeeeeeeXXXeeeeeeeeeX||X
+lyW$$$$$Wo%%%%%%%%%%%%%W$W<<<<??<7W=W<<<<??<<W$Ws%%%%%%%%%%%%W$$$$$Wo%%%%%%%%%%%%W$W<<<<??<7W=W<<<<??<<W$Ws%%%%%%%%%%oX||X&hhhhhhhXhhX&hhhhhhhhhhhhhXhhhhhhhhhhhhhX|hXXhhhhhX&hhhhhhhhhXXhhhhhhS|||||_____STeeee0XX||||||||||X0eee0XXeeX0eeeeeeeeeeeeXeeeeeeeeeeeeeeX00XeeeeeeeeX||X
+l|W$$$$$Wo%%%%%%%%%%%%%W$W<<<<<??7W=W<<<<<??<W$Ws%%%%%%%%%%%%W$$$$$Wo%%%%%%%%%%%%W$W<<<<<??7W=W<<<<<??<W$Ws%%%%%%%%%%oX||X&hhhhhXXhhhX&hhhhhhhhhhhXXhhhhhhhhhhhhhhX|Xhhhhhhhh&hhhhhhhhXhhhhhhhhS|||||_____STeeeee00X|||||||||X0eeee00XeX0eeeeeeeeeeeeeXXeeeeeeeeeeeeX0e0XXeeeeeeX||X
+laW$$$$$Wo%%%%%%%%%%%%%W$W<<<<<<?-W=W<<<<<<??W$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$W<<<<<<?-W=W<<<<<<??W$Ws%%%%%%%%%%oX||X&hhhhXhhhhhX&hhhhhhhhhhXhhhhhhhhhhhhhhhhXXhhhhhhhhX&hhhhhhXX&hhhhhhhhS|||||_____STeeeeeee0XX|||||||X0eeeeee0XX|eeeeeeeeeeeeeeeXeeeeeeeeeeeX0ee00XeeeeeX||X
+.|W$$8$$Wo%%%%%%%%%%%%%W$W<<<<<<<-W=W<<<<<<<?W$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$W<<<<<<<-W=W<<<<<<<?W$Ws%%%%%%%%%%oX||X&hhXXhhhhhhX&hhhhhhhhXXhhhhhhhhhhhhhhhhXhhhhhhhhhhX&hhhhhX&X&hhhhhhhhS|||||_____STeeeeeeeeX0X||||||X0eeeeeee00X||eeeeeeeeeeeeeeXXeeeeeeeeeX0eeee0XXeeeX||X
+laW$$8$$Wo%%%%%%%%%%%%%W$WWWWWWWWWWWWWWWWWWWWW$Ws%%%%%%%%%%%%W$$$$$Wo%%%%%%%%%%%%W$WWWWWWWWWWWWWWWWWWWWW$Ws%%%%%%%%%%oX||X&hXhhhhhhhhX&hhhhhhhX&hhhhhhhhhhhhhhhXXhhhhhhhhhhhX&hhhXX&hX&hhhhhhhhS|||||_____STeeeeeeeeX0eXX||||X0eeeeeeeee0XX||eeeeeeeeeeee||XeeeeeeeeX0eeeee00XeeX||X
+lyW$$8$$Wo%%%%%%%%%%%%%W$W===================W$Ws%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$W===================W$Ws%%%%%%%%%%oX||X1XhhhhhhhhhX&hhhhhXXX&hhhhhhhhhhhhhhXhhhhhhhhhhhhhX&hhX&&hhX&hhhhhhhhS|||||_____STeeeeeeeeX0eeeX|||X0eeeeeeeeee00X|||eeeeeeeee|||XXXeeeeeeX0eeeeeee0XXX||X
+lyW$$8$$Wo%%%%%%%%%%%%%W$WWWWWWWWWWWWWWWWWWWWW$Ws%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$WWWWWWWWWWWWWWWWWWWWW$Ws%%%%%%%%%%oX||X&hhhhhhhhhhX&hhhhXhhX&hhhhhhhhhhhhXXhhhhhhhhhhhhhhX&XX&hhhhX&hhhhhhhhS|||||_____STeeeeeeeeX0eeeeXX|X0eeeeeeeeeeee0XX||eeeeee|||||X0eXeeeeeX0eeeeeeee00X||X
+lyW$$$$$Wo%%%%%%%%%%%%%W$W--777777L!L--::::::W$Ws%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$W--777777L!L--::::::W$Ws%%%%%%%%%%oX||X&hhhhhhhhhhX&hhXXhhhX&hhhhhhhhhhhXhhhhhhhhhhhhhhhhXX&&hhhhhX&hhhhhhhhS|||||_____STeeeeeeeeX0eeeeeeXX0eeeeeeeeeeeee00X||||ee||||||X0eeXXeeeX0eeeeeeeeeeX||X
+lyW$$$$$Wo%%%%%%%%%%%%%W$W<??<<<<7W=W<??@@@@@W$Ws%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%W$W<??<<<<7W=W<??@@@@@W$Ws%%%%%%%%%%oX||X&hhhhhhhhhhX&hXhhhhhX&hhhhhhhhhhXhhhhhhhhhhhhhhhhXX&hhhhfhhX&hhhhhhVVS|||||_____SHVeeeeeeeX0eeeeeeeXXeeeeeeeeeeeeeee0X|||||||||||X0eeeeXeeX0eeeeeeeeeeX||X
+l|G$$$$$Wo%%%%%%%%%%%%%W$W<<??<<<7W=W<<??@@@@W$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$W<<??<<<7W=W<<??@@@@W$Ws%%%%%%%%%%oX||X&hhhhhhhhhhXXXhhhhhhX&hhhhhhhhXXhhhhhhhhhhhhhhhhX&&hhhffhhhX&hhhhhV||S|||||_____S||VeeeeeeX0eeeefeeeeXeeeeeeeeeeeeeee0XX|||||||||X0efeeeXXX0eeeeeeeeeeX||X
+.lW$8$$$Wo%%%%%%%%%%%%%W$W<<<??<<7W=W<<<??@@@W$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$W<<<??<<7W=W<<<??@@@W$Ws%%%%%%%%%%oX||X&hhhhhhhhhhXhhhhhhhhX&hhhhhhhX&hhhhhhhhhhhhhhhXX&hhhhfhhhhhX&hhhVV|||S|||||_____S|||VVeeeeX0eeeeeffeeeXXeeeeeeeeeeeeee00X||||||||X0eeffeeeX0eeeeeeeeeeX||X
+lyW$8$$$Wo%%%%%%%%%%%%%W$W<<<<??<7W=W<<<<??@@W$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$W<<<<??<7W=W<<<<??@@W$Ws%%%%%%%%%%oX||X&hhhhhhhhXXhhhhhhhhhX&hhhhhXXX&hhhhhhhhhhhhhhX&&hhhhfhhhhhhX&hhV|||||S|||||_____S|||||VeeeX0eeeeeeefeeeeXeeeeeeeeeeeeeeeXXX||||||X0eeeefeeeXXeeeeeeeeeX||X
+l|W$8$$$Wo%%%%%%%%%%%%%W$W<<<<<??7W=W<<<<<??@W$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$W<<<<<??7W=W<<<<<??@W$Ws%%%%%%%%%%oX||X&hhhhhhhXhhhhhhhhhhhX&hhhhX||X&hhhhhhhhhhhhXX&hhhhffhhhhhhhX&VV||||VVSSSSSSSSSSSSHV||||VVeX0eeeeeeeeffeeeXXeeeeeeeeeeeeeX0eX|||||X0eeeeeffeeeXeeeeeeeeX||X
+.lW$8$$$Wo%%%%%%%%%%%%%W$W<<<<<<?-W=W<<<<<<??W$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$W<<<<<<?-W=W<<<<<<??W$Ws%%%%%%%%%%oX||X&hhhhhXXhhhhhhhhhhhhX&hhXX||hX&hhhhhhhhhhhX&&hhhhfhhhhhhhhhXV|||||Vjj^|||j^|||jjjjjV|||||VX0eeeeeeeeeefeeeeXeeeeeeeeeeeeX0eeXX|||X0eeeeeeefeeeXXeeeeeeX||X
+llW$$8$$Wo%%%%%%%%%%%%%W$W<<<<<<<-W=W<<<<<<<?W$Ws%%%%%%%%%%%%W$$$$$Wo%%%%%%%%%%%%W$W<<<<<<<-W=W<<<<<<<?W$Ws%%%%%%%%%%oX||X&hhhhXhhhhhhhhhhhhhhX&hX||||hX&hhhhhhhhhXX&hhhhhfhhhhhhhhhVV||||VVjjj^|||j^|||jjjjjjVV||||VVeeeeeeeeeeeffeeeXXeeeeeeeeeeX0eeeeX||X0eeeeeeeefeeeeXeeeeeX||X
+lyW$$8$$Wo%%%%%%%%%%%%%W$W<<<<<<<7W=W<<<<<<<<W$Ws%%%%%%%%%%%%W$$$$$Wo%%%%%%%%%%%%W$W<<<<<<<7W=W<<<<<<<<W$Ws%%%%%%%%%%oX||X&hhXXhhhhhhhhhhhhhhhXXX||||hhX&hhhhhhhhXX&hhhhffhhhhhhhhhV|||||Vjjj%%%^||%%^||%%%%%jjjV|||||VeeeeeeeeeeeefeeeXXeeeeeeeeee0eeeeeXXX0eeeeeeeeeffeeeXXeeeX||X
+lyW$$8$$Wo%%%%%%%%%%%%%W$W<<<<<<<7W=W<<<<<<<<W$Ws%%%%%%%%%%%%W$$$$$Wo%%%%%%%%%%%%W$W<<<<<<<7W=W<<<<<<<<W$Ws%%%%%%%%%%oX||X&hXhhhhhhhhhhhhhhhhhX||||||hhX&hhhhhhXXhX&hhhfhhhhhhhhhVV||||VVjjj%%%%^||%%^||%%%%%%jjjVV||||VVeeeeeeeeeeeeeeX0XXeeeeeeee0eeeeeeeX0eeeeeeeeeeefeeeeXeeX||X
+lyW$$8$$Wo%%%%%%%%%%%%%W$WWWWWWWWWWWWWWWWWWWWW$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$WWWWWWWWWWWWWWWWWWWWW$Ws%%%%%%%%%%oX||X1XhhhhhhhhhhhhhhhhXX||||||hhhX&hhhhhXhhhX&hhhhhhhhhhhhV||||VVjjj%%%%%%^|%%%^|%%%%%%%%%jjj^||^||VeeeeeeeeeeeeeX0eeXeeeeeeX0eeeeeeeeXXeeeeeeeeeeeffeeeXXX||X
+lyW$$$$$Wo%%%%%%%%%%%%%W=6666|||66666666666666=Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W=6666||666666666666666=Ws%%%%%%%%%%oX||X&hhhhhhhhhhhhhhhhX|||||||hhhhX&hhhXXhhhhX&hhhhhhhhhhVV|^||VGjjj%%%%%%%^^%%%%^%%%%%%%%%%jj^||^^||VVeeeeeeeeeeeX0eeeXXeeeeX0eeeeeeeeeeXeeeeeeeeeeeefeeeeX||X
+lyW$$$$$Wo%%%%%%%%%%%%%W====||||||=============Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W====||||||||===========Ws%%%%%%%%%%oX||X&hhhhhhhhhhhhhhXX||||||hhhhhhX&hhXhhhhhhX&hhhhhhhhhV||||^VkGj%%%%%%%%%%^%%%%^%%%%%%%%%%%%^|||^||||VeeeeeeeeeeX0eeeeeXeeeX0eeeeeeeeeeeXXeeeeeeeeeeeeeeeX||X
+l|W$8$$$Wo%%%%%%%%%%%%%W===|||||||||===========Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W===|||||||||||=========Ws%%%%%%%%%%oX||X&hhhhhhhhhhhhhX|||||||hhhhhhhX&hXhhhhhhhh&hhhhhhhVV|||||^kkWj%%WWWWWWWW^WWWWWWWWWWWWWWWj%^|||^V||||VVeeeeeeeeX0eeeeeeXeeX0eeeeeeeeeeeeeXeeeeeeeeeeeeeeX||X
+.aW$8$$$Wo%%%%%%%%%%%%%W$$_____________$$$$$$$$Ws%%%%%%%%%%%%W$8$$$Wo%%%%%%%%%%%%W$$_____________$$$$$$$$Ws%%%%%%%%%%oX||X&hhhhhhhhhhhXX||||||hhhhhhhhhXXXhhhhhhhhh&hhhhhhV|||^|||kk$Wj%W========^===============Wj%^|||kV|||||VeeeeeeeX0eeeeeeeXXX0eeeeeeeeeeeeeeXXeeeeeeeeeeeeX||X
+lyW$$$$$Wo%%%%%%%%%%%%%sWWWWWWWWWWWWWWWWWWWWWWWs%%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%sWWWWWWWWWWWWWWWWWWWWWWWs%%%%%%%%%%%oX||X&hhhhhhhhhhX|||||||hhhhhhhhhhXhhhhhhhhhhX&hhhhVV||||V^||k$$Wj%W$$$$$$$$$$$$$$$$$$$$$$$$Wj%^|||kkVV||||VVeeeeeX0eeeeeeeeeX0eeeeeeeeeeeeeeeeXeeeeeeeeeeeX||X
+lyW$$8$$Wo%%%%%%%%%%%%%%sssssssssssssssssssssss%%%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%%sssssssssssssssssssssss%%%%%%%%%%%%oX||X&hhhhhhhhXXX|||||||hhhhhhh&XXhhhhhhhhhhhX&hhhV|||||Vj^||$$$Wj%W$$WWWWWWWW3$$$WWWWWWWW3$Wj%^||$$kGjV|||||VeeeeX0eeeeeeeeeeXXeeeeeeeeeeeeeeeXXXeeeeeeeeeX||X
+l|W$$8$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%oX||X&hhhhhhhXhhX||||||hhhhhhhhXhhhhhhhhhhhhhX&hVV||||VVjj^||$$$Wj%W$W<<<<<<<?W3$W<<<<<<??W3Wj%^||$$$GjjVV||||VVeeX0eeeeeeeeeeeeXeeeeeeeeeeeeeeX0eXeeeeeeeeX||X
+laW$$8$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%oX||X&hhhhhXXhhhh||||||hhhhhhXXhhhhhhhhhhhhhhX&V|||||Vjjj%W^8$$$Wj%W$W<<<<<<??W3$W<<<<<??<W3Wj%^||$$$WjjjjV|||||VeX0eeeeeeeeeeeeeXXeeeeeeeeeeeeX0eeXXeeeeeeX||X
+lyW$$8$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$8$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%oX||X&hhhhXhhhhhh|||||hhhhhhXhhhhhhhhhhhhhhhhVV||||VVjjj%%W|8$$$Wj%W$W<<<<<??<W3$W<<<<??<<W3Wj%W^|$$$Wj%jjjVV||||VV||||eeeeeeeeeeeeXeeeeeeeeeeeX0eeeeXeeeeeX||X
+lyW$$8$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$$$$Wo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%oX||X&hhXXhhhhhhh||||hhhhhXXhhhhhhhhhhhhhhhhV|||||Vjjj%%%%W$8$$$Wj%W$W<<<<??<<W3$W<<<??<<<W3Wj%W^$$$$Wj%%%jjjV|||||V||||eeeeeeeeeeeeXXeeeeeeeeeX0eeeeeXXeeeX||X
+laW$$8$$WGWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW$$$$$WJWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWJX||X&hXhhhhhhhhh|||hhhhhXhhhhhhhhhhhhhhhhVV|^||VVjjj%%%%%W$8$$$Wj%W$W<<<??<<<W3$W<<??<<<?W3Wj%W^$$$$Wj%%%%jjjVV||||VV||||eeeeeeeeeeeeXeeeeeeeeX0eeeeeeeXeeX||X
+.|W$$$8$W9======|||||========================================W$$$$$W4========|||=====================================4X||X1XhhhhhhhhhX|||hhhXX&hhhhhhhhhhhhhhhV|||^|Vjjj%%%%%%%W$8$$$Wj%W$W<<??<<<?W3$W<??<<<?<W3Wj%W$8$$$Wj%%%%%%jjjV|||||V||||||eeeeeeeee|XXeeeeeeX0eeeeeeeeXXX||X
+laW$$$8$W9=////|||||||============//////======///==========//W$$8$$Wx//=====||||||===============///////////=======//xX||X&hhhhhhhhhhX|||hhXhX&hhhhhhhhhhhhhVV||||^Vjjj%%%%%%%%W$8$$$Wj%W$W<??<<<?<W3$W??<<<?<<W3Wj%W$8$$$Wj%%%%%%%jjj^|||||VV||||||eeeee|||X0XeeeeeX0eeeeeeeeeeX||X
+lyW$$$8$W9====|||||||||||||==/////===========================W$$8$$W4======|||||||||======///////====================4X||X&hhhhhhhhhhX||hXXhhX&hhhhhhhhhhhhV||||||^jj%%%%%%%%%%W$$8$$Wj%W$W??<<<?<<W3$W?<<<?<<<W3Wj%W$8$$$Wj%%%%%%%%%j^|||||||V||||||eee||||X00XXeeeX0eeeeeeeeeeX||X
+lyW$$$8$Wk$$$_______________$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W$8$$$Wn$$$$$_____________$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$nX||X&hhhhhhhhhhX||XhhhhX&hhhhhhhhhhhV||||^||jj%%%%%%%%%%%W$$8$$Wj%W$$WWWWWWWW3$$$WWWWWWWW3$Wj%W$8$$$Wj%%%%%%%%%%^||||||||V||||||||||||X0e00XeeX0eeeeeeeeeeX||X
+lyW$$$8$Wk88_________________$$$$$$$$888$$$$$$$$$$88888888888W$8$$$Wn$$$$_______________$$$$$$$$$$$$$$$$$$$$888888888nX||X&hhhhhhhhhhXXXhhhhhX&hhhhhhhhhVV||||V^||%%%%%%%%%%%%%W$$8$$Wj%W==||||||||==============Wj%W$8$$$Wj%%%%%%%%%%^|||^V||||VV||||||||||X0eee0XXX0eeeeeeeeeeX||X
+l|W$$$$$WGWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW$$$$$WJWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWJX||X&hhhhhhhhhhXhhhhhhhX&hhhhhhhhV||||VVj^||%%%%%%%%%%%%%W$$8$$Wj%W=|||||||||||||==========Wj%W$8$$$Wj%%%%%%%%%%%^|^jjV|||||V|||||||||h0eeee00X0eeeeeeeeeeX||X
+laW$$$$$Waaamy|aaaaaamyyy||yy|aaaaaa|yyy|aaamy|aaaaaa|yyy||yyW$$$$$W|yyy|aaamy|aaaaaa|yyy||yy|aaaaaa|yyy|aaamy|aaaaaa|X||X&hhhhhhhhXXhhhhhhhhX&hhhhhhVV||||Vjjj^||%%%%%%%%%%%%%W$$8$$Wj%W$$$$$$$$$$$$$$$$$$$$$$$$Wj%W$$$$$Wj%%%%%%%%%%%^||%jj^|||||VV|||||||h0eeeeee0XXeeeeeeeeeX||X
+l>yWWWWWa>>v|>v>>>>>>v*||vv|>v>>>>>>v|>>v>>v|>v>>>>>>v*||vv|>dWWWWW5v|>>v>>v|>v>>>>>>v*||vv|>v>>>>>>v|>>v>>v|>v>>>>>>vX||X&hhhhhhhXhhhhhhhhhhX&hhhhhV|||||Vjjj%%^|%%%%%%%%%%%%%W$$8$$Wj%jWWWWWWWWWWWWWWWWWWWWWWWWj%%W$$$$$Wj%%%%%%%%%%%^|%%%j^|||||||V||||||X0eeeeeee00XeeeeeeeeX||X
+l>>yyamyv>>>v|>v>>>>v*|vv>>v*v>>>>>>>v*>v>>>v|>v>>>>v*|vv>>v*vrrrrr>>v*>v>>>v|>v>>>>v*|vv>>v*v>>>>>>>v*>v>>>v|>v>>>>v*X||X&hhhhhXXhhhhhhhhhhhX&hhhVV||||VVjj%%%%^|%%%%%%%%%%%%%W$$8$$Wj%%jjjjjjjjjjjjjjjjjjjjjjjj%%%W$8$$$Wj%%%%%%%%%%%^%%%%%%^|VV||||VV||||X0eeeeeeeee0XXeeeeeeX||X
+lv>>>v*>v>>>>v*>vvvv*>v>>>>v*>vvvv>>>v*>v>>>>v*>vvvv*>v>>>>v*>vvvv>>>v*>v>>>>v*>vvvv*>v>>>>v*>vvvv>>>v*>v>>>>v*>vvvv*>X||X&hhhhXhhhhhhhhhhhhhX&hhV|||||Vjjj%%%%%^%%%%%%%%%%%%%%W$$$$$Wj%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$8$$8Wj%%%%%%%%%%%^%%%%%%^jjjV|||||V|||X0eeeeeeeeee00XeeeeeX||X
+.vv>>v*|v>>>>v|>>>||>>v>>>>v*||||>v>>v*>v>>>>v|>>>||>>v>>>>v*||||>v>>v*>v>>>>v|>>>||>>v>>>>v*||||>v>>v*>v>>>>v|>>>||>>X||X&hhXXhhhhhhhhhhhhhhX&VV||||VVjjj%%%%%%^%%%%%%%%%%%%%%W$$$$$Wj%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$$$8Wj%%%%%%%%%%%%%%%%%%^%jjjVV||||VV|X0eeeeeeeeeeee0XXeeeX||X
+.v>vv*>vv>>>>>v*>|vv|>v>>>v*|vvvv|>vv*>|v>>>>>v*>|vv|>v>>>v*|vvvv|>vv*>|v>>>>>v*>|vv|>v>>>v*|vvvv|>vv*>|v>>>>>v*>|vv|>X||X&hXhhhhhhhhhhhhhhhhXV|||||Vjjj%%%%%%%%^%%%%%%%%%%%%%%W$$$$$Wj%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$$$8Wj%%%%%%%%%%%%%%%%%%^%%%jjjV|||||VX0eeeeeeeeeeeee00XeeX||X
+lv>>|>>v>>>>>v*>|v>>v*>vvvv*v>>>>v*||>>v>>>>>v*>|v>>v*>vvvv*v>>>>v*||>>v>>>>>v*>|v>>v*>vvvv*v>>>>v*||>>v>>>>>v*>|v>>v*X||X1XhhhhhhhhhhhhhhhhVV||||VVjjj%%%%%%%%%%%%%%%%%%%%%%%%W$$$$$Wj%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$$$8Wj%%%%%%%%%%%%%%%%%%%%%%%jjjVV||||VVeeeeeeeeeeeeeee0XXX||X
+lv>|v|>vv>>vv*|>v>>>v*>>|>>>v>>>>v*vv|>>v>>vv*|>v>>>v*>>|>>>v>>>>v*vv|>>v>>vv*|>v>>>v*>>|>>>v>>>>v*vv|>>v>>vv*|>v>>>v*X||X&hhhhhhhhhhhhhhhhV|^|||Vjjj%%%%%%%%%%%%%%%%%%%%%%%%%%W$8$$8Wj%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$$8$Wj%%%%%%%%%%%%%%%%%%%%%%%%%jjjV|||||Veeeeeeeeeeeeeee00X||X
+lv>v>v|>>vv*>|v|>v>>v*>|v||>v>>>>v*v>v|>>vv*>|v|>v>>v*>|v||>v>>>>v*v>v|>>vv*>|v|>v>>v*>|v||>v>>>>v*v>v|>>vv*>|v|>v>>v*X||X&hhhhhhhhhhhhhhVV|^|^VVGGGWWWWWWWWWWWWWWWWWWWWWWWWWWWW$8$$8WGWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW$$$8$WGWWWWWWWWWWWWWWWWWWWWWWWWWWGGGVV||||VVeeeeeeeeeeeeeeeX||X
+lv>v>>v|>>|||v>v|>v>v||v>vv|>v>>>v*v>>v|>>|||v>v|>v>v||v>vv|>v>>>v*v>>v|>>|||v>v|>v>v||v>vv|>v>>>v*v>>v|>>|||v>v|>v>v|X||X&hhhhhhhhhhhhhV||^||^zzz=====================/////===W$$$$8Wk$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$$8$Wu=====||||||||===============uzzVV||||VeeeeeeeeeeeeeeX||X
+.v|v>>>v*|vvv>>>v*v>>vv>>>>v|>v>v*|v>>>v*|vvv>>>v*v>>vv>>>>v|>v>v*|v>>>v*|vvv>>>v*v>>vv>>>>v|>v>v*|v>>>v*|vvv>>>v*v>>vX||X&hhhhhhhhhhhVV||^|||zzz====/////=||||||==////=======/W$$$$8Wk$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$$8$Wu====||||||||||||=============zzzzV||||VVeeeeeeeeeeeeX||X
+.vv>>>>v|v>>>>>>v|v>>vv>>>>>v|vv*|v>>>>v|v>>>>>>v|v>>vv>>>>>v|vv*|v>>>>v|v>>>>>>v|v>>vv>>>>>v|vv*|v>>>>v|v>>>>>>v|v>>vX||X&hhhhhhhhhhV||||^|||z======||||||||||||||============W$$$$8Wk$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$$8$Wu====||||||||||||||||===========zzzV|||||VeeeeeeeeeeeX||X
+lv>>>>>vlv>>>>>vllv>>vv>>>>>vl|||v>>>>>vlv>>>>>vllv>>vv>>>>>vl|||v>>>>>vlv>>>>>vllv>>vv>>>>>vl|||v>>>>>vlv>>>>>vllv>>vX||X&hhhhhhhhVV||||V^|||$$$$$$________________$$$$$$$$$$$W$$$$8Wk$$________________________i$$W$$$$$Wk$$$__________________$$$$$$$$$$$$kkVV||||VVeeeeeeeeeX||X
+.lllllll.lllllll..lllllllllll.llllllllll.lllllll..lllllllllll.llllllllll.lllllll..lllllllllll.llllllllll.lllllll..llllX||X&hhhhhhhV|||||Vkk^||$$$$$__________________$$$$$$$$$$W$$$$8Wk$__________________________i$W$$$$$Wk$$____________________$$$$$$$$$$$$kkkV|||||VeeeeeeeeX||X
+......................................................................................................................X||X&hhhhhVV||||VVGGG^||WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW$$$8$Wk$|||||||_|||||||||~_||QOQNCi$W$$$$$WGWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWGGG^|||||VVeeeeeeX||X
+......................................................................................................................X||X&hhhhV|||||Vjjjjj^||jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjW$$$8$Wk$|||||||_||||||||||_cQQOQNCi$W$8$$$Wjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj^|||||||VeeeeeX||X
+......................................................................................................................X||X&hhVV||||VVGjj%%%^|%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$$8$Wk$||~||||_~||||||||NCcQQQQNCi$W$8$$$Wj%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%^||||||||VVeeeX||X
+......................................................................................................................X||X&hV|||||VkkGj%%%%%^%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%W$$$8$Wk$|||||||_||||||||QNCcQOQQNCi$W$8$$$Wj%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%^||^V|||||VeeX||X
+......................................................................................................................X||XVV||||VVkkkWj%%%%W^WWWWWWWWWWWWWWWWWWWWWWWWWWWWj%%%%%W$$$8$Wk$|||||||CcQQQOQQQQNCcQOQQNCi$W$8$$$Wj%%%%WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWj%%%%^|^kkVV||||VVX||X
+......................................................................................................................X||V|||||Vkkk$$Wj%%%W=^============================Wj%%%%W$$$8$Wk$||||||NCcQQQQQQQQNCcQOQQNCi$W$8$$$Wj%%%W==============================Wj%%%^|^$kkkV|||||V||X
+......................................................................................................................X||V|||VVGkk$$$Wj%%%W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Wj%%%%W$$$8$Wk$|||||QNCcQQQQQQOQNCcQOQQNCi$W$$8$$Wj%%%W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Wj%%%^||$$kkGVV|||V||X
+......................................................................................................................X||V||VRbG$$$$$Wj%%%W$$$WWWWWWWWWW3$$$WWWWWWWWWW3$$Wj%%%%W$$$$$Wk$|~||OQNCcQQQAAQOQNCcQOQQNCi$W$$8$$Wj%%%W$$$WWWWWWWWWW3$$$WWWWWWWWWW3$$Wj%%%%^|8$$$G|RV||V||X
+......................................................................................................................X||XVV.R|W$8$$$Wj%%%W$$W<<<<<<?<<<W3$W????<<<<<<W3$Wj%%%%W$$$$$Wk$|||QOQNCcQQQAAQOQNCcQQOQNCi$W$$8$$Wj%%%W$$W<<<<<<?<<<W3$W????<<<<<<W3$Wj%%%%^$8$$$W|R.VVX||X
+......................................................................................................................X||X...l|W$8$$$Wj%%%W$$W<<<<<?<<<<W3$W???<<<<<<<W3$Wj%%%%W$$$$$Wk$||QQOQNCcQQQNNQOQNCcQQOQNCi$W$$8$$Wj%%%W$$W<<<<<?<<<<W3$W???<<<<<<<W3$Wj%%%%^$8$$$Wal...X||X
+.......................................................................................................................XX....laW$8$$$Wj%%%W$$W<<<<?<<<<<W3$W??<<<<<<<?W3$Wj%%%%W8$$$$Wk$|cQQOQNCcQQQQQOQQNCcQQOQNCi$W$$8$$Wj%%%W$$W<<<<?<<<<<W3$W??<<<<<<<?W3$Wj%%%%W$8$$$Wal....XX.
+..............................................................................................................................aW$8$$$Wj%%%W$$W<<<?<<<<<<W3$W?<<<<<<<??W3$Wj%%%%W8$$$$Wk$CcQQQQNCcQQQQQOQQNCcQQOQNCi$W$$8$$Wj%%%W$$W<<<?<<<<<<W3$W?<<<<<<<??W3$Wj%%%%W$8$$$W|l.......
+.............................................................................................................................laW$$8$$Wj%%%W$$W<<?<<<<<<<W3$W<<<<<<<??<W3$Wj%%%%W8$$$$Wk$CcQQQQNCcQQOQQOQQNCcQQQQNCi$W$$$$$Wj%%%W$$W<<?<<<<<<<W3$W<<<<<<<??<W3$Wj%%%%W$$8$$WR........
+.............................................................................................................................l|W$$8$$Wj%%%W$$W<?<<<<<<<?W3$W<<<<<<??<<W3$Wj%%%%W8$$$$Wk$CcQQQQNCcQQOQQQQQNCcQQQQNCi$W$$$$$Wj%%%W$$W<?<<<<<<<?W3$W<<<<<<??<<W3$Wj%%%%W$$8$$WR........
+.............................................................................................................................lyW$$8$$Wj%%%W$$W?<<<<<<<??W3$W<<<<<??<<<W3$Wj%%%%W8$$$$Wk$CcQQOQNCcQQOQQQQQNCcQQQQNCi$W$$$$$Wj%%%W$$W?<<<<<<<??W3$W<<<<<??<<<W3$Wj%%%%W$$8$$Wyl.......
+.............................................................................................................................lyW$$8$$Wj%%%W$$W<<<<<<<???W3$W<<<<??<<<<W3$Wj%%%%W8$$$$Wk$CcQQOQNCcQQOQQQQQNCcQQOQNCi$W$$$8$Wj%%%W$$W<<<<<<<???W3$W<<<<??<<<<W3$Wj%%%%W$$8$$Wyl.......
+.............................................................................................................................lyW$$$$$Wj%%%W$$W<<<<<<????W3$W<<<??<<<<<W3$Wj%%%%W$8$$$Wk$CcQOQQNCcQQQOQQQQNCcQQOQNCi$W$$$8$Wj%%%W$$W<<<<<<????W3$W<<<??<<<<<W3$Wj%%%%W$$8$$Wyl.......
+.............................................................................................................................lyW$$$$$Wj%%%W$$W<<<<<????<W3$W<<??<<<<<<W3$Wj%%%%W$8$$$Wk$CcQOQQNCcQQQOQQQQNCcQQOQNCi$W$$$$$Wj%%%W$$W<<<<<????<W3$W<<??<<<<<<W3$Wj%%%%W$$$$$Wyl.......
+.............................................................................................................................lyW$8$$$Wj%%%W$$W<<<<????<<W3$W<??<<<<<<<W3$Wj%%%%W$8$$$Wk$CcAKAANCcQQQOQQQQNCcQOQQNCi$W$$$$$Wj%%%W$$W<<<<????<<W3$W<??<<<<<<<W3$Wj%%%%W$$$$$Wyl.......
+..............................................................................................................................aW$8$$$Wj%%%W$$W<<<????<<<W3$W??<<<<<<<<W3$Wj%%%%W$8$$$Wk$CcAANNNCcQQQOQQQQNCcQOQQNCi$W$$8$$Wj%%%W$$W<<<????<<<W3$W??<<<<<<<<W3$Wj%%%%W$8$$$Wyl.......
+.............................................................................................................................lyW$$$$$Wj%%%W$$$WWWWWWWWWW3$$$WWWWWWWWWW3$$Wj%%%%W$8$$$Wk$CcNNQQNCcQQQOQQQQNCcQOQQNCi$W$$8$$Wj%%%W$$$WWWWWWWWWW3$$$WWWWWWWWWW3$$Wj%%%%W$8$$$Wyl.......
+.............................................................................................................................lyW$$8$$Wj%%%W=======|||====================Wj%%%%W$8$$$Wk$CcQQQQNCcQQQQQQQQNCcQQQQNCi$W$$8$$Wj%%%W==========|||||===============Wj%%%%W$$$$$Wyl.......
+.............................................................................................................................l|W$$8$$Wj%%%W=====||||||||===|||||=========Wj%%%%W$8$8$Wk$CcQQQQNCcQQQQOQQQNCcQQQQNCi$W$$8$$Wj%%%W======|||||||||||||===========Wj%%%%W$$8$$Wyl.......
+.............................................................................................................................laW$$8$$Wj%%%W$$$$__________________$$$$$$$$Wj%%%%W$$$8$Wk$CcQQQQNCcQQQQOQQQNCcQQOQNCi$W$$8$$Wj%%%W$$$$$_______________$$$$$$$$$$Wj%%%%W$$8$$Wal.......
+.............................................................................................................................lyW$$8$$Wj%%%jWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWj%%%%%W$$$8$Wk$CcOQQQNCcQQQQOQQQNCcQQOQNCi$W$8$$$Wj%%%jWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWj%%%%%W$$8$$WR........
+.............................................................................................................................lyW$$8$$Wj%%%%jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj%%%%%%W$$$8$Wk$CcOQQQNCcQQQQOQQQNCcQQOQNCi$W$8$$$Wj%%%%jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj%%%%%%W$$8$$W|........
+.............................................................................................................................laW$$8$$WGWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW$$$$$Wk$CcOQQQNCcQQQOQQQQNCcQQOQNCi$W$8$$$WGWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWGW$$8$$Wal.......
+..............................................................................................................................|W$$$8$W9=====|==================================W$$$$$Wk$CcQOQQNCcQQQOQQQQNCcQOQQNCi$W$8$$WW9==||||=============================///=9W$8$$$W|........
+.............................................................................................................................laW$$$8$W9=///||||================//////======///=uWWWWWWk$CcQOQQNCcQQQOQQQQNCcQOQQNCi$WWWWWg===||||||||||/////================///====9W$8$$$Wal.......
+.............................................................................................................................lyW$$$8$W9===||||||||||||====/////=================uuuuuWk$CcQOQQNCcQQQOQQQQNCcQOQQNCi$Wuuuu===|||||||||||||===///////================9W$8$$$Wyl.......
+.............................................................................................................................lyW$$$8$Wk$$______________$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Wk$CcQQQQNCcQQQOQQQQNCcQOQQNCi$Wi$$$$$________________$$$$$$$$$$$$$$$$$$$$$$$$kW$8$$$Wyl.......
+.............................................................................................................................lyW$$$8$Wk8________________$$$$$$$$$$888$$$$$$$$$$$$$$$$Wk$CcQQQQNCcQQQQQQQQNCcQQQQNCi$Wi$$$___________________$$$$$$$$$$$888$$$$$$$$$kW$8$$$Wyl.......
+.............................................................................................................................lyW$$$$$WGWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWEWWCCCCCCCCCCCCCCCCCCCCCCCCEWWWEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWGW$$$$$W|l.......
+.............................................................................................................................laW$$$$$Waaamy|aaaaaa|yyy||yy|aaaaaa|yyy|aaamy|aaaaaa|WWWEWWEEEEEEEEEEEEEEEEEEEEEEEEEWWWEWyaaaaaa|ymaaa|yyy|aaaaaa|yy||yyy|aaaaaa|ymaaaW$$$$$Wvl.......
+.............................................................................................................................l>yWWWWWa>>v|>v>>>>>>v*||vv|>v>>>>>>v|>>v>>v|>v>>>>>>vW==================================Wv>>>>>>v>|v>>v>>|v>>>>>>v>|vv||*v>>>>>>v>|v>>aWWWWWy>l.......
+.............................................................................................................................l>>yyamyv>>>v|>v>>>>v*|vv>>v*v>>>>>>>v*>v>>>v|>v>>>>v*W==////|||========//=======//////==W*v>>>>v>|v>>>v>*v>>>>>>>v*v>>vv|*v>>>>v>|v>>>vymayy>>l.......
+.............................................................................................................................lv>>>v*>v>>>>v*>vvvv*>v>>>>v*>vvvv>>>v*>v>>>>v*>vvvv*>W====|||||||////=====//////========W>*vvvv>*v>>>>v>*v>>>vvvv>*v>>>>v>*vvvv>*v>>>>v>*v>>>vl.......
+..............................................................................................................................vv>>v*|v>>>>v|>>>||>>v>>>>v*||||>v>>v*>v>>>>v|>>>||>>W$$$_________$$$$$$$$$$$$$$$$$$$$$$W>>||>>>|v>>>>v>*v>>v>||||*v>>>>v>>||>>>|v>>>>v|*v>>vl........
+..............................................................................................................................|>vv*>vv>>>>>v*>|vv|>v>>>v*|vvvv|>vv*>|v>>>>>v*>|vv|>W$$___________$$$$$$$$$$$$$$$$$$$$$W>|vv|>*v>>>>>v|>*vv>|vvvv|*v>>>v>|vv|>*v>>>>>vv>*vv>l........
+.............................................................................................................................lv>>|>>v>>>>>v*>|v>>v*>vvvv*v>>>>v*||>>v>>>>>v*>|v>>v*WttttttttttttttttttttttttttttttttttW*v>>v|>*v>>>>>v>>||*v>>>>v*vvvv>*v>>v|>*v>>>>>v>>|>>vl.......
+.............................................................................................................................lv>|v|>vv>>vv*|>v>>>v*>>|>>>v>>>>v*vv|>>v>>vv*|>v>>>v*W==================================W*v>>>v>|*vv>>v>>|vv*v>>>>v>>>|>>*v>>>v>|*vv>>vv>|v|>vl.......
+.............................................................................................................................lv>v>v|>>vv*>|v|>v>>v*>|v||>v>>>>v*v>v|>>vv*>|v|>v>>v*W=////=========/||||||=////========W*v>>v>|v|>*vv>>|v>v*v>>>>v>||v|>*v>>v>|v|>*vv>>|v>v>vl.......
+.............................................................................................................................lv>v>>v|>>|||v>v|>v>v||v>vv|>v>>>v*v>>v|>>|||v>v|>v>v|W=====/////====|||||||||||=/////===Wvv>v>|v>v|||>>|v>>v*v>>>v>|vv>v||v>v>|v>v|||>>|v>>v>vl.......
+..............................................................................................................................v|v>>>v*|vvv>>>v*v>>vv>>>>v|>v>v*|v>>>v*|vvv>>>v*v>>vW$$$$$$$$$$$$$_____________$$$$$$$$W>>>v*v>>>vvv|*v>>>v|*v>v>|v>>>>vv>>v*v>>>vvv|*v>>>v|l........
+..............................................................................................................................vv>>>>v*v>>>>>>v*v>>vv>>>>>v*vv||v>>>>v*v>>>>>>v*v>>vW$$$$$$$$$$$$_______________$$$$$$$W>>>v*v>>>>>>v*v>>>>v||vv*v>>>>>vv>>v*v>>>>>>v*v>>>>v|........
+.............................................................................................................................lv>>>>>vlv>>>>>vllv>>vv>>>>>vl>>>v>>>>>vlv>>>>>vllv>>vWttttttttttttttttttttttttttttttttttW>>>vl*v>>>>>vlv>>>>>v>>>lv>>>>>vv>>vllv>>>>>vlv>>>>>vl.......
+..............................................................................................................................lllllll.lllllll..lllllllllll.llllllllll.lllllll..llllW======//////======================Wllll.llllllll.llllllllll.lllllllllll..lllllll.lllllll........
+...................................................................................................................................................................................W=/////==|||||||==////===////======W.............................................................
+...................................................................................................................................................................................W======|||||||||||||=========////==W.............................................................
+...................................................................................................................................................................................W$$$$$_______________$$$$$$$$$$$$$$W.............................................................
+...................................................................................................................................................................................W$$$$_________________$$$$$$$$$$$$$W.............................................................
+....................................................................................................................................................................................WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW..............................................................

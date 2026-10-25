@@ -1,0 +1,12 @@
+{
+  "name": "tabby_persian",
+  "photo": "input/tabby_persian.webp",
+  "identity": "grumpy long-haired tabby Persian: grey-brown, dark M and back bands, white muzzle and chin, green-gold eyes",
+  "palette": {"K": "#1c1618", "A": "#625a4e", "B": "#8f8371", "C": "#c6b49a",
+              "D": "#b77a6c", "E": "#d6cbbb", "F": "#d99a9a", "G": "#e8e6df"},
+  "extra": {"d": ["#3d372f", "dark tabby stripe"], "w": ["#ece8df", "white muzzle and chin"],
+            "Y": ["#a7a046", "green-gold eye"]},
+  "shape": {"ears": 0, "fluff": 3},
+  "markings": {"white_muzzle": "w", "white_chest": "w", "white_legs": false,
+               "forehead_m": "d", "back_bars": "d", "eyes": "Y"}
+}

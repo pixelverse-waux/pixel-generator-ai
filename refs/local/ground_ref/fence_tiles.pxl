@@ -1,0 +1,325 @@
+name fence_tiles
+size 16 16
+scale 2
+layout
+t3_0 t4_0
+t0_1 t1_1 t2_1 t3_1 t4_1
+t0_2 t2_2 t3_2 t4_2
+t0_3 t1_3 t2_3 t3_3 t4_3
+palette
+K #36362c SHADOW: #36362c at 35 % alpha (89) in the source, drawn over the ground
+A #482a2a
+B #5d3731
+C #404155
+D #714438
+E #865441
+F #94614a
+G #5b6485
+H #ab7757
+I #687ca1
+J #c48e5e
+L #7294b8
+
+; src 208,0 16x16
+frame t3_0
+...AAA..........
+..AJHFA.........
+..AFFFA.........
+..AEEDA.........
+..AEEDA.........
+..AEEDA.........
+CCCCCCC.........
+LLLIIGGC........
+CCCCCCC.........
+..AEEDA.........
+..AEEDA.........
+..AEEDA.........
+.KAEDDAK........
+.KADDBAK........
+.KKAAAKK........
+..KKKKK.........
+
+; src 224,0 16x16
+frame t4_0
+...........AAA..
+..........AJHFA.
+..........AFFFA.
+..........AEEDA.
+..........AEEDA.
+..........AEEDA.
+..........CCCCCC
+.........CGGIILL
+..........CCCCCC
+..........AEEDA.
+..........AEEDA.
+..........AEEDA.
+.........KAEDDAK
+.........KADDBAK
+.........KKAAAKK
+..........KKKKK.
+
+; src 160,16 16x16
+frame t0_1
+...........AAA..
+..........AJHFA.
+..........AFFFA.
+..........AEEDA.
+..........AEEDA.
+..........AEEDA.
+..........CCCCCC
+.........CGGIILL
+.........CCAAACC
+.........CAJHFAC
+.........CAFFFAC
+.........CAEEDAC
+.........CAEEDAC
+.........CAEDDAC
+.........CADDDAC
+.........CADDDAC
+
+; src 176,16 16x16
+frame t1_1
+...AAA.....AAA..
+..AJHFA...AJHFA.
+..AFFFA...AFFFA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+CCCCCCCCCCCCCCCC
+LLLLLLLLLLLLLLLL
+CCCCCCCCCCCCCCCC
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+.KAEDDAK.KAEDDAK
+.KADDBAK.KADDBAK
+.KKAAAKK.KKAAAKK
+..KKKKK...KKKKK.
+
+; src 192,16 16x16
+frame t2_1
+...AAA..........
+..AJHFA.........
+..AFFFA.........
+..AEEDA.........
+..AEEDA.........
+..AEEDA.........
+CCCCCCC.........
+LLIIGGGC........
+CCCAAACC........
+.CAFHJAC........
+.CAFFFAC........
+.CADEEAC........
+.CADEEAC........
+.CADDEAC........
+.CADDDAC........
+.CADDDAC........
+
+; src 208,16 16x16
+frame t3_1
+...AAA.....AAA..
+..AJHFA...AJHFA.
+..AFFFA...AFFFA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+CCCCCCCCCCCCCCCC
+LLLLLLLLLLLLLLLL
+CCCCCCCCCCCCCCCC
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+.KAEDDAK.KAEDDAK
+.KADDBAK.KADDBAK
+.KKAAAKK.KKAAAKK
+..KKKKK...KKKKK.
+
+; src 224,16 16x16
+frame t4_1
+...AAA.....AAA..
+..AJHFA...AJHFA.
+..AFFFA...AFFFA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+CCCCCCCCCCCCCCCC
+LLLLLLLLLLLLLLLL
+CCCCCCCCCCCCCCCC
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+.KAEDDAK.KAEDDAK
+.KADDBAK.KADDBAK
+.KKAAAKK.KKAAAKK
+..KKKKK...KKKKK.
+
+; src 160,32 16x16
+frame t0_2
+.........CAAAAAC
+.........CAJHFAC
+.........CAFFFAC
+.........CAEEDAC
+.........CAEEDAC
+.........CAEDDAC
+.........CADDDAC
+.........CADDDAC
+.........CAAAAAC
+.........CAJHFAC
+.........CAFFFAC
+.........CAEEDAC
+.........CAEEDAC
+.........CAEDDAC
+.........CADDDAC
+.........CADDDAC
+
+; src 192,32 16x16
+frame t2_2
+.CAAAAAC........
+.CAFHJAC........
+.CAFFFAC........
+.CADEEAC........
+.CADEEAC........
+.CADDEAC........
+.CADDDAC........
+.CADDDAC........
+.CAAAAAC........
+.CAFHJAC........
+.CAFFFAC........
+.CADEEAC........
+.CADEEAC........
+.CADDEAC........
+.CADDDAC........
+.CADDDAC........
+
+; src 208,32 16x16
+frame t3_2
+...AAA.....AAA..
+..AJHFA...AJHFA.
+..AFFFA...AFFFA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..CCCCCCCCCCCCCC
+.CGGIILLLLLLLLLL
+.CCAAACCCCCCCCCC
+.CAJHFAC..AEEDA.
+.CAFFFAC..AEEDA.
+.CAEEDAC..AEEDA.
+.CAEEDAC.KAEDDAK
+.CAEDDAC.KADDBAK
+.CADDDAC.KKAAAKK
+.CADDDAC..KKKKK.
+
+; src 224,32 16x16
+frame t4_2
+...AAA.....AAA..
+..AJHFA...AJHFA.
+..AFFFA...AFFFA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+CCCCCCCCCCCCCCC.
+LLLLLLLLLLIIGGGC
+CCCCCCCCCCCAAACC
+..AEEDA..CAFHJAC
+..AEEDA..CAFFFAC
+..AEEDA..CADEEAC
+.KAEDDAK.CADEEAC
+.KADDBAK.CADDEAC
+.KKAAAKK.CADDDAC
+..KKKKK..CADDDAC
+
+; src 160,48 16x16
+frame t0_3
+.........CAAAAAC
+.........CAJHFAC
+.........CAFFFAC
+.........CAEEDAC
+.........CAEEDAC
+.........CAEEDAC
+.........CCCCCCC
+.........CGGIILL
+..........CCCCCC
+..........AEEDA.
+..........AEEDA.
+..........AEEDA.
+.........KAEDDAK
+.........KADDBAK
+.........KKAAAKK
+..........KKKKK.
+
+; src 176,48 16x16
+frame t1_3
+...AAA.....AAA..
+..AJHFA...AJHFA.
+..AFFFA...AFFFA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+CCCCCCCCCCCCCCCC
+LLLLLLLLLLLLLLLL
+CCCCCCCCCCCCCCCC
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+.KAEDDAK.KAEDDAK
+.KADDBAK.KADDBAK
+.KKAAAKK.KKAAAKK
+..KKKKK...KKKKK.
+
+; src 192,48 16x16
+frame t2_3
+.CAAAAAC........
+.CAJHFAC........
+.CAFFFAC........
+.CAEEDAC........
+.CAEEDAC........
+.CAEEDAC........
+CCCCCCCC........
+LLIIGGGC........
+CCCCCCC.........
+..AEEDA.........
+..AEEDA.........
+..AEEDA.........
+.KAEDDAK........
+.KADDBAK........
+.KKAAAKK........
+..KKKKK.........
+
+; src 208,48 16x16
+frame t3_3
+.CAAAAAC...AAA..
+.CAJHFAC..AJHFA.
+.CAFFFAC..AFFFA.
+.CAEEDAC..AEEDA.
+.CAEEDAC..AEEDA.
+.CAEEDAC..AEEDA.
+.CCCCCCCCCCCCCCC
+.CGGIILLLLLLLLLL
+..CCCCCCCCCCCCCC
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+.KAEDDAK.KAEDDAK
+.KADDBAK.KADDBAK
+.KKAAAKK.KKAAAKK
+..KKKKK...KKKKK.
+
+; src 224,48 16x16
+frame t4_3
+...AAA...CAAAAAC
+..AJHFA..CAJHFAC
+..AFFFA..CAFFFAC
+..AEEDA..CAEEDAC
+..AEEDA..CAEEDAC
+..AEEDA..CAEEDAC
+CCCCCCCCCCCCCCCC
+LLLLLLLLLLIIGGGC
+CCCCCCCCCCCCCCC.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+..AEEDA...AEEDA.
+.KAEDDAK.KAEDDAK
+.KADDBAK.KADDBAK
+.KKAAAKK.KKAAAKK
+..KKKKK...KKKKK.

@@ -1,0 +1,4 @@
+Girl RPG Sprite Sheet by josepharaoh99
+https://opengameart.org/content/girl-rpg-sprite-sheet
+License: CC0 1.0 (public domain) - http://creativecommons.org/publicdomain/zero/1.0/
+raw/Girl_Sprite_Sheet.png only (irregular grid: columns are directions, rows are frames). Not converted.

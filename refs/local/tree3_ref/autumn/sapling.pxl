@@ -1,0 +1,44 @@
+name tree3_autumn_sapling
+size 21 25
+scale 1
+layout
+autumn
+palette
+K #4d1b15 outline (darkest)
+A #3b2e32
+B #842f1f
+C #b04e2b
+D #976b44
+E #cb6934
+F #e09142
+G #ecb555
+H #f4d374
+I #fbe99a
+
+; src 349,193 21x25 on the 1x re-grid (png is exactly 4x)
+frame autumn
+........FCCCKK.......
+......FFHIHGGKK......
+.....FHIHIIIHBCC.....
+....CGHIIIIHHHEEF....
+...FGEHIIIIIHEGHHK...
+...FHHHHIIGHBHIHHFK..
+..CGHHEIIHIIIHIIHKK..
+..CHHHHHIHGHIIHHGFK..
+..FEHEIIIIHHHHEHEKKK.
+..KKKKEIEEEEHEEEEEFKC
+.FEHFEEEEKEEEEGHIIBCC
+FHHBHHKBKHIHEEIIIGKKK
+FEHHHHEKKIIIIHBIIHHCK
+.EEHIEEKGHHIIHHGBHHCK
+.KEGGGEEGEGHIEEGKEEF.
+..KCKKKEEEEEEEEKKKBK.
+...KKCKKFKFKEKFFCKK..
+....GIKKAAAAAKKK.....
+........A.A.A........
+............A........
+..........D.A........
+........A.D.A........
+.......A.DD.AAA...IG.
+........AD.AA..A.....
+......AADDA..AA......

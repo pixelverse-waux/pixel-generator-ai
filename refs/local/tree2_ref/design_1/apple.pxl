@@ -1,0 +1,96 @@
+name tree2_design_1_apple
+size 30 40
+scale 1
+layout
+design_1
+palette
+K #15341f outline (darkest)
+A #3d210e
+B #1a3f23
+C #4d291c
+D #58221b
+E #234a2c
+F #244e28
+G #423623
+H #60201e
+I #6a1f20
+J #7a2127
+L #396732
+M #604134
+N #467534
+O #6b4d41
+P #507e33
+Q #568334
+R #7a5843
+S #627d3c
+T #5c8938
+U #b92e38
+V #658f3a
+W #68943b
+X #c32e48
+Y #976a41
+Z #ab5f3f
+a #db3739
+b #729d40
+c #d7384f
+d #80a844
+e #a87c51
+f #df5550
+g #8bb248
+h #91ba4d
+i #df6855
+j #99be4c
+k #d97464
+l #bd8c6e
+m #a8cd55
+n #b5cd5c
+o #c79f79
+p #b3d758
+q #dabe6e
+r #e0c3a3
+s #e7f66d
+t #f3c1a8
+u #f9d8c1
+
+; src 112,31 30x40 on the 1x re-grid (png is ~4.9x, blurred)
+frame design_1
+............nbbbb.............
+.......ddd.mpppmbV.d..........
+......WsnpSpsppppPkiHV........
+......bsqifJsspppPkfXI........
+.....WjpitfIHsppppiiIDTTTB....
+.....mppiiiIHsspppSaH..TTE....
+....mmppnaJHpsspppmLLW...F....
+..VgpssssmmppspnZmppbWW..FE...
+.bppppssssppsspttJIppWWbPFTd..
+.bmpppssssppsmmiicIppWPufIQF..
+.bdsnkJpsssssmmaaJHjpp.ffHTFE.
+.TdpitcHmsssmmmm.LghssQfJDFF..
+bssdaaUDVsssTPmmmVghshFEFFFFF.
+bssdLaJFjjpiuXHmpgggWmdFFFFPF.
+ddddNNNjjjjiiXHmhhgLLdddFFFQF.
+BNNNNNWbjjjaaICdhhggddddbN.VVV
+.BBBPdVVVVVhL..dhgTgQQQQPP.NNB
+..FdgggVVfIhhhVdWWgffDQQPPEIKK
+.TpppmmmktXHhhdgWWVktcH...UIIK
+.TVppmmmiiXHg.dWVVLiicH..BUII.
+.TddddPNaaIDLLLFTLLUaHG..BKH..
+.TTTddNNLLLLLLLPQLLLLLL..BB...
+..BBPPPFVWVVLLLUIDLLLddP......
+....EEEBWsVVLFLtfJHLLLFFF.....
+........F.VBKDBafIHELLFKK.....
+.........EFEOCDHcJ..BBB.......
+............OOCAC.............
+............OOOMC.............
+............OoYMC.............
+............eoYMC.............
+............eoYYCA............
+............YoYYMA............
+...........eYYYYMA............
+...........eoYYYMA............
+..........YoYYMYMAA...........
+.........rlRMYMMMMMA..........
+.......eeCCCCYlMCAMMA.........
+.......RR....YlM..CMMA........
+..............rA..............
+..............e...............

@@ -1,0 +1,75 @@
+name tree3_spring_willow
+size 29 43
+scale 1
+layout
+spring
+palette
+K #27232a outline (darkest)
+A #254926
+B #403331
+C #2b542a
+D #32602e
+E #3a6e35
+F #417734
+G #664e40
+H #55903e
+I #83634c
+J #63a043
+L #6eac48
+M #9e7656
+N #86be51
+O #92c656
+P #a1d15f
+Q #aad664
+R #b5dd6c
+S #ee7eb0
+T #cbe97d
+U #d3ed82
+V #f1fcb8
+W #fdf2f8
+
+; src 698,28 29x43 on the 1x re-grid (png is exactly 4x)
+frame spring
+..............NN.............
+.............LPUJL...........
+............JUQUUUL..........
+..........LLPUUVVVUL.........
+..........LQOSPUUUUUUJ.......
+.........LLQPUWVSVVUQL.......
+........FRQJQQUUUWVSUUJ......
+........FLLJQRUUUVUVWUJ......
+.......ELDDJSPPUUUUUUUOL.....
+.......DLDLFFWQSUOUUUOPUL....
+.......DDDDOLQQQWHSUQPUVUN...
+......HOSOJNLRLLLLQWRSUVVUL..
+.....JOOUWJSPOOODDQPURWTSVTF.
+....EOOOOOOTWODDLUUUUUUPPWRF.
+....EJOOQPPOUPUUUSUUVVUUPOOE.
+....ENOSPPUUUUUUVQWUSVVUULO..
+..DJDDDWUSRQUUVVUPUUWVSPPF...
+..DDHHDOPPWUSUUVUPPPUUUWUSN..
+.DSDDDDHPTORRWQSQHHOUUUUVVWN.
+.EHWHDHHOOORJJQQWQSOUVURUVVUL
+DLJDDDHHSEOREJHALLPWQSUORUUUL
+.DJDDDDFFWNSJDHEJOOUQTWOSTUUL
+HDJDDJDDFJNDWDEDJJOURUHDOWEF.
+DDJDDJDDDNNDDJJJJLOOQOHDJDHJ.
+DDJADDDKCNUDDDHDDLDOSLUDDJJJ.
+.DDLDKCKNLTKKKDDDDDDOWLDDNL..
+..DLFCHFDUE.KGKKDDDEDLLDDOUF.
+..DSF...DUE.KGGKKDDLDQDDANUF.
+...DWE.ELUD..KGKKKKALQL.FOU..
+...JDD.FLH....KGKG.DLUF.FNH..
+...LJE.EJH....KGGG.DTUF.EUH..
+...FNE.FNH...KKGGG..UVF.EUH..
+...EE..FN....KGGMG..FUF..UH..
+...EE..FNJ...KIMM...HL..FU...
+....E...HH...KGMG....N..FU...
+........HH..KGMMG....UJ..L...
+........J...KGMGG....J.......
+........H..BGGMMG............
+...........KGGGMGG...........
+..........KGKGGMMMG..........
+.........KGKKKKGMGMM.........
+.........KGK...KGM.IM........
+.........KK.....BM...........

@@ -1,0 +1,5 @@
+RPG Character "Ranger" (Gameboy) by Chasersgaming
+https://opengameart.org/content/rpg-character-ranger-gameboy
+License: CC0 1.0 (public domain) - http://creativecommons.org/publicdomain/zero/1.0/
+raw/ = the two preview sheets (4-colour Game Boy palette, 16x24 frames). Not converted:
+useful only as an example of readable sprites with very few colours.

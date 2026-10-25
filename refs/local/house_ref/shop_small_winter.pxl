@@ -1,0 +1,246 @@
+name shop_small_winter
+size 167 153
+scale 1
+layout
+winter
+palette
+K #311d0e outline (darkest)
+A #331e0e
+B #1a4330
+C #512f16
+D #1c4832
+E #573318
+F #50391c
+G #5a3419
+H #5b3519
+I #1f513e
+J #61391a
+L #225a40
+M #4b3f33
+N #683c1c
+O #6a3d1d
+P #6c3f1d
+Q #6e401e
+R #256246
+S #6f401e
+T #266448
+U #286849
+V #774520
+W #784521
+X #296b4b
+Y #844c24
+Z #615242
+a #884e26
+b #5f564b
+c #2f7c56
+d #2e795c
+e #915428
+f #48705d
+g #338660
+h #9c5a2b
+i #9e5b2b
+j #6d6555
+k #a45f2d
+l #a55f2d
+m #a6602e
+n #916b38
+o #936c39
+p #37946e
+q #aa622e
+r #7e6b55
+s #ae642f
+t #b56932
+u #b66a32
+v #7f7564
+w #558f7b
+x #c06f34
+y #c17035
+z #c37135
+0 #c47136
+1 #c87437
+2 #4882ac
+3 #cb7538
+4 #cf7839
+5 #8e846f
+6 #948675
+7 #d97d3b
+8 #948b77
+9 #d28b39
+! #c08d4a
+$ #c38f4b
+% #6ba78b
+& #c8924d
+* #e6843e
++ #e6853f
+- #9c9180
+/ #bda451
+: #5498c9
+< #ee8a41
+= #7183c8
+> #e29e3f
+? #58a0d3
+@ #ff9345
+^ #ecac47
+_ #efb14a
+~ #67bbf7
+| #ffba61
+{ #8aa1f6
+} #c6e4e4
+[ #c4f5fa
+] #ddffff
+
+; src 1886,246 167x153
+frame winter
+.VVVVV.VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV.VVVVV.
+V77777V*********************************************************************************************************************************************************V77777V
+V77777V*********************************************************************************************************************************************************V77777V
+V77777V*****************<<<************<<<<<<<<******************<<<<<<<<************<<<******************************<<<<<***************<<<<******<<<<<*******V77777V
+V77777V<<<***********<<<*******<<<<<<<<************<<**<<<<<*************<<<<<<<<*******<<<***********<<<<<<<<*************<<<<*******<<<<***************<<<<<**V77777V
+V77377V***<<<<<<<<****************************************************************************<<<<<<<<**********************************************************V77377V
+V77377V777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777V77377V
+V77737V777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777773333333777777777777777777V77737V
+V77777V777777777773333333333777777773333333777777777777777777777777773333333777777773333333333777777777777777777777777773333337777777777777777777777777777333777V77777V
+V77777V773333333337777777777777777777777777333333337777777777333333337777777777777777777777777333333333777777777733333337777777777777777777777777777777333777777V77777V
+V77777V777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777V77777V
+V77777VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV77777V
+V77777VTTTTTTTTTTT}TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTV77777V
+V77777VggggggggggX]}ggggggggX%gggggggggX]gggggggggXggggggggggXggggggggggXggggggggggXggggggggggX%gggggggggXggggggggggXggggggggggXggggggggggX]gggggggggXgggggggggTV77777V
+V77737VggggggggggX]}ggggggggX%gggggggggX]gggggggggXggggggggggXggggggggggXggggggggggXggggggggggX%gggggggggXggggggggggXggggggggggXggggggggggX]gggggggggXgggggggggTV77737V
+V77737VggggggggggX]]}gggggggX%gggggggggX]gggggggggXggggggggggXggggggggggXggggggggggXggggggggggX%gggggggggXggggggggggXggggggggggXggggggggggX]gggggggggXgggggggggTV77737V
+V77737VggggggggggX]]]}ggggggX%gggggggggX]gggggggggXggggggggggXggggggggggXggggggggggXggggggggggX%gggggggggXggggggggggXggggggggggXggggggggggX]gggggggggXgggggggggTV77737V
+V77737VggggggggggX]]]}]gggggX%gggggggggX]gggggggggXggggggggggXggggggggggXggggggggggXggggggggggX%gggggggggXggggggggggXggggggggggXggggggggggX]gggggggggXgggggggggTV77737V
+V77737VggggggggggX]]]]}gggggX%%%%%%%%%%X]gggggggggXggggggggggXggggggggggX]]]]]]]]]]XggggggggggX%%%%%%%%%%XggggggggggXggggggggggXggggggggggX]]]]]]]]]]XgggggggggTV77737V
+V77377VXXXXXXXXXXX]]]]]}ggggXXXXXXXXXXXX]gggggggggXXXXXXXXXXXXggggggggggXXXXXXXXXXXXggggggggggXXXXXXXXXXXXggggggggggXXXXXXXXXXXXggggggggggXXXXXXXXXXXXgggggggggTV77377V
+V77377VggggggggggX]]]]]]}gggXTTTTTTTTTTX]gggggggggXggggggggggXggggggggggXTTTTTTTTTTXggggggggggX}gggggggggXggggggggggX%gggggggggXggggggggggX%gggggggggXgggggggggTV77377V
+V77377VggdgggggggX]]]]]]}gggXggggggggggX]gggggggggXgggggggdggXggggggggggXggggggggggXggggggggggX]}gggggdggXggggggggggX%gggggggggXggggggggggX%gggggggggXgggggggggTV77377V
+V77377VggdgggggggX]]]]]]]}ggXggggggggggX]gggggggggXgggggggdggXggggggggggXggggggggggXggggggggggX]}]ggggdggXggggggggggX%gggggggggXggggggggggX%gggggggggXgggggggggTV77377V
+V77377VggdgggggggX]]]]]]]]}gXggggggggggX]gggggggggXgggggggdggXggggggggggXggggggggggXggggggggggX]]}ggggdggXggggggggggX%gggggggggXggggggggggX%gggggggggXgggggggggTV77377V
+V77777VggdgggggggX]]]]]]]]}gXggggggggggX]gggggggggXgggggggdggXggggggggggXggggggggggXggggggggggX]]]}gggdggXggggggggggX%gggggggggXggggggggggX%gggggggggXgggggggggTV77777V
+V77777VggdgggggggX]]]]]]]]]}XggggggggggX]gggggggggXgggggggdggXggggggggggXggggggggggXggggggggggX]]]}gggdggXggggggggggX%gggggggggXggggggggggX%gggggggggXgggggggggTV77777V
+V77777VggdgggggggX]]]]]]]]]]XggggggggggX]]]]]]]]]]XgggLLg]]ggX]]]]]]]]]]XggggggggggX]]]]]]]]]]X]]]]}ggdggX]]]]]]]]]]X%gggggggggXggggggggggX%gggggggggXgggggggggTV77777V
+V77777VggdgggggggXXXXXXXXXXXXggggggggggXXXXXXXXXXXXggL]]L]]]gXXXXXXXXXXXXggggggggggXXXXXXXXXXXX]]]]]}gdggXXXXXXXXXXXX%gggggggggXXXXXXXXXXXX%gggggggggXXXXXXXXXXTV77777V
+V77777VggdgggggggXTTTTTTTTTTXggggggggggX%gggggggggXLL]ggXc]]]]ggggggggg%XggggggggggXTTTTTTTTTTX]]]]]]}dggXTTTTTTTTTTX%gggggggggXggggggggggX%gggggggggXTTTTTTTTTTV77777V
+V77377VggdgggggggXggggggggggXggggggggggX%gggggggggD]]gggXcc]]]]gggggggg%XggggggggggXggggggggggX]]]]]]}dggXggggggggggX%gggggggggXggggggggggX%gggggggggX]}gggggggTV77377V
+V77377VggdgggggggXggggggggggXggggggggggX%gggggggLL]gggggXccc]]]]]gggggg%XggggggggggXggggggggggX]]]]]]]}ggXggggggggggX%gggggggggXgggggggdggX%gggggggggX]]}ggggggTV77377V
+V77377VggggggggggXggggggggggXggggggggggX%ggggggL]]gggdggXccdcc]]]]]gggg%XggggggggggXggggggggggX]]]]]]]]}gXggggggggggX%gggggggggXgggggggdggX%gggggggggX]]}ggggggTV77377V
+V77377VggggggggggXggggggggggXggggggggggX%ggggLL]ggggdgggXcccdccc]]]]ggg%XggggggggggXggggggggggX]]]]]]]]}gXggggggggggX%gggggggggXgggggggdggX%gggggggggX]]]}gggggTV77377V
+V77377VggggggggggXggggggggggXggggggggggX%gggL]]gggddggggXccccddccc]]]gg%XggggggggggXggggggggggX]]]]]]]]]}XggggggggggX%gggggggggXgggggggdggX%gggggggggX]]]]}ggggTV77377V
+V77377VggggggggggXggggggggggXggggggggggX%gLL]ggggdggggggXccccccdccccXLL%XggggggggggXggggggggggX]]]]]]]]]]XggggggggggX%%%%%%%%%%XgggggggdggX%%%%%%%%%%X]]]]}]gggTV77377V
+V77377VXXXXXXXXXXXggggggggggXXXXXXXXXXXX%L]]ggggdgggggggXcccccccdccccXXfXXXXXXXXXXXXggggggggggXXXXXXXXXXXXggggggggggXXXXXXXXXXXXgggggggdggXXXXXXXXXXXX]]]]]}gggTV77377V
+V77377V%gggggggggXggggggggggXggggggggggDf]ggggddggggggggXccccccccddccccXDLgggggggggXggggggggggX%gggggggggXggggggggggX}TTTTTTTTTXgggggggdggXTTTTTTTTTTX]]]]]]}ggTV77377V
+V77377V%gggggggggXggggggggggXgggggggggL]]ggggdggggggggggXccccccccccdccccXXLggggggggXggggggggggX%gggggggggXggggggggggX]}ggggggggXgggggggdggXggggggggggX]]]]]]}ggTV77377V
+V77737V%gggggggggXggggggggggXggdggggLL]gggggggggggggggggXcccccccccccccccccXLLgggdggXggggggggggX%gggggggggXggggggggggX]}]gggggggXgggggggdggXggggggggggX]]]]]]]}gTV77737V
+V77737V%gggggggggXggggggggggXggdgggLXX]gggggggggggggggXXXXXccccccccccccccccXXLggdggXggggggggggX%gggggggggXggggggggggX]]}gggggggXgggggggdggXggggggggggX]]]]]]]]}TV77737V
+V77737V%gggggggggXggggggggggXggdgLLXgX]ggggggggggggggXggX]]XcccccccccccccccX]]LLdggXggggggggggX%gggggggggXggggggggggX]]]}ggggggXggggggggggXggggggggggX]]]]]]]]}TV77737V
+V77737V%gggggggggXggggggggggXg]]LXXggX]ggggggggggggXXgggX]c]XXcccccccccccccX]c]XIggXggggggggggX%gggggggggXggggggggggX]]]}ggggggXggggggggggXggggggggggX]]]]]]]]]}V77737V
+V77737V%gggggggggXgggggggggg]]]]XggggX]gggggggggggXgggggX]cc]]XccccccccccccX]cc]]LLXggggggggggX%gggggggggX]]]]]]]]]]X]]]]}gggggXggggggggggXggggggggggX]]]]]]]]]]V77737V
+V77737V%gggggggggXXXXXXXXXX]]]]XggdggX]gggggggggXXggggggX]cccc]XXccccccccccX]cdcc]XDXXXXXXXXXXX%gggggggggXXXXXXXXXXXX]]]]]}ggggXXXXXXXXXXXXggggggggggXXXXXXXXXXTV77737V
+V77737V%gggggggggXTTTTTTTT]]]]ggddgggX]ggggggggXggggggggX]cccccccXcccccccccX]ccddg]XBBTTTTTTTTX%gggggggggXTTTTTTTTTTX]]]]]}}gggX%gggggggggXggggggggggXgggggggggTV77737V
+V77737V%gggggggggXgggggg]]]]]ggdgggggX]ggggggXXgggggggggX]ccccccccXXcccccccX]ccccdg]]XLgggggggX%gggggggggXggggggggggX]]]]]]}gggX%gggggggggXggggggggggXgggggggggTV77737V
+V77777V%gggggggggXggggg]]]]ggddggggggX]gggggX]XgggggggggX]ccccccccXwXccccccX]cccccddg]XLLgggggX%gggggggggXggggggggggX]]]]]]]}ggX%gggggggggXggggggggggXggggggggdTV77777V
+V77777V%gggggggggXggg]]]]]ggdggggggggX]gggXX]]XgggggggggX]ccccccccXwcXXccccX]cccccccdggXXLggggX%gggggggggXggggggggggX]]]]]]]]}gX%gggggggggXggggggggggXggggggggdTV77777V
+V77777V%gggggggggXgg]]]]ggddgggggggggX]ggX]]]gXgggggggggX]ccccccccXwcccXcccX]ccccccccddggXLLggX%gggggggggXggggggggggX]]]]]]]]}gX%gggggggggXggggggggggXggggggggdTV77777V
+V77777V%gggggggggXg]]]]ggdgggggggggggX]XX]]]]gXgggggggggX]ccccccccXwccccXXcX]ccccccccccdggXXLgX%gggggggggXggggggggggX]]]]]]]]]}X%gggggggggXggggggggggXggggggggdTV77777V
+V77777V%%%%%%%%%%]]]]ggddggggggggggggXX]]]]]]gggggggggggX]cccccccccwccccccXX]cccccccccccddccXLX%%%%%%%%%%XggggggggggX]]]]]]]]]]X%gggggggggX]]]]]]]]]]XggggggggdTV77777V
+V77377VXXXXXXXXX]]]]ggdgggggggggggggX]]]]]]]ggggggggggXXXXXccccccccwcccccccXXcccccccccccccdccXDDXXXXXXXXXXggggggggggXXXXXXXXXXXX%gggggggggXXXXXXXXXXXXggggggggdTV77377V
+V77377VTTTTTTTTT]]XggggggggggggggggX]]]]]]]]ggXggggggXggXccXccccccXwcccccccccXccccccccccccccccXXBTTTTTTTTXggggggggggXTTTTTTTTTTX%gggggggggXTTTTTTTTTTXggggggggdTV77377V
+V77377VgLLggggL]]]gggggggggggggggXX]]]]]]]]gggXggggXXgggXcccXXccccXwccccccccccXXccccccccccccccccXLLgggg]]XggggggggggXggggggggggX%gggggggggXggggggggggXggggggggdTV77377V
+V77377VLRRLggLX]]]ggggggggggggggX]]]]]]]]]ggggXgggXgggggXcccccXcccXwccccccccccccXcccccccccccccccXXXLgg]LL]ggggggggggXggggggggggX%gggggggggXggggggggggXggggggggdTV77377V
+V77377VRXXRLLXgg]]ggggggggggggXX]]]]]]]]]gggggXgXXggggggXccccccXXcXwcccccccccccccXXcccccccccccccXwcX]]]XXD]]ggggggggXggggggggggX%gggggggggXggggggggggXgggggggggTV77377V
+V77377VX]]XXXggg]]gggggggggggX]]]]]]]]]gggggggXXggggggggXccccccccXXwcccccccccccccccXccccccccccccXwccXXX]]X]]]gggggggXggggggggggX%gggggggggXggggggggggXggggggggdTV77377V
+V77377VX]]X]ggggX]gggggggggXX]]]]]]]]ggggggggXXgggggggggXcccccccccXXwcccccccccccccccXXccccccccccXwccccX]]X]]]]]]]gggX]]]]]]]]]]X%%%%%%%%%%XggggggggggXgggggggggTV77377V
+V77777VX]]X]ggggg]ggggggggXX]]]]]]]]ggggggggXgggggggggggXcccccccccccXwwccccccccccccccXXccccccccccwccccX]]XpVVVVVVVVVVVVVVVVVVVVVVVVVVV]]]]]]]]VVVVVVVVVVVVVVVVVPV77777V
+V77777VX]]X]ggggg]ggggggXXgX]]]]]]]gggggggXXggggggggggggXccccccccccccXXwcccccccccccccX]XXccccccccwccccX]]Xq<<<<<<@@@@@@@@@@@@@@@@@@@@]]]]]]]]]]]@@@@@@@<<<@@@@@+V77777V
+V77777VX]]X]ggggX]gggggXgggX]]]]]]gggggggXggggggggggggggXccccccccccccccXwwcccccccccccX]ccXccccccXwccccX]]Xq@@@@@@<<<<<@@@@@@@@@@@<<<]]]]]]]]]]]]]@@<<<<@@@@@@@@+V77777V
+V77377VX]]X]ggggX]gggXXggggX]]]]]ggggggXX]ggggggggggggggXcccccccccccccccXXwccccccccccX]cccXXccccXwccccX]]Xq@@@@@@@@@@@@@@@@@<<<<<@@]]]]]]]]]]]]]]]@@@@@@@@@@@@@+V77377V
+V77377VX]]X]ggggX]ggXggggggX]]]]ggggggX]]gggggggggggggggX]]cccccccccccccccXwwccccccccX]cccccXcccXwccccX]]Xe77777777777777777777333}}}}}}}}}}}}}}}}}}}}7773333770V77377V
+V77377VX]]X]ggggX]gXgggggggX]]]gggggXX]gggggggggggggggXXXXX]cccccccccccccccXXwcccccccX]ccccccXccXwccccX]]Xa3337773333777773333377}}}}}}}}}}}}}}}}}}}}}}337777770V77377V
+V77377VX]]X]ggggXXXggggggggX]]gggggX%X]ggggggggggggggX]]XccX]]cccccccccccccXwXwwcccccX]cccccccXXXwccccX]]XpVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVPV77377V
+V77377VX]]X]ggggXggggggggggX]]gggXX%gX]ggggggggggggXX]ggXcccXX]ccccccccccccXwcXXwccccX]cccccccccXwwcccX]]XQH////////////////////////////////////////////////////V77377V
+V77377VX]]X]ggXXgggggggggggX]]ggX%%ggX]gggggggggggX]]gggXcccccX]]ccccccccccXwcccXwwccX]ccccccccccXXwccX]]XeV$||||||||||||||||||||||||||||||||||||||||||||||||||/V77377V
+V77377VX]]X]gXgggggggggggggX]]XX%ggggX]gggggggggXX]gggggXccccccXX]cccccccccXwccccXXwcX]ccccccccccccXwwX]]XeV$||||||||||||||||||||||||||||||||||||||||||||||||||/V77377V
+V77737VX]]XXXggggggggggggggX]X%%gggggX]ggggggggX]]ggggggXccccccccX]]cccccccXwccccccXwX]cccccccccccccXXX]]XeV$|||||||||||||VVVVVVVVVVVVVVVVVVVVVVV&|||||||||||||/V77737V
+V77737VX]]X]gggggggggggggggXX%gggggggX]ggggggXX]ggggggggXcccccccccXX]ccccccXwcccccccXX]cccccccccccccccX]]XeV$||||||||||||V@@@@@@@@@@@@@@@@@@@@@@@V&||||||||||||/V77737V
+V77737VX]]X]ggggggggggggggX%%ggggggggX]gggggXgX]ggggggggXcccccccccX]X]]ccccXwcccccccccX]]cccccccccccccX]]XeV$||||||||||||V7VVVVVVVVVVVVVVVVVVVVV7V&||||||||||||/V77737V
+V77737VX]]X]ggggggggggggXX%ggggggggggX]gggXXggX]ggggggggXcccccccccX]cXX]cccXwccccccccccXX]ccccccccccccX]]XeV$||||||||||||V7V??????~~V@V2?????~~V7V&||||||||||||/V77737V
+V77737VX]]X]gggggggggggX%%gggggggggggX]ggXggggX]ggggggggXcccccccccX]cccX]]cXwccccccccccccX]]ccccccccccX]]XeV$||||||||||||V7V?????~~?V@V2????~~?V7V&||||||||||||/V77737V
+V77737VX]]X]gggggggggXX%gggggggggggggX]XXgggggX]ggggggggXcccccccccX]ccccXX]XwcccccccccccccXX]cccccccccX]]XeV$||||||||||||V7V????~~??V@V2???~~??V7V&||||||||||||/V77737V
+V77737VX]]X]ggggggggX%%ggggggggggggggXXgggggggX]ggggggggXcccccccccX]ccccccXXwcccccccccccccccX]ccccccccX]]XeV$||||||||||||V7V???~~???V@V2??~~???V7V&||||||||||||/V77737V
+V77777VX]]X]gggggggX%gggggggggggggggXXggggggggX]ggggggUUXUUcccccccX]cccccccXXwcccccccccccccccX]]ccccccX]]XeV$||||||||||||V7V??~~????V@V2?~~????V7V&||||||||||||/V77777V
+V77777VX]]X]gggggXX%gggggggggggggggXggggdgggggX]gggggU]]]]]UccccccX]ccccdccccXwwccccccccccccccXX]cccccX]]XeV$||||||||||||V7V?~~?????V@V2~~?????V7V&||||||||||||/V77777V
+V77777VX]]X]ggggX]%ggggggggggggggXXgggddggggggX]gggUU]]]]]]]UUccccX]cccccddcccXXwcccccccccccccccX]]cccX]]XeV$||||||||||||V7V~~??????V@V:~??????V7V&||||||||||||/V77777V
+V77377VX]]X]ggXXX]ggggggggggggggXggggdggggggggX]ggU]]]]]X]]]]]UcccX]cccccccdccccXwwcccccccccccccXXX]ccX]]XeV$||||||||||||V7V~???????V@V:???????V7V&||||||||||||/V77377V
+V77377VX]]X]gXggX]ggggggggggggXXgggddgggggggggX]UU]]]]UU!UU]]]]UUcX]ccccccccddcccXXwccccccccccccXccX]]X]]XeV$||||||||||||V7VVVVVVVVVVVVVVVVVVVVV7V&||||||||||||/V77377V
+V77377VX]]XXXgggX]gggggggggggX]]ggdgggggggggggXU]]]]]U!!|!!U]]]]]UX]ccccccccccdccccXwwccccccccccXcccXXX]]XeV$||||||||||||V7V@@@@@@@@@@@@@@@@@@@V7V&||||||||||||/V77377V
+V77377VX]]X]ggggX]gggggggggXX]]gddgggggggggggUU]]]]UU!|||||!UU]]]]UU]ccccccccccddcccXXwcccccccccXcccccX]]XeV$||||||||||||V7VVVVVVVVVVVVVVVVVVVVV7V&||||||||||||/V77377V
+V77777VX]]X]ggggg]ggggggggXX]ggdggggggggggggU]]]]]U!!|||||||!!U]]]]]U]]ccccccccccdcccXXwwcccccccccccccX]]XeV$||||||||||||V7V======::J4J222222::V7V&||||||||||||/V77777V
+V77777VX]]X]ggggg]]gggggXXgX]gggggggggggggUU]]]]UU!|||||||||||!UU]]]]UU]cccccccccccccXwXXwccccccccccccX]]XeV$||||||||||||V7V{{{{{~~?V@V2????~~?V7V&||||||||||||/V77777V
+V77737VX]]X]ggggX]]ggggXgggX]ggggggggggggU]]]]UU!!|||||||||||||!!UU]]]]U]]cccccccccccXwccXwwccccX]ccccX]]XeV$||||||||||||V7V{{{{~~??V@V2???~~??V7V&||||||||||||/V77737V
+V77737VX]]X]ggggX]]ggXXggggX]ggggggggggUU]]]]U!!|||||||||||||||||!!U]]]]UU]ccccccccccXwcccXXwcccX]ccccX]]XeV$||||||||||||V7V{{{~~???V@V2??~~???V7V&||||||||||||/V77737V
+V77737VX]]X]ggggX]ggXggggggX]gggggggggU]]]]]U!|||||||||||||||||||||!U]]]]]UccccccccccXwcccccXwccX]ccccX]]XeV$||||||||||||V7V{{~~????V@V2?~~????V7V&||||||||||||/V77737V
+V77737VX]]X]ggggX]gXgggggggX]gggggggUU]]]]UU!|||||||||||||||||||||||!UU]]]]UUccccccccXwccccccXwwX]ccccX]]XeV$||||||||||||V7V{~~?????V@V2~~?????V7V&||||||||||||/V77737V
+V77737VX]]X]ggggX]XggggggggX]ggggggU]]]]]U!!||||]]]]]]]]]]]]]]]]|||||!!U]]]]]UcccccccXwcccccccXXX]ccccX]]XeV$||||||||||||V7V~~??????V@V:~??????V7V&||||||||||||/V77737V
+V77737VX]]X]ggggXggggggggggX]ggggUU]]]]UU!|||||]VVVVVVFVVFVVVVVV]||||||!UU]]]]UUcccccXwcccccccccX]]cccX]]XeV$||||||||||||V7V~???????V@V:???????V7V&||||||||||||/V77737V
+V77377VX]]X]ggXXgggggggggggX]gggU]]]]]U!!||||||V@@@@@@@@@@@@@@@@V!||||||!!U]]]]]UccccXwccccccccccXX]ccX]]XeV$||||||||||||V7V????????V@V2???????V7V&||||||||||||/V77377V
+V77377VX]]X]gXgggggggggggggX]gUU]]]]UU!||||||||V@@@@@@@@@@@@@@@]V!||||||||!UU]]]]UUccXwccccccccccccX]]X]]XeV$||||||||||||V7V????????V@V2???????V7V&||||||||||||/V77377V
+V77377VX]]XXXggggggggggggggX]U]]]]]U!!|||||||||V@@@@@@@@@@@@@]]]V!|||||||||!U]]]]]UccXwcccccccccccccXXX]]XeV$||||||||||||V7VVVVVVVVVVVVVVVVVVVVV7V&||||||||||||/V77377V
+V77377VX]]X]gggggggggggggggUU]]]]UU!|||||||||||V]]]]]@@@@@@@]]]]V!||||||||||!UU]]]]UUXwcccccccccccccccX]]XeV$||||||||||||V@11111]]]]]11111111111@V&||||||||||||/V77377V
+V77377VX]]X]ggggggggggggggU]]]]]U!!||||||||||||V]]]]]]]]]]]]]]]]V!|||||||||||!!U]]]]]UwwccccccccccccccX]]XeV$||||||||||||V@@@@@]]]]]]]@@@@@@@@@@@V&||||||||||||/V77377V
+V77377VX]]X]ggggggggggggUU]]]]UU!|||||||||||||||VVVVVVFVVFVVVVVV!||||||||||||||!UU]]]]UUwcccccccccccccX]]XeV$||||||||||||V@@@]]]]]]]]]]]@@@@@@@@@V&||||||||||||/V77377V
+V77777VX]]X]gggggggggggU]]]]]U!!||||||||||||||||!!!!!!!!!!!!!!!!||||||||||||||||!!U]]]]]UwwcccccccccccX]]XeV$||||||||||||V77}}}}}}}}}}}}}}}}}}777V&||||||||||||/V77777V
+V77777VX]]X]gggggggggUU]]]]UU!||||||||||||||||||||||||||||||||||||||||||||||||||||!UU]]]]UUwccccccccccX]]XeV$||||||||||||&VVVVVVVVVVVVVVVVVVVVVVV&|||||||||||||/V77777V
+V77777VX]]X]ggggggggU]]]]]U!!|||||||||||||||}}}}}}}}}}}}}}}}}}}}}}}}!||||||||||||||!!U]]]]]UwcccccccccX]]XeV$|||||||||||||&&&&&&&&&&&&&&&&&&&&&&&||||||||||||||/V77777V
+V77737VX]]X]gggggggU]]]]UU!||||||||||||||||}}}}}}}}}}}}}}}}}}}}}}}}}}!|||||||||||||||!UU]]]]UwwcccccccX]]XeV$||||||||||||||||||||||||||||||||||||||||||||||||||/V77737V
+V77737VX]]X]gggggUU]]]]U!!|||||||||||||||||]]]]]]]}]]]]]]]]][}]]SOSNC!||||||||||||||||!!U]]]]UUwccccccX]]XeV$||||||||||||||||||||||||||||||||||||||||||||||||||/V77737V
+V77737VX]]X]ggggU]]]]UU!|||||||]]]|||||||||]]]]]]]}]]]]}]]]]]}YSSOSNC!||||||||]]]|||||||!UU]]]]UwwccccX]]XeV$||||||||||||||||||||||||||||||||||||||||||||||||||/V77737V
+V77737VX]]X]ggUU]]]]U!!||||||||bbb!||||||||]][]]]]}[]]]]]]]]NCYSSSSNC!||||||||bbb!|||||||!!U]]]]UUwcccX]]XeV$||||||||||||||||||||||||||||||||||||||||||||||||||/V77737V
+V77737VU]]X]gU]]]]UU!||||||||||bbb!||||||||]]]]]]]}]]]]]]]]SNCYSOSSNC!||||||||bbb!|||||||||!UU]]]]UwwcX]]UeVHVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVHV77737V
+V77737VU]]XUU]]]]UkG!|||||||||||b!|||||||||]]]]]]]CYSSSOSSSSNCYSOSSNC!|||||||||b!||||||||||!GkU]]]]UUwX]]UeVz@@@@@@]]]]]]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@yV77737V
+V77737VU]]X]]]]UUk7V!||||||||||]b]|||||||||]]]]]]NCYSSSSSSSSNCYSOSSNC!||||||||]b]||||||||||!V7kUU]]]]XX]]UeVu<@@@]]]]]]]]]]<<<<<<<@@@@@@@@@@@@@@@@@@@@@@@@@@@<<tV77737V
+V77737VX]]X]]]Ukk77V!|||||||||]b6b]||||||||]]]]]SNCYSSSSSSOSNCYSOSSNC!|||||||]b6b]|||||||||!V77kkU]]]XX]]XeVz@@@]]]]]]]]]]]]@@@@@@<<<<<<<@@@@@@@@@@@@@@@@@@@@@@yV77737V
+V77737VX]]XUUUk7777V!||||||||]brrrb]|||||||][]]OSNCYSSSAASOSNCYSOSSNC!||||||]brrrb]||||||||!V7777kUUUpX]]XeVm77}}}}}}}}}}}}}}}}77777777777777777777777777777777lV77737V
+V77777VVXXEWiG77777V!|||||||]brrrrrb]||||||]]]SOSNCYSSSAASOSNCYSSOSNC!|||||]brrrrrb]|||||||!V77777GeQVeXXa7Vh3}}}}}}}}}}}}}}}}}}}}77777777777333333333777777777lV77777V
+V77777V.VVVHVV77777V!|||||||brrrrrrrb!|||||]]SSOSNCYSSSNNSOSNCYSSOSNC!|||||brrrrrrrb!||||||!V77777VVHV7ee77VHVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVHV77777V
+.VVVVV.......V77777V!|||||||b6666666b!|||||]YSSOSNCYSSSSSOSSNCYSSOSNC!|||||b6666666b!||||||!V77777V...VVVVV......................................................VVVVV.
+.............V77777V!|||||||b-rrrrr-b!|||||CYSSSSNCYSSSSSOSSNCYSSOSNC!|||||b-rrrrr-b!||||||!V77777V....................................................................
+.............V77777V!|||||||b-r999r-b!|||||CYSSSSNCYSSOSSOSSNCYSSSSNC!|||||b-r999r-b!||||||!V77777V....................................................................
+.............V77777V!|||||||b-r>>>r-b!|||||CYSSSSNCYSSOSSSSSNCYSSSSNC!|||||b-r>>>r-b!||||||!V77777V....................................................................
+.............V77777V!|||||||b-r^^^r-b!|||||CYSSOSNCYSSOSSSSSNCYSSSSNC!|||||b-r^^^r-b!||||||!V77777V....................................................................
+.............V77737V!|||||||b-r___r-b!|||||CYSSOSNCYSSOSSSSSNCYSSOSNC!|||||b-r___r-b!||||||!V73777V....................................................................
+.............V77737V!|||||||b-rrrrr-b!|||||CYSOSSNCYSSSOSSSSNCYSSOSNC!|||||b-rrrrr-b!||||||!V73777V....................................................................
+.............V77737V!|||||||b-------b!|||||CYSOSSNCYSSSOSSSSNCYSSOSNC!|||||b-------b!||||||!V73777V....................................................................
+.............V77777V!|||||||!bbbbbbb!||||||CYAKAANCYSSSOSSSSNCYSOSSNC!|||||!bbbbbbb!|||||||!V77777V....................................................................
+.............V77777V!||||||||!!!!!!!|||||||CYAANNNCYSSSOSSSSNCYSOSSNC!||||||!!!!!!!||||||||!V77777V....................................................................
+.............V77777V!||||||||||||||||||||||CYNNSSNCYSSSOSSSSNCYSOSSNC!|||||||||||||||||||||!V77777V....................................................................
+.............V37777V!||||||||||||||||||||||CYSSSSNCYSSSSSSSSNCYSSSSNC!|||||||||||||||||||||!V77773V....................................................................
+.............V37777V!||||||||||||||||||||||CYSSSSNCYSSSSOSSSNCYSSSSNC!|||||||||||||||||||||!V77773V....................................................................
+.............V37777V!||||||||||||||||||||||CYSSSSNCYSSSSOSSSNCYSSOSNC!|||||||||||||||||||||!V77773V....................................................................
+.............V37777V!||||||||||||||||||||||CYOSSSNCYSSSSOSSSNCYSSOSNC!|||||||||||||||||||||!V77773V....................................................................
+.............V37777V!||||||||||||||||||||||CYOSSSNCYSSSSOSSSNCYSSOSNC!|||||||||||||||||||||!V77773V....................................................................
+.............V37777V!||||||||||||||||||||||CYOSSSNCYSSSOSSSSNCYSSOSNC!|||||||||||||||||||||!V77773V....................................................................
+.............V73777V!||||||||||||||||||||||CYSOSSNCYSSSOSSSSNCYSOSSNC!|||||||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||||||||CYSOSSNCYSSSOSSSSNCYSOSSNC!|||||||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||||||||CYSOSSNCYSSSOSSSSNCYSOSSNC!|||||||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||||||||CYSSSSNCYSSSOSSSSNCYSOSSNC!|||||||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||||||||CYSSSSNCYSSSSSSSSNCYSSSSNC!|||||||||||||||||||||!V77737V....................................................................
+.............V73777V!|||||||||||||||||||||||CCCCCCCCCCCCCCCCCCCCCCCC!||||||||||||||||||||||!V77737V....................................................................
+.............V73777V!|||||||||||||||||$VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV!|||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||$V@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@V!||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||$V@@<<<<]]]@@@@@@@@<<@@@@@@@<<<<<<@@V!||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||$V@@@@]]]]]]]<<<<@@@@@<<<<<<@@@@@@@@V!||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||$V777}}}}}}}}}7777777777777777777777V!||||||||||||||||!V77737V....................................................................
+.............V73777V!||||||||||||||||$V77}}}}}}}}}}}777777777777777777777V!||||||||||||||||!V77737V....................................................................
+.............V73777V!!!||||||||||||||$VssssssssssssssssssssssssssssssssssV!||||||||||||||!!!V77737V....................................................................
+..........ZZZV73737VMZZ!|||||||||||||$V@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@V!|||||||||||||!ZZZV73737VMZZ.................................................................
+.........Z555V73737Vj55Z!!!!!!!!!!!!!oV@<<<<@@@@@@@@@<]]]]]]@<<<<@@@@@@@@Vn!!!!!!!!!!!!!Z555V73737Vj55Z................................................................
+.........Z555V73737Vj55ZVVVVVVVVVVVVVHV@@@@@<<<<<@@@@]]]]]]]]]]]@<<<<<@@@VGVVVVVVVVVVVVVZ555V73737Vj55Z................................................................
+.........Z555V77737Vj55Z@@@@@@@@@@@@@zV7777777777777}}}}}}}}}}}}}77777777Vx@@@@@@@@@@]]]Z555V73777Vj55Z................................................................
+.........Z]55V77777Vj55Z@@@]]]]@@@@@@zV777777777777}}}}}}}}}}}}}}}7777777Vx@@@@@@@@@]]]]Z555V77777Vj55Z................................................................
+.........Z]]5V77777Vj55Z<<]]]]]]]@@@@zVssssssssssssssssssssssssssssssssssVx@@@@@@@@]]]]]Z]55V77777Vj55Z................................................................
+.........Z]]]5VVVVVj555Z7}}}}}}}}}}77mV@@@@@@<<<<<<@@@@@@@@@@@@@@@@@@@@@@Vk7777777}}}}}}Z]]]jVVVVVj555Z................................................................
+.........Z]]]]555555555Z}}}}}}}}}}}}7mV@<<<<<@@]]]]]]]@@<<<<@@@<<<<@@@@@@Vk73337}}}}}}}}Z]]]]]jjjj5555Z................................................................
+.........Z]]]]]]]888888ZVVVVVVVVVVVVVHV@@@@@@]]]]]]]]]]]]]@@@@@@@@@<<<<@@VGVVVVVVVVVVVVVZ]]]]]]8888888Z................................................................
+.........Z}}}}}}}}vvvvvZ..............V77777}}}}}}}}}}}}}}}77777777777777V..............Z}}}}}}}}}vvvvZ................................................................
+.........Z}}}}}}}}}vvvvZ..............V7777}}}}}}}}}}}}}}}}}7777777777777V..............Z}}}}}}}}}}vvvZ................................................................
+.........Z}}}}}}}}}vvvvZ...............VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV...............Z}}}}}}}}}}}}vZ................................................................
+..........ZZZZZZZZZZZZZ..................................................................ZZZZZZZZZZZZZ.................................................................

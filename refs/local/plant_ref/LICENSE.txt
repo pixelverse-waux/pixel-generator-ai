@@ -1,0 +1,13 @@
+Flower & Plant Pack -- Pixel Art Flowers, Grass, Plants and Bushes (v1.0)
+License
+
+You may use this asset pack in unlimited commercial or non-commercial game
+projects, and modify the assets for use in those projects. You may not resell
+or redistribute the pack as-is (i.e. as raw or lightly modified assets) or
+repackage it as another asset pack. Attribution is not required but is
+appreciated.
+
+This pack was generated with the help of AI tools (PixelLab AI), then
+cleaned up, recolored and animated by hand and with a custom pipeline.
+
+Copyright (c) 2026 Deniz Samed Öztaş

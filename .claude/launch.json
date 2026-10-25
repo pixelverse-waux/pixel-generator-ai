@@ -1,0 +1,26 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "cat-sprites-web",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8765",
+        "-d",
+        "web"
+      ],
+      "port": 8765
+    },
+    {
+      "name": "sprites-web-alt",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": [
+        "-c",
+        "exec python3 -m http.server ${PORT:-8766} -d web"
+      ],
+      "port": 8766
+    }
+  ]
+}

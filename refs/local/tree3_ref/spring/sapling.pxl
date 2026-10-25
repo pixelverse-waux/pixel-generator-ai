@@ -1,0 +1,48 @@
+name tree3_spring_sapling
+size 21 26
+scale 1
+layout
+spring
+palette
+K #254926 outline (darkest)
+A #3b2e32
+B #3a6e35
+C #654640
+D #5d9b3e
+E #976b44
+F #72af49
+G #99cb5a
+H #bee272
+I #ee7eb0
+J #d9f092
+L #f1fcb8
+M #fdf2f8
+
+; src 349,45 21x26 on the 1x re-grid (png is exactly 4x)
+frame spring
+........GDDDKK.......
+......GGJLJHHKK......
+.....GILJLLLJBDD.....
+....DHJMLILJJJFFG....
+...GHFJLLLMLIFHJJK...
+...GJJJJLLHJBMLIJGK..
+..DHJIFLLJLLLJLLMKK..
+..DJJJMJIJHJLLJJHGK..
+..GFJFLLLMJIJJFJFKKK.
+..KKKKFLFFFFMFIFFFGKD
+.GFJIFFFFKFFFFHMLLBDD
+GJJBJMKBKJLJFFLLLHKKK
+GFJJJJFKKLILLJBLLJJDK
+.FFJLFFKHJJMLIJHBJJDK
+.KFHHHFFHFHJLFMHKFFG.
+..KDKKKFFFFFFFFKKKBK.
+...KKDKKGKGKFKGGDKK..
+....HLKKAAAAAKKK.....
+........ACACA........
+.........CCCA........
+.........CECA........
+........ACECA........
+.......ACEECAAA...LH.
+.....CCCAECAACCA.....
+......AAEEA..AA......
+........CC...........

@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Town · Pixel Sprites</title>
+<link rel="stylesheet" href="../site.css">
+<style>
+  .town-wrap { border: 1px solid var(--line); border-radius: 12px; overflow: hidden; outline: none;
+               background: #6fa552; touch-action: none; }
+  .town-wrap:focus-visible { box-shadow: 0 0 0 2px var(--accent); }
+  .town-wrap canvas { display: block; margin: 0 auto; }
+</style>
+</head>
+<body>
+<main>
+  <nav class="nav">
+    <a class="home" href="../">Pixel sprites</a>
+    <a class="tab" href="../cats/">Cats</a>
+    <a class="tab" href="../dogs/">Dogs</a>
+    <a class="tab" href="../characters/">Characters</a>
+    <a class="tab" href="../buildings/">Buildings &amp; trees</a>
+    <a class="tab" href="../town/" aria-current="page">Town</a>
+  </nav>
+  <h1>Town</h1>
+  <p class="lede">A demo ground built from the hand-drawn 16×16 tiles in <code>web/tiles/</code> (grass, dirt road,
+    cobble, fences, flowers, pebbles and leaves) with the White House, oaks, pines, golden trees, bushes, and the
+    cats and dogs wandering about. Click the map, then walk with the arrow keys or WASD: houses, fences, bushes and
+    tree trunks block you, and you pass behind anything taller. Walk up into the White House's front door to go
+    inside (furniture from <code>web/interior/</code>); the door mat takes you back out.</p>
+  <div class="town-wrap" id="wrap" tabindex="0" aria-label="Town map: walk with the arrow keys or WASD">
+    <canvas id="town"></canvas>
+  </div>
+  <div class="pad" id="pad"></div>
+  <p class="now" id="now" aria-live="polite"></p>
+</main>
+<script src="../catsprite.js"></script>
+<script src="../viewer.js"></script>
+<script>
+(function () {
+  "use strict";
+  const T = 16;
+  const PLAYER = "shaggy_shades";
+  const FEET = { x: 10, y: 27, w: 12, h: 4 };   // the player's feet in its 32x32 frame
+  const KEYS = { ArrowDown: "down", ArrowLeft: "left", ArrowRight: "right", ArrowUp: "up", s: "down", a: "left", d: "right", w: "up" };
+  const STEP = { down: [0, 1], left: [-1, 0], right: [1, 0], up: [0, -1] };
+  const DIRS = ["down", "left", "right", "up"];
+
+  // ---------------------------------------------------------------- the town
+  // . grass   d dirt   c cobble   h/v/p fence (horizontal, vertical, post) standing on grass
+  const TOWN_MAP = [
+    "............................",
+    ".................phhhhhhhhp.",
+    ".................v........v.",
+    ".................v........v.",
+    ".................v........v.",
+    ".................v........v.",
+    ".................v........v.",
+    ".................v........v.",
+    ".....cccccc......v........v.",
+    ".....cccccc......phhp..phhp.",
+    ".......dd............dd.....",
+    ".......dd............dd.....",
+    ".......dd............dd.....",
+    ".......dd............dd.....",
+    "dddddddddddddddddddddddddddd",
+    "dddddddddddddddddddddddddddd",
+    "............................",
+    "............................",
+    "............................",
+    "............................",
+  ];
+  const FENCE = { h: "fence_h", v: "fence_v", p: "fence_post" };
+  // things that stand up: top-left in map pixels (1x); pose defaults to the sprite's first one
+  const TOWN_OBJECTS = [
+    { name: "white_house", x: 16, y: 4 },
+    { name: "pine_tree", x: 242, y: 62 },
+    { name: "golden_tree", x: 320, y: 98 },
+    { name: "bush", pose: "berry", x: 284, y: 20 },
+    { name: "bush", pose: "berry", x: 380, y: 20 },
+    { name: "oak_tree", x: 30, y: 150 },
+    { name: "oak_tree", x: 196, y: 150 },
+    { name: "bush", x: 72, y: 182 },
+    { name: "bush", x: 236, y: 190 },
+    { name: "golden_tree", x: 40, y: 262 },
+    { name: "oak_tree", x: 150, y: 266 },
+    { name: "pine_tree", x: 250, y: 262 },
+    { name: "pine_tree", x: 296, y: 258 },
+    { name: "golden_tree", x: 360, y: 266 },
+    { name: "bush", x: 96, y: 280 },
+    { name: "bush", pose: "berry", x: 418, y: 282 },
+  ];
+  // flat things on the ground, drawn into the background: [sheet, frame, x, y]
+  const TOWN_DECALS = [
+    ["ground", "pebble_a", 40, 228], ["ground", "pebble_b", 150, 236], ["ground", "pebble_a", 300, 226],
+    ["ground", "pebble_b", 410, 232], ["ground", "pebble_a", 118, 178], ["ground", "pebble_b", 344, 190],
+    ["ground", "leaf_a", 258, 40], ["ground", "leaf_b", 300, 12], ["ground", "leaf_a", 210, 200],
+    ["ground", "leaf_b", 160, 270], ["ground", "leaf_b", 20, 160], ["ground", "leaf_a", 400, 70],
+    ["ground", "pebble_b", 330, 60], ["ground", "leaf_a", 420, 140],
+    ["flowers", "tulips_red", 296, 64], ["flowers", "tulips_red", 312, 72], ["flowers", "tulips_yellow", 392, 60],
+    ["flowers", "lavender", 296, 118], ["flowers", "lavender", 396, 116], ["flowers", "daisies", 350, 40],
+    ["flowers", "daisies", 64, 134], ["flowers", "tulips_red", 178, 134], ["flowers", "tall_grass", 20, 136],
+    ["flowers", "tall_grass", 200, 258], ["flowers", "tall_grass", 8, 300], ["flowers", "lavender", 330, 300],
+    ["flowers", "tall_grass", 432, 200], ["flowers", "daisies", 120, 300], ["flowers", "tulips_yellow", 232, 300],
+    ["flowers", "daisies", 250, 12], ["flowers", "tall_grass", 160, 196],
+  ];
+  // the White House front door: walking up into this strip under the steps goes inside
+  const HOUSE_DOOR = { x0: 116, x1: 140, y: 130 };
+  // where the animals start (frame top-left): cats are 32x32, dogs 48x48
+  const CAT_SPAWNS = [[10, 170], [160, 190], [280, 160], [300, 90], [60, 268], [380, 196]];
+  const DOG_SPAWNS = [[208, 186], [330, 196]];
+
+  // ---------------------------------------------------------------- inside the house
+  // T wall with trim, W wallpaper, B wall with skirting, s wall seen from above, . floor, m door mat (exit)
+  const ROOM_MAP = [
+    "sTTTTTTTTTTTTTTTTTTTTs",
+    "sWWWWWWWWWWWWWWWWWWWWs",
+    "sBBBBBBBBBBBBBBBBBBBBs",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "s....................s",
+    "ssssssssssmmssssssssss",
+  ];
+  const ROOM_TILE = { T: "wall_top", W: "wall", B: "wall_base", s: "wall_side" };
+  // furniture sits bottom-centred on 48x48 cells: placed by its centre x and the row it stands on
+  const FURNITURE = [
+    ["bed", 40, 86], ["lamp", 68, 70], ["bookshelf", 104, 60],
+    ["desk", 236, 62], ["chair_n", 236, 76], ["sofa", 300, 62],
+    ["chair_s", 176, 132], ["chair_e", 150, 150], ["table", 176, 150], ["chair_w", 202, 150], ["chair_n", 176, 168],
+    ["plant", 28, 222], ["plant", 324, 222], ["plant", 136, 64], ["lamp", 332, 70],
+  ];
+  // flat decor on 64x40 cells, also by centre x and bottom row: windows and a painting on the wall, a rug
+  const DECOR = [["window", 64, 40], ["painting", 176, 36], ["window", 288, 40], ["rug", 176, 162]];
+
+  const wrap = document.getElementById("wrap"), canvas = document.getElementById("town"), now = document.getElementById("now");
+  const ctx = canvas.getContext("2d");
+  let S = 2, walker = null, prefix = null, scene = null, fade = null;
+  const sheets = {}, sprites = {}, animals = [];
+  const me = { x: 0, y: 0, facing: "down", held: [], walking: false, since: 0, last: null };
+
+  const hash = (c, r) => ((c * 73856093) ^ (r * 19349663)) >>> 0;
+  const pose = (sprite, name) => sprite.poses[name][0];
+  const rand = (a, b) => a + Math.random() * (b - a);
+
+  function pixelsOf(sprite, index) {
+    const { frameWidth: w, frameHeight: h } = sprite.meta;
+    const c = document.createElement("canvas"); c.width = w; c.height = h;
+    const cx = c.getContext("2d"); sprite.drawFrame(cx, index, 0, 0, 1);
+    return { w, h, d: cx.getImageData(0, 0, w, h).data };
+  }
+
+  // a scene = background canvas + map of blocked pixels + things that stand up
+  function makeScene(W, H) {
+    const bg = document.createElement("canvas"); bg.width = W; bg.height = H;
+    return { W, H, bg, g: bg.getContext("2d"), solid: new Uint8Array(W * H), standing: [] };
+  }
+  // mark the opaque pixels of one frame (from row `fromRow` down) as blocked
+  function block(sc, sprite, index, ox, oy, fromRow = 0, skip = null) {
+    const { w, h, d } = pixelsOf(sprite, index);
+    for (let y = fromRow; y < h; y++) for (let x = 0; x < w; x++) {
+      const i = (y * w + x) * 4;
+      if (!d[i + 3] || (skip && skip(d[i], d[i + 1], d[i + 2]))) continue;
+      const X = ox + x, Y = oy + y;
+      if (X >= 0 && Y >= 0 && X < sc.W && Y < sc.H) sc.solid[Y * sc.W + X] = 1;
+    }
+  }
+  function stand(sc, sprite, index, x, y) {
+    sc.standing.push({ base: y + sprite.meta.frameHeight - 1, sprite, index, x, y });
+  }
+
+  function buildTown() {
+    const map = TOWN_MAP, COLS = map[0].length, ROWS = map.length;
+    const sc = makeScene(COLS * T, ROWS * T), ground = sheets.ground, g = sc.g;
+    const at = (c, r) => (c < 0 || r < 0 || c >= COLS || r >= ROWS) ? null : map[r][c];
+    const groundOf = (ch) => ch === "d" ? "dirt" : ch === "c" ? "cobble" : "grass";
+    for (let r = 0; r < ROWS; r++) for (let c = 0; c < COLS; c++) {
+      const kind = groundOf(map[r][c]);
+      ground.drawFrame(g, pose(ground, kind === "grass" ? (hash(c, r) % 9 === 0 ? "grass_1" : "grass_0") : kind), c * T, r * T, 1);
+    }
+    const isGrass = (c, r) => { const t = at(c, r); return t !== null && groundOf(t) === "grass"; };
+    for (let r = 0; r < ROWS; r++) for (let c = 0; c < COLS; c++) {
+      if (groundOf(map[r][c]) === "grass") continue;
+      if (isGrass(c, r - 1)) ground.drawFrame(g, pose(ground, "edge_n"), c * T, r * T, 1);
+      if (isGrass(c, r + 1)) ground.drawFrame(g, pose(ground, "edge_s"), c * T, r * T, 1);
+      if (isGrass(c - 1, r)) ground.drawFrame(g, pose(ground, "edge_w"), c * T, r * T, 1);
+      if (isGrass(c + 1, r)) ground.drawFrame(g, pose(ground, "edge_e"), c * T, r * T, 1);
+    }
+    for (const [sheet, name, x, y] of TOWN_DECALS) sheets[sheet].drawFrame(g, pose(sheets[sheet], name), x, y, 1);
+    const isShadow = (r, gg, b) => r === 0x4f && gg === 0x7f && b === 0x4a;
+    for (let r = 0; r < ROWS; r++) for (let c = 0; c < COLS; c++) {
+      const f = FENCE[map[r][c]];
+      if (!f) continue;
+      block(sc, sheets.fence, pose(sheets.fence, f), c * T, r * T, 0, isShadow);
+      sc.standing.push({ base: r * T + 15, sprite: sheets.fence, index: pose(sheets.fence, f), x: c * T, y: r * T });
+    }
+    for (const o of TOWN_OBJECTS) {
+      const sp = sprites[o.name], index = o.pose ? pose(sp, o.pose) : Object.values(sp.poses)[0][0];
+      block(sc, sp, index, o.x, o.y, sp.meta.footprint ? sp.meta.frameHeight - sp.meta.footprint : 0);
+      stand(sc, sp, index, o.x, o.y);
+    }
+    sc.name = "town"; sc.animals = true;
+    // walking up into the front door goes inside
+    sc.exit = () => {
+      const cx = me.x + FEET.x + FEET.w / 2, top = me.y + FEET.y;
+      if (me.facing === "up" && me.walking && cx >= HOUSE_DOOR.x0 && cx <= HOUSE_DOOR.x1 && top <= HOUSE_DOOR.y)
+        return { to: "house", x: 176 - 16, y: 212 - FEET.y, facing: "up" };
+      return null;
+    };
+    return sc;
+  }
+
+  function buildHouse() {
+    const map = ROOM_MAP, COLS = map[0].length, ROWS = map.length;
+    const sc = makeScene(COLS * T, ROWS * T), room = sheets.room, g = sc.g;
+    for (let r = 0; r < ROWS; r++) for (let c = 0; c < COLS; c++) {
+      const ch = map[r][c], wall = ROOM_TILE[ch];
+      room.drawFrame(g, pose(room, wall || (hash(c, r) % 3 ? "floor_a" : "floor_b")), c * T, r * T, 1);
+      if (ch === "m") room.drawFrame(g, pose(room, "mat"), c * T, r * T, 1);
+      if (wall) for (let y = 0; y < T; y++) sc.solid.fill(1, (r * T + y) * sc.W + c * T, (r * T + y) * sc.W + c * T + T);
+    }
+    const dec = sheets.decor, furn = sheets.furniture;
+    for (const [name, cx, base] of DECOR) dec.drawFrame(g, pose(dec, name), cx - 32, base - 40, 1);
+    for (const [name, cx, base] of FURNITURE) {
+      const index = pose(furn, name), x = cx - 24, y = base - 48;
+      block(sc, furn, index, x, y);
+      stand(sc, furn, index, x, y);
+    }
+    sc.name = "house"; sc.animals = false;
+    // stepping onto the door mat leaves the house, back in front of the steps
+    sc.exit = () => {
+      const cx = me.x + FEET.x + FEET.w / 2, bottom = me.y + FEET.y + FEET.h;
+      if (me.facing === "down" && bottom >= 14 * T + 4 && cx >= 10 * T && cx <= 12 * T)
+        return { to: "town", x: 128 - 16, y: HOUSE_DOOR.y + 4 - FEET.y, facing: "down" };
+      return null;
+    };
+    return sc;
+  }
+
+  function blocked(sc, x, y, feet) {
+    const x0 = Math.round(x + feet.x), y0 = Math.round(y + feet.y);
+    if (x0 < 0 || y0 < 0 || x0 + feet.w > sc.W || y0 + feet.h > sc.H) return true;
+    for (let yy = y0; yy < y0 + feet.h; yy++) for (let xx = x0; xx < x0 + feet.w; xx++) if (sc.solid[yy * sc.W + xx]) return true;
+    return false;
+  }
+
+  // an animal's feet: the bottom 4 rows of its standing-front frame, narrowed to the middle of the body
+  function feetOf(sprite, frame) {
+    const { w, h, d } = pixelsOf(sprite, frame);
+    let bottom = 0, minX = w, maxX = 0;
+    for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) if (d[(y * w + x) * 4 + 3]) {
+      bottom = Math.max(bottom, y); minX = Math.min(minX, x); maxX = Math.max(maxX, x);
+    }
+    const fw = Math.max(6, Math.min(16, Math.round((maxX - minX + 1) * 0.6)));
+    return { x: Math.round((minX + maxX + 1 - fw) / 2), y: bottom - 3, w: fw, h: 4 };
+  }
+  function addAnimal(sprite, kind, x, y) {
+    const pre = SpriteViewer.walkSet(sprite);
+    if (!pre) return;
+    animals.push({ sprite, kind, prefix: pre, x, y, facing: "down", mode: "idle", until: 0, since: 0,
+                   feet: feetOf(sprite, sprite.animations[`${pre}/down`].frames[0]) });
+  }
+  // wander: walk a random way for a moment, then stand, sit, sway the tail or pant
+  function thinkAnimal(sc, a, t, dt) {
+    if (t >= a.until) {
+      if (a.mode === "walk" || Math.random() < 0.35) {
+        a.mode = Math.random() < 0.3 ? "sit" : "idle";
+        if (a.mode === "sit") a.facing = "down";
+        a.until = t + rand(1500, 5000);
+      } else {
+        a.mode = "walk"; a.facing = DIRS[Math.floor(Math.random() * 4)];
+        a.until = t + rand(600, 2600);
+      }
+      a.since = t;
+    }
+    if (a.mode !== "walk") return;
+    const v = (a.kind === "dog" ? 0.045 : 0.035) * dt;
+    const nx = a.x + STEP[a.facing][0] * v, ny = a.y + STEP[a.facing][1] * v;
+    if (blocked(sc, nx, ny, a.feet)) { a.mode = "idle"; a.since = t; a.until = t + rand(300, 1200); }
+    else { a.x = nx; a.y = ny; }
+  }
+  function animalFrame(a, t) {
+    const sp = a.sprite, loop = (anim) => anim.frames[Math.floor((t - a.since) / (1000 / anim.fps)) % anim.frames.length];
+    if (a.mode === "walk") return loop(sp.animations[`${a.prefix}/${a.facing}`]);
+    if (a.mode === "sit" && sp.poses["sit/sit"]) return sp.poses["sit/sit"][0];
+    const idle = a.kind === "cat" ? sp.animations[`idle_tail/${a.facing}`] : a.facing === "down" ? sp.animations["pant/stand"] : null;
+    return idle ? loop(idle) : sp.animations[`${a.prefix}/${a.facing}`].frames[0];
+  }
+
+  function layout() {
+    if (!scene) return;
+    S = Math.max(1, Math.floor(wrap.clientWidth / scene.W));
+    canvas.width = scene.W * S; canvas.height = scene.H * S;
+    canvas.style.width = scene.W * S + "px"; canvas.style.height = scene.H * S + "px";
+  }
+  function show(name, spot) {
+    scene = SCENES[name];
+    if (spot) { me.x = spot.x; me.y = spot.y; me.facing = spot.facing; }
+    me.held = []; me.walking = false;
+    wrap.style.background = name === "house" ? "#1d1a18" : "";   // dark around the room, grass around the town
+    layout();
+    now.textContent = name === "house"
+      ? "Inside the White House: step on the door mat to go back out."
+      : `${scene.W / T}×${scene.H / T} tiles of 16 px, drawn at ${S}× · ${counts}. Walk up into the front door to go inside.`;
+  }
+
+  function walkerFrame(t) {
+    const anim = walker.animations[`${prefix}/${me.facing}`];
+    if (!me.walking) return anim.frames[0];
+    return anim.frames[Math.floor((t - me.since) / (1000 / anim.fps)) % anim.frames.length];
+  }
+
+  function draw(t) {
+    ctx.imageSmoothingEnabled = false;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(scene.bg, 0, 0, scene.W * S, scene.H * S);
+    // everything that stands up is drawn in order of where it touches the ground
+    const items = scene.standing.map((o) => ({ base: o.base, draw: () => o.sprite.drawFrame(ctx, o.index, o.x * S, o.y * S, S) }));
+    if (scene.animals) for (const a of animals) {
+      const fr = animalFrame(a, t);
+      items.push({ base: a.y + a.feet.y + a.feet.h - 1, draw: () => a.sprite.drawFrame(ctx, fr, Math.round(a.x) * S, Math.round(a.y) * S, S) });
+    }
+    if (walker) {
+      const fr = walkerFrame(t);
+      items.push({ base: me.y + FEET.y + FEET.h - 1, draw: () => walker.drawFrame(ctx, fr, Math.round(me.x) * S, Math.round(me.y) * S, S) });
+    }
+    items.sort((a, b) => a.base - b.base).forEach((i) => i.draw());
+    if (fade) {      // fade to black, swap scenes, fade back in
+      const k = Math.min(1, (t - fade.t0) / 220);
+      ctx.fillStyle = `rgba(0,0,0,${fade.out ? k : 1 - k})`;
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      if (k >= 1) {
+        if (fade.out) { show(fade.go.to, fade.go); fade = { t0: t, out: false }; }
+        else fade = null;
+      }
+    }
+  }
+
+  function tick(t) {
+    const dt = me.last === null ? 0 : Math.min(50, t - me.last);
+    me.last = t;
+    const dir = !fade && me.held[me.held.length - 1];
+    if (walker && dir) {
+      if (!me.walking || dir !== me.facing) me.since = t;
+      me.walking = true; me.facing = dir;
+      const v = 0.05 * dt;
+      const nx = me.x + STEP[dir][0] * v, ny = me.y + STEP[dir][1] * v;
+      if (!blocked(scene, nx, ny, FEET)) { me.x = nx; me.y = ny; }
+      const go = scene.exit();
+      if (go) fade = { t0: t, out: true, go };
+    } else me.walking = false;
+    for (const a of animals) thinkAnimal(SCENES.town, a, t, dt);
+    draw(t);
+    requestAnimationFrame(tick);
+  }
+
+  const hold = (d) => { if (!me.held.includes(d)) me.held.push(d); };
+  const release = (d) => { me.held = me.held.filter((x) => x !== d); };
+  wrap.addEventListener("keydown", (e) => { const d = KEYS[e.key] || KEYS[e.key.toLowerCase()]; if (d) { e.preventDefault(); hold(d); } });
+  wrap.addEventListener("keyup", (e) => { const d = KEYS[e.key] || KEYS[e.key.toLowerCase()]; if (d) release(d); });
+  wrap.addEventListener("blur", () => { me.held = []; });
+  document.getElementById("pad").append(...["left", "up", "down", "right"].map((d) => {
+    const b = document.createElement("button");
+    b.textContent = { left: "←", up: "↑", down: "↓", right: "→" }[d];
+    b.setAttribute("aria-label", `Walk ${d}`);
+    b.addEventListener("pointerdown", (e) => { e.preventDefault(); hold(d); });
+    ["pointerup", "pointerleave", "pointercancel"].forEach((ev) => b.addEventListener(ev, () => release(d)));
+    return b;
+  }));
+  addEventListener("resize", layout);
+
+  const SCENES = {};
+  let counts = "";
+  const list = (dir) => fetch(`../${dir}/index.json`, { cache: "no-cache" }).then((r) => r.ok ? r.json() : []).catch(() => []);
+  const names = [...new Set(TOWN_OBJECTS.map((o) => o.name))];
+  Promise.all([
+    Promise.all(["ground", "fence", "flowers"].map((n) => CatSprite.load(`../tiles/${n}.json`))),
+    Promise.all(["room", "furniture", "decor"].map((n) => CatSprite.load(`../interior/${n}.json`))),
+    Promise.all(names.map((n) => CatSprite.load(`../buildings/${n}.json`))),
+    // the player is shaggy_shades (falls back to the first character if it isn't exported)
+    list("characters").then((l) => l.length ? CatSprite.load(`../characters/${l.includes(PLAYER) ? PLAYER : l[0]}.json`) : null),
+    list("cats").then((l) => Promise.all(l.map((n) => CatSprite.load(`../cats/${n}.json`)))),
+    list("dogs").then((l) => Promise.all(l.map((n) => CatSprite.load(`../dogs/${n}.json`)))),
+  ]).then(([tiles, inside, objs, person, cats, dogs]) => {
+    ["ground", "fence", "flowers"].forEach((n, i) => { sheets[n] = tiles[i]; });
+    ["room", "furniture", "decor"].forEach((n, i) => { sheets[n] = inside[i]; });
+    names.forEach((n, i) => { sprites[n] = objs[i]; });
+    walker = person; prefix = walker && SpriteViewer.walkSet(walker);
+    if (!prefix) walker = null;
+    SCENES.town = buildTown(); SCENES.house = buildHouse();
+    cats.forEach((c, i) => { const s = CAT_SPAWNS[i % CAT_SPAWNS.length]; addAnimal(c, "cat", s[0], s[1]); });
+    dogs.forEach((d, i) => { const s = DOG_SPAWNS[i % DOG_SPAWNS.length]; addAnimal(d, "dog", s[0], s[1]); });
+    counts = `${cats.length} cat${cats.length === 1 ? "" : "s"}, ${dogs.length} dog${dogs.length === 1 ? "" : "s"}`;
+    show("town", { x: 8 * T - 16 + 8, y: 10 * T - FEET.y, facing: "down" });   // on the cobble, in front of the door
+    requestAnimationFrame(tick);
+  }).catch((e) => {
+    now.textContent = location.protocol === "file:" ? "Open this page through a web server, e.g. python3 -m http.server -d web"
+      : `Could not load the town: ${e.message}. Run python3 -m pixelkit.web first.`;
+  });
+})();
+</script>
+</body>
+</html>
